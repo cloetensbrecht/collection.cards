@@ -2,7 +2,7 @@
 set -e
 
 echo "Setting up assets (optional)…"
-if git submodule update --init --recursive; then
+if git submodule update --init --recursive --depth 1; then
   echo "✅ Private assets installed."
 
   # Create the symlinks
