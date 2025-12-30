@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGT5PueMc136u1nM3X6hAC4q",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Sunflora",
+  "number": 192,
+  "evolvesFrom": {
+    "_id": "36fMHuyel4yp2FcXYwpbFHMHARG",
+    "_type": "entry",
+    "_entry": "36dmGRhiGtp8Zs0ZORCEtywwEMO"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWPI3eGXIK3KaLrZO7bz6Yq",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bramblin",
+  "number": 946,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iS9GDJdGO85PW6do1szDlel7m",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQPYLqqNxT7DvLvelCnfjgQ"
+    }
+  ],
+  "blocks": []
+}

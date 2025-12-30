@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGQ3s5v8LKYxIXW4Q86RNM24",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Eelektrik",
+  "number": 603,
+  "evolvesFrom": {
+    "_id": "36iIPY4WINGSJKswWnmvajAyTBU",
+    "_type": "entry",
+    "_entry": "36dmGVI6bLK6hOMDQ0kUxid1s99"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36iIQXDVlQCttrygP0GbO7zj3jO",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVjr0vZV5SA0Nuk8p3Q85lv"
+    }
+  ],
+  "blocks": []
+}

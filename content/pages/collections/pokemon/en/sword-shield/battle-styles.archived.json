@@ -1,0 +1,35 @@
+{
+  "_id": "2zp98kKWbHTqyzIfatQGGqIenNQ",
+  "_type": "PokemonSet",
+  "_index": "ap",
+  "title": "Battle Styles",
+  "number": 87,
+  "ptcgoCode": "BST",
+  "releaseDate": "2021-03-19",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLv5FZEkiIuznCc1ojROSFPtW",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe65RCnKC7EvEN7uWVjXS6wP"
+    }
+  ],
+  "logo": {
+    "_id": "2zp9CqFocq5RG0Z24NGbNzeWctZ",
+    "_type": "image",
+    "_entry": "2zowit9poyFqKOSl6CldZ34RDiS"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Battle Styles revolutionizes the battlefield with bold new strategies and dynamic combat options. Featuring Single Strike and Rapid Strike Pokémon, this expansion introduces contrasting playstyles that reward precision, adaptability, and tactical mastery. With powerful attacks, synergistic abilities, and striking artwork, Battle Styles challenges Trainers to choose their approach, outmaneuver opponents, and seize victory with style."
+        }
+      ]
+    }
+  ]
+}

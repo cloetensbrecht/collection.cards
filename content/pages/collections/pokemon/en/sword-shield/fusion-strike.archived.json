@@ -1,0 +1,35 @@
+{
+  "_id": "2zp9YthgE6SnUvPhNqcNGkCeJI1",
+  "_type": "PokemonSet",
+  "_index": "al",
+  "title": "Fusion Strike",
+  "number": 90,
+  "ptcgoCode": "FST",
+  "releaseDate": "2021-11-12",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLpp3uCG1vKFkUYZRgET66rhw",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8t3wKxfbldP39RsIzBTxPN"
+    }
+  ],
+  "logo": {
+    "_id": "2zp9cvTCvrQPspDVIXx2C1OO5fO",
+    "_type": "image",
+    "_entry": "2zowip7UhDN7hDgU4LKRBuUtUnP"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Fusion Strike unleashes a new level of synergy and speed in the Pokémon TCG. Featuring fast, adaptable Pokémon, dynamic abilities, and combo-driven mechanics, this expansion rewards Trainers who think ahead and strike with precision. With sleek artwork, innovative gameplay, and strategies that blend power and versatility, Fusion Strike invites you to harness teamwork, execute bold plays, and dominate the battlefield."
+        }
+      ]
+    }
+  ]
+}

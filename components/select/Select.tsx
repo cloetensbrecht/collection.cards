@@ -1,0 +1,135 @@
+import {Check, ChevronDownIcon, X} from 'lucide-react'
+
+import {Button} from '@/components/ui/button'
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger
+} from '@/components/ui/dropdown-menu'
+import React, {cloneElement, createElement, isValidElement} from 'react'
+
+type SelectProps = {
+  label?: string
+  innerLabel?: string
+  nullable?: boolean
+  onSelect: (option: {label: string; value: string} | null) => void
+  options: {
+    icon?: React.FC<React.SVGProps<SVGSVGElement>>
+    label: string
+    value: string
+  }[]
+  placeholder?: string
+  selected?: string
+}
+
+export default function Select({
+  label,
+  innerLabel,
+  nullable,
+  onSelect,
+  options,
+  placeholder,
+  selected
+}: SelectProps) {
+  const selectedIcon = selected
+    ? options.find(option => option.value === selected)?.icon
+    : undefined
+
+  return (
+    <DropdownMenu>
+      <DropdownMenuTrigger asChild>
+        <div
+          className="inline-flex flex-col gap-1 items-start"
+          style={{'--radius': '8px'} as React.CSSProperties}
+        >
+          <span className="hidden text-xs whitespace-nowrap text-muted-foreground xl:inline-block">
+            {label}
+          </span>
+          <Button
+            variant="outline"
+            className="font-normal text-sm p-1.5 px-2.5 h-8"
+          >
+            {selectedIcon
+              ? createElement(selectedIcon, {
+                  'aria-hidden': 'true',
+                  className: 'opacity-60',
+                  width: 16,
+                  height: 16
+                })
+              : null}
+            {selected
+              ? options.find(option => option.value === selected)?.label
+              : placeholder || 'Select...'}
+            <ChevronDownIcon
+              aria-hidden="true"
+              className="-me-1 opacity-60"
+              size={16}
+            />
+          </Button>
+        </div>
+      </DropdownMenuTrigger>
+      {nullable && selected && (
+        <X
+          aria-hidden="true"
+          className="-me-1 opacity-60"
+          size={16}
+          onClick={() => {
+            onSelect(null)
+          }}
+        />
+      )}
+      <DropdownMenuContent
+        side="bottom"
+        align="start"
+        style={{'--radius': '8px'} as React.CSSProperties}
+      >
+        {innerLabel && (
+          <div
+            data-slot="select-label"
+            className="text-muted-foreground px-2 py-1.5 text-xs"
+          >
+            {innerLabel}
+          </div>
+        )}
+        {options.map(option => (
+          <DropdownMenuItem
+            key={option.value}
+            onSelect={() =>
+              onSelect({
+                label: option.label,
+                value: option.value
+              })
+            }
+            className="group/item"
+          >
+            {option.icon && isValidElement(<option.icon />)
+              ? cloneElement(<option.icon />, {
+                  'aria-hidden': 'true',
+                  className: 'opacity-60',
+                  size: 16,
+                  width: 16,
+                  height: 16
+                })
+              : null}
+            {option.label}
+            {selected === option.value && (
+              <>
+                <Check
+                  aria-hidden="true"
+                  className="ml-auto opacity-60 group-hover/item:hidden"
+                  size={16}
+                />
+                <X
+                  aria-hidden="true"
+                  className="ml-auto opacity-60 hidden group-hover/item:block"
+                  size={16}
+                />
+              </>
+            )}
+          </DropdownMenuItem>
+        ))}
+      </DropdownMenuContent>
+    </DropdownMenu>
+  )
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRKrWWnZVML6sPRg93oeh6b",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Buizel",
+  "number": 418,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fVGj4BISjJZwsWWjjC1ozvuYq",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSNhGgmYzezRRFPSyT83BSE"
+    }
+  ],
+  "blocks": []
+}

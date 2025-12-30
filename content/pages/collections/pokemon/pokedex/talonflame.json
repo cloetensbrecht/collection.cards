@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGV2m4gPYxQPlYGtwSmUJUyS",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Talonflame",
+  "number": 663,
+  "evolvesFrom": {
+    "_id": "36iK3IqHQF53BKrUhkITzTgycXc",
+    "_type": "entry",
+    "_entry": "36dmGQJszp1FXDeJxtQlFFYBU9A"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

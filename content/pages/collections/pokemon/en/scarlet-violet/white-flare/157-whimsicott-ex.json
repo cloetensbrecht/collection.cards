@@ -1,0 +1,50 @@
+{
+  "_id": "33R34Ln0TTpVKML0BfjUe4mGoAC",
+  "_type": "PokemonCard",
+  "_index": "b9x",
+  "title": "Whimsicott Ex",
+  "number": "157",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 230,
+  "energy": "grass",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36l7xiZcQw8I48qulX9U9AwBqmW",
+    "_type": "entry",
+    "_entry": "36dmGR8m2VofhObu2sAQ3HGNpEn"
+  },
+  "illustrator": {
+    "_id": "34EEjUy9xI31BBhd4xQ61YYTAgg",
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW"
+  },
+  "card": {
+    "_id": "33R36DEggUFyKRXIVCMldXTc3TB",
+    "_type": "image",
+    "_entry": "33Qkgbtv4ttzNxs3hGQwsa5ScSX"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "33R34HSWtFXvUdLyXbrUQUNXIc1",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "34EEpEI0pqvK4eRbUcvR2fSzwBc",
+        "_type": "image",
+        "_entry": "34BJ5mXPRdcqq2oZkwNnF9jReoM"
+      },
+      "foil": {
+        "_id": "35ZjBfZtDY4UkfYSZEHMaGObp1n",
+        "_type": "image",
+        "_entry": "35Zj79LB0Ufpwersoyko1Q1poYU"
+      }
+    }
+  ],
+  "isEx": true,
+  "isFullArt": true
+}

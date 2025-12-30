@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQj00lMsDa7ZoH8BYI6nA22",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bewear",
+  "number": 760,
+  "evolvesFrom": {
+    "_id": "36iN9zLzycAlNFYxiveUeuFzhSR",
+    "_type": "entry",
+    "_entry": "36dmGT8nA7spET7T0inLKe8lilK"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

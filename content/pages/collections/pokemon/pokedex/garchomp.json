@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGSidyuvkvrSZhbzA8tiSf7w",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Garchomp",
+  "number": 445,
+  "evolvesFrom": {
+    "_id": "36fVo9858lWxY3C6JeY8Dsc30gM",
+    "_type": "entry",
+    "_entry": "36dmGVfEjtohpOWKLJ6PBmUTbyu"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

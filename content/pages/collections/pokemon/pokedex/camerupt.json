@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGWcJmB24vqtR6xykEKXvSmn",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Camerupt",
+  "number": 323,
+  "evolvesFrom": {
+    "_id": "36fRzHEtJlGbcdhKcnxKFLVKpj3",
+    "_type": "entry",
+    "_entry": "36dmGUDJAnw8mzuIu2UK17iNhri"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUQYVx1ND7R4m8tBd3QguPZ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Spritzee",
+  "number": 682,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iKkGRmBzwGapdSH9oJU2x0Tbk",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTElOfKsLMfiKtfMB0EhbOi"
+    }
+  ],
+  "blocks": []
+}

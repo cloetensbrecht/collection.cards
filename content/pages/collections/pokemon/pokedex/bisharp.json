@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGUFfdsx3KoGZcWvUw4v7hAJ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bisharp",
+  "number": 625,
+  "evolvesFrom": {
+    "_id": "36iJ26hoW1CldQdlD63DJ8rrzzk",
+    "_type": "entry",
+    "_entry": "36dmGVAkpINyOxFYoUs3Mdovnfw"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36iJ31BTiLez4sqOML7QDoSYMOn",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWUOEw8HuxkEXsiCnfOk7dA"
+    }
+  ],
+  "blocks": []
+}

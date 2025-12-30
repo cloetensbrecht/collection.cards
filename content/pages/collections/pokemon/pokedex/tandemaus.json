@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUUbgumXcxzGfxbzsBROAyF",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Tandemaus",
+  "number": 924,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iRV4z7fK5rdgiqvOKxzvkLduz",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWuXfzMxDPXTWFYbdeFq3SG"
+    }
+  ],
+  "blocks": []
+}

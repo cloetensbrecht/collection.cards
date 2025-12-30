@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQdPoIfKG3699UjIwcbMxhp",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Teddiursa",
+  "number": 216,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fNgpCcrpwyqDLTjO2xvjaQc8d",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTodVC0mRSSwhT0yAOKhAHt"
+    }
+  ],
+  "blocks": []
+}

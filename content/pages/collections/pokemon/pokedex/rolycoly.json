@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGS73FwnUgbgnNLb1uycuWjQ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Rolycoly",
+  "number": 837,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iPKDFyrIZVr5gAHmpRsNCYe4t",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGXUt3fBfnwFGPG4bH6tCiDr"
+    }
+  ],
+  "blocks": []
+}

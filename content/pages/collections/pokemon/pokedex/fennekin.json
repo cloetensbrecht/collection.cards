@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGT1lje0jtjkx8RBpnYWi6gW",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Fennekin",
+  "number": 653,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iJi3ttnHqjreMEZa17I93Ef1C",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWvqdSfGREvIiN98V1UEbVy"
+    }
+  ],
+  "blocks": []
+}

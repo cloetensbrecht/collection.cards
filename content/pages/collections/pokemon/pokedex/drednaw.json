@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTdeYVlM6WKvXyCXplVYd1f",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Drednaw",
+  "number": 834,
+  "evolvesFrom": {
+    "_id": "36iPETr7Pxrq45V6UMVRlfCYQQU",
+    "_type": "entry",
+    "_entry": "36dmGVfto4hFGciEG2ven7peeuy"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

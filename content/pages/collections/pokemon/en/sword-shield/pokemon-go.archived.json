@@ -1,0 +1,35 @@
+{
+  "_id": "2zp9s7SbUTZSQoG4jRbX8i4HXCB",
+  "_type": "PokemonSet",
+  "_index": "ai",
+  "title": "Pokémon GO",
+  "number": null,
+  "ptcgoCode": "PGO",
+  "releaseDate": "2022-07-01",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLmrbVffDvGTYUUrsL2svNCcw",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8N0ysNaqYHZgwUiDNpzLVd"
+    }
+  ],
+  "logo": {
+    "_id": "2zp9vxsyaj79NqH9skld7pjMJjG",
+    "_type": "image",
+    "_entry": "2zowivmExLSoWJntNUc9dzjdFfR"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Pokémon GO brings the excitement of real-world adventure straight into your deck. Featuring Pokémon inspired by your favorite GO encounters, dynamic gameplay mechanics, and Trainer cards that capture the thrill of exploration and teamwork, this expansion rewards Trainers who embrace discovery and strategy alike. With vibrant artwork and cards that reflect the spirit of the Pokémon GO world, Pokémon GO invites you to catch, battle, and explore like never before."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "320U4Ou3wMSSyEpKOSanL2hdgyA",
+  "_type": "PokemonCard",
+  "_index": "bA4",
+  "title": "Zekrom Ex",
+  "number": "158",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 230,
+  "energy": "lightning",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pTcnLTOMxflMzzlLDV9AKxky7",
+    "_type": "entry",
+    "_entry": "36dmGQNrWUKnriDJIrW4i5bxkYp"
+  },
+  "illustrator": {
+    "_id": "33vwydeDZCTuoI7EFX2UQ6sb1Yp",
+    "_type": "entry",
+    "_entry": "33vV7Az7hYGpLDq7N0F87wVc5wX"
+  },
+  "card": {
+    "_id": "320U6nk90qDsVXzU9GpOFyTr15o",
+    "_type": "image",
+    "_entry": "320FBSEeZAfssMC37IGxuWU0Fpv"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "320U4P9jQR0DKm6E335n42ZAFGU",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "320U7QHlAUcBki2dD2RHB3OPGie",
+        "_type": "image",
+        "_entry": "320SiNuvs8EUAfigymgLXYVXtqC"
+      },
+      "foil": {
+        "_id": "320U82wtrrgXzhT7sXv2E57JrIX",
+        "_type": "image",
+        "_entry": "320SiIyEjilAeSljgkoDUxNx9DB"
+      }
+    }
+  ],
+  "isEx": true,
+  "isFullArt": true
+}

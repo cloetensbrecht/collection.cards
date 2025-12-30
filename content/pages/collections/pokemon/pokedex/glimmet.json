@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGXDrNUFQKGgmP73o9DK3v2Y",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Glimmet",
+  "number": 969,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iSnrQYozLuZ4pyalCLEEfdhsP",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQ2dLluilJnuCyRoF6a4DTA"
+    }
+  ],
+  "blocks": []
+}

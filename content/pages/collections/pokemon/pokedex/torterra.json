@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRl83imZYzMqrYxQyXqZNJC",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Torterra",
+  "number": 389,
+  "evolvesFrom": {
+    "_id": "36fTzYv0Z4OfNUc9TtQrAkADnox",
+    "_type": "entry",
+    "_entry": "36dmGWAa51gfQWDGIYUywG6JLus"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

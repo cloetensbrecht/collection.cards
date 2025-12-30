@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGR7H90UWoAgCE4BunU1at5h",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Shroodle",
+  "number": 944,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iS5l6uPQMkSiTYoOTfvNXepzZ",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRJzdppJH1I218ZQ4qUFJX5"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "2zpOAydi5tYr5DWhtt4OTbmphEw",
+  "_type": "PokemonSet",
+  "_index": "b1T",
+  "title": "Trick or Trade 2024",
+  "ptcgoCode": "",
+  "releaseDate": "2024-08-30",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "30t2fXFIoSVsu97nzt38YHXDuaE",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "30t2b55yOiTI4XcCHdhl3aQsBHB"
+    }
+  ],
+  "logo": {
+    "_id": "2zpOPi9DqxHS3VPSsoL1Ym233IZ",
+    "_type": "image",
+    "_entry": "2zpOLsS0mJ3IjKqUzA48u75IEae"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Trick or Trade 2024 brings the spookiest fun to the Pokémon TCG, where mischief meets strategy in a thrilling twist of Halloween magic. Featuring Ghost- and Dark-type Pokémon, eerie Trainer cards, and surprise-filled mechanics, this set rewards clever plays and cunning tactics. With hauntingly detailed artwork, festive flair, and cards that spark both trickery and reward, Trick or Trade 2024 invites you to celebrate the season of shadows—and turn every match into a treat!"
+        }
+      ]
+    }
+  ]
+}

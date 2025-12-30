@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGU63Fxy45K5uQpct0LAKDQM",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Vanillite",
+  "number": 582,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iHmsYbB820UB6rbWym7InjTjf",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTR5eiwlVh0fWR0lbCX6OHu"
+    }
+  ],
+  "blocks": []
+}

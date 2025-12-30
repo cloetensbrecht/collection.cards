@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGX9HC2SXN7Pc0yTwfEagqet",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Scraggy",
+  "number": 559,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iGrpojQWYXsLiP4yp5pDEa3r9",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSlYF3ufl6cYnwxEuXm2pYw"
+    }
+  ],
+  "blocks": []
+}

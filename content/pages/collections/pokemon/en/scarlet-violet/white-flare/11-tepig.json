@@ -1,0 +1,91 @@
+{
+  "_id": "33QlXNXyK1sOOcpGmkVVQtDhEHU",
+  "_type": "PokemonCard",
+  "_index": "b29",
+  "title": "Tepig",
+  "number": "11",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36maraMuuxqCwVk0JalAXQA2nfn",
+    "_type": "entry",
+    "_entry": "36dmGT4cfeQTPro6prbSl11NLy0"
+  },
+  "illustrator": {
+    "_id": "349r25Qm9BlaBjB1VMGfk19888Z",
+    "_type": "entry",
+    "_entry": "349r15HPSoIebKPFp8gePJa02Ns"
+  },
+  "card": {
+    "_id": "33QlYUJ2a5UjyHquZi2WXdSwIM3",
+    "_type": "image",
+    "_entry": "33OElILIMCYdGXUCeCbE0zveAVr"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "33QlXQ5t4EQr5sC8O08rYVqORuJ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    },
+    {
+      "_id": "349rL1rv4f81TUYb358ekXiglZB",
+      "_index": "a0V",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": "tinsel",
+      "mask": {
+        "_id": "35t0VT14PKXl5O2JI54sWfdAPtd",
+        "_type": "image",
+        "_entry": "35t0TRDezeOxl7Ec6esCQ1vh25L"
+      },
+      "foil": {
+        "_id": "35t0WSNZgk1wjEtjepQmT50BHg2",
+        "_type": "image",
+        "_entry": "35t0TQ4vTraEEOU3gZ5I5j7h0OQ"
+      }
+    },
+    {
+      "_id": "349r3jdPwbXMfGaKwH0rw78Lsru",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "mask": {
+        "_id": "349rBuZj5PhZTP6ZVc08bnNj7b3",
+        "_type": "image",
+        "_entry": "349rA3NSGbMA7WGl5D58GxNtbcv"
+      },
+      "foil": {
+        "_id": "349rCZsGcDFeVDRpRPLwciM0FGy",
+        "_type": "image",
+        "_entry": "349rA63WVBKjMJUUJwvbJugDAUg"
+      }
+    },
+    {
+      "_id": "349r4EJVdhZznrolYrFVKCq5WAu",
+      "_index": "a2",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": "pokeBall",
+      "mask": {},
+      "foil": {}
+    },
+    {
+      "_id": "349r4valvGv4aPjbsBn91VxChxw",
+      "_index": "a3",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": "masterBall",
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

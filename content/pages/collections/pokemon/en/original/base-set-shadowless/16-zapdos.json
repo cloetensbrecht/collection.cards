@@ -1,0 +1,36 @@
+{
+  "_id": "30oYuKRbxzkYFfeb9EybrbjrNkN",
+  "_type": "PokemonCard",
+  "_index": "b35",
+  "title": "Zapdos",
+  "number": "16",
+  "edgeColor": "#ffe78f",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "lightning",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pZz00106eT6m1NNinbacfi60W",
+    "_type": "entry",
+    "_entry": "36dmGS9CNoDs9x4YnmeIjmFA0It"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31CK47fOPiKGxcHqWwcOa3s1hTm",
+    "_type": "image",
+    "_entry": "311YcKBdL6I7H2GLOslxkaijh6E"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

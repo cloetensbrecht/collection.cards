@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQuuns2iVYDKh4RhaTayeDg",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Skeledirge",
+  "number": 911,
+  "evolvesFrom": {
+    "_id": "36iR51f6nlhJerbEr7xOiGD2EsA",
+    "_type": "entry",
+    "_entry": "36dmGS0F1RIS08iplWlapL34zG2"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

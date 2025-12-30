@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUi3fHQdrB5Bt775AhR244t",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Poltchageist",
+  "number": 1012,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iTfDco0sZiCWNwLYiJAsMdfFE",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSUHUylRe8UeULGsDHSziFQ"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWAzIWFlvT9zJZMsWiSny3J",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Tirtouga",
+  "number": 564,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iH6NqjKx1kqgfPnzqRSh3Sifk",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGXbjfyxwJSdAkTSgVryeVns"
+    }
+  ],
+  "blocks": []
+}

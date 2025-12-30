@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTBa6jipxzC102rowVgvC2c",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Armarouge",
+  "number": 936,
+  "evolvesFrom": {
+    "_id": "36iRrt9nCXzgF6O9CvtJT51paWI",
+    "_type": "entry",
+    "_entry": "36dmGT8Lpp4XWOVBw6w3ZZgXzGH"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

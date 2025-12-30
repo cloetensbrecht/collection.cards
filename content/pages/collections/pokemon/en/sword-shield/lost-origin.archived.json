@@ -1,0 +1,35 @@
+{
+  "_id": "2zp9xW1lRveCAsOimYtgw17fbD0",
+  "_type": "PokemonSet",
+  "_index": "ah",
+  "title": "Lost Origin",
+  "number": 93,
+  "ptcgoCode": "LOR",
+  "releaseDate": "2022-09-09",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLlbcXHMUoTDPPQ3sUe2etgJX",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe48UKvIFMYQBRbGBk0cZgFN"
+    }
+  ],
+  "logo": {
+    "_id": "2zpA1oDPt7DvB6GVsgDHGJeV0oC",
+    "_type": "image",
+    "_entry": "2zowivQ9kY5Yh3odwc9wopHHsrD"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Lost Origin delves into the mysteries of the Pokémon world, where hidden power and legendary forces collide. Featuring Psychic- and Dark-type Pokémon, powerful abilities, and game-changing strategies, this expansion challenges Trainers to harness the unknown and turn secrets into victory. With striking artwork, mysterious mechanics, and cards that reward cunning plays, Lost Origin invites you to uncover the past, seize the moment, and shape your destiny."
+        }
+      ]
+    }
+  ]
+}

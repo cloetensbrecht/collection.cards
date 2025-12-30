@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGX4SVMUjr93zZKWCFXJgjDG",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Lechonk",
+  "number": 915,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iRFUPIke0jkDnxxQq0YslyZJx",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVF7eOkeAFKWix2FWDx3cxm"
+    }
+  ],
+  "blocks": []
+}

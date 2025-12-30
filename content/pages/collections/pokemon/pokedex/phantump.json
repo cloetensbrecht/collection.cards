@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSOTt4GgUgnvvGwXIvqPiHh",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Phantump",
+  "number": 708,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iLRtL1uaRZCF1HhNqX7yFaR2I",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVMZNoUnihgdmDXE1mRr7GD"
+    }
+  ],
+  "blocks": []
+}

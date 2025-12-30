@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGRPnjW30v2gi4QuoZJ0j79B",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Doublade",
+  "number": 680,
+  "evolvesFrom": {
+    "_id": "36iKfjPiXNLB3pKGaVepaO7U25n",
+    "_type": "entry",
+    "_entry": "36dmGS9I1zqbHx7tpSZBooMRtuA"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36iKgZH8uA69k80IsnWJrlkp5oH",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUMWNGCfuEBDiGpcxhibGwQ"
+    }
+  ],
+  "blocks": []
+}

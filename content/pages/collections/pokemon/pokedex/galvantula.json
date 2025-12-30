@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGSV7mLEwaVx44i5ID3XQpww",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Galvantula",
+  "number": 596,
+  "evolvesFrom": {
+    "_id": "36iIBXSKEYKoopDYYbmS4lmh1br",
+    "_type": "entry",
+    "_entry": "36dmGXMcHzVPmNo1ogaWTLGaGkx"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRbLkVtD0VkDJIJO7RVRURS",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Darumaka",
+  "number": 554,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iGjxwEUkaaMfn4OXzOXJFDrDf",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWLcMJNlnBviZGK41nIm6Rj"
+    }
+  ],
+  "blocks": []
+}

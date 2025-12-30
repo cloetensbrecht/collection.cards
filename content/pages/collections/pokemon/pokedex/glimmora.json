@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQ2dLluilJnuCyRoF6a4DTA",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Glimmora",
+  "number": 970,
+  "evolvesFrom": {
+    "_id": "36iSob2A9c945JUPb3bZxvAOrYb",
+    "_type": "entry",
+    "_entry": "36dmGXDrNUFQKGgmP73o9DK3v2Y"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

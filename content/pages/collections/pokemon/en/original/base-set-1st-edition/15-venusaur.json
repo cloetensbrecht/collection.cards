@@ -1,0 +1,36 @@
+{
+  "_id": "30oYnlWzVXPS2VqhySuRORsx85U",
+  "_type": "PokemonCard",
+  "_index": "b2R",
+  "title": "Venusaur",
+  "number": "15",
+  "edgeColor": "#ffe78f",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "grass",
+  "stage": "stage2",
+  "pokemon": {
+    "_id": "36pazAisAi3nX5WClvpK1HtrmC6",
+    "_type": "entry",
+    "_entry": "36dmGRAIwdBiUk3ZHkrejyQXXaY"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30oYow8SDhKE2Lrds1AcfHacZUv",
+    "_type": "image",
+    "_entry": "30oJlDfJHj9Lp6QW3uSW2Obwfqp"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

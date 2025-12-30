@@ -1,0 +1,36 @@
+{
+  "_id": "30odwnaa2A1MCdv9XbDDf86o0Rl",
+  "_type": "PokemonCard",
+  "_index": "av",
+  "title": "Pikachu",
+  "number": "58",
+  "edgeColor": "#ffe78f",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 40,
+  "energy": "lightning",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36paSQC52qfrMMDKkSPBPUccQOm",
+    "_type": "entry",
+    "_entry": "36dmGVW8NzGuMRXGpENvaWWbwlZ"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30ody9wxdcztZn5F0vdW2HpgNum",
+    "_type": "image",
+    "_entry": "30oJl9FWxvrRtiDzXPox84ihfwM"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

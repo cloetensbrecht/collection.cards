@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSBP0nBh6xV4T9vd1QrtYfU",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Remoraid",
+  "number": 223,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fO1uqiyZbXD2S6S0xfaUAAa36",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSvhJodsV9XVzI2QzI0gHm9"
+    }
+  ],
+  "blocks": []
+}

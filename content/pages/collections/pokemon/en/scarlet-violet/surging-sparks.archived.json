@@ -1,0 +1,35 @@
+{
+  "_id": "2zpBFbzfV2XUwfUlyXax5xgUxlj",
+  "_type": "PokemonSet",
+  "_index": "aR",
+  "title": "Surging Sparks",
+  "number": 102,
+  "ptcgoCode": "SSP",
+  "releaseDate": "2024-11-08",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLVU5PK0y00smeWfiVzYejmip",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe3eM7OhFuhMeXiVLHTGwbSm"
+    }
+  ],
+  "logo": {
+    "_id": "2zpBJLc3JgkNBGBckiyC425hGf4",
+    "_type": "image",
+    "_entry": "2zowirYf9qQFSeeryZG0Ehet25M"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Surging Sparks crackles with boundless energy and electrifying intensity, charging the battlefield with Pokémon that thrive on momentum and power. Unleash lightning-fast strategies, chain-reacting abilities, and Voltage Burst mechanics that reward precision timing and dynamic play. With stunning artwork that captures the raw force of the storm, this expansion lights up the game with shockwaves of strategy and style. Feel the current rise—and let your victory surge in Surging Sparks."
+        }
+      ]
+    }
+  ]
+}

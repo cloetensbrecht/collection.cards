@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRAIwdBiUk3ZHkrejyQXXaY",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Venusaur",
+  "number": 3,
+  "evolvesFrom": {
+    "_id": "36dmn99j7qQrbhShMqUPAKcQnpg",
+    "_type": "entry",
+    "_entry": "36dmGVF10vcAVKJlLDkYPxErvfs"
+  },
+  "evolvesTo": {},
+  "blocks": []
+}

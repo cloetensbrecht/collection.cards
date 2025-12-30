@@ -1,0 +1,35 @@
+{
+  "_id": "2zpAGuPT2vcVCiuMCszYCIwlRPD",
+  "_type": "PokemonSet",
+  "_index": "ac",
+  "title": "Scarlet & Violet",
+  "number": 95,
+  "ptcgoCode": "SVI",
+  "releaseDate": "2023-03-31",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLiAwAQkTyK0xWT1IUsHnLQsH",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe6CGc3u239D4MTdbXhjNCJT"
+    }
+  ],
+  "logo": {
+    "_id": "2zpALDYfeaYuoEf7dfcKpoNKzWR",
+    "_type": "image",
+    "_entry": "2zowiuaH4mJGLsP1jkoZfMYj18x"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Scarlet & Violet ushers in a bold new era in the Pokémon Trading Card Game, introducing Trainers and Pokémon from the vibrant Paldea region. Discover exciting new Pokémon ex, powerful Trainer cards, and dynamic abilities that reflect the adventure, rivalry, and exploration at the heart of the region. With vivid artwork capturing the spirit of Paldea and gameplay mechanics that reward strategy and creativity, this set invites you to embark on your greatest journey yet. Step into the world of Scarlet & Violet—where every battle is a new story waiting to unfold."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGV4yGsyCFZFGmVpu6coW2aB",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Inteleon",
+  "number": 818,
+  "evolvesFrom": {
+    "_id": "36iOjLezXaYjE2F9Jsr6uTHaiKp",
+    "_type": "entry",
+    "_entry": "36dmGUMMw0oXrnoqTEKO1daiyNa"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

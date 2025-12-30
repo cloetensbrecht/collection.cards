@@ -1,0 +1,35 @@
+{
+  "_id": "2zpBLg5QTbDah3bZn1EL7qsWJNt",
+  "_type": "PokemonSet",
+  "_index": "aP",
+  "title": "Prismatic Evolutions",
+  "number": null,
+  "ptcgoCode": "PRE",
+  "releaseDate": "2025-01-17",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLTliNzDPy4dgX6CgTBAp3mV6",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe60xNkLRwSEFhukQyE424Q7"
+    }
+  ],
+  "logo": {
+    "_id": "2zpBQknkLiBbtjk5QAmMnuiRAGJ",
+    "_type": "image",
+    "_entry": "2zowipMGIs4mMOSwWqtwh10yaEt"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Prismatic Evolutions illuminates the next stage of the Pokémon Trading Card Game with radiant new forms and dazzling power. Witness Pokémon evolve beyond their limits, channeling the full spectrum of energy types into breathtaking attacks and abilities. Featuring multitype Evolutions, chromatic artwork that bursts with color, and synergy mechanics that reward strategic energy blending, this expansion celebrates transformation in its most brilliant form. Shine brighter than ever and unleash your Pokémon’s true colors in Prismatic Evolutions."
+        }
+      ]
+    }
+  ]
+}

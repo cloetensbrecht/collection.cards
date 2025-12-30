@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGPzbeU7xOAsfYaxYVcr0Abo",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Klink",
+  "number": 599,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iIHglkUrqc7nXVuPUhLE36YBD",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGXdfxgkdD1CCRCm8plpBPvJ"
+    }
+  ],
+  "blocks": []
+}

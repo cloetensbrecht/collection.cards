@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTXZxasCJhPMx5jkELNawGc",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Glaceon",
+  "number": 471,
+  "evolvesFrom": {
+    "_id": "36fJWYVvmmBZQUgk9O1yZvRLn08",
+    "_type": "entry",
+    "_entry": "36dmGWceOHkNLbBySnEgkN3dbRA"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVKumgCIL5JCDd5vkIDY5fk",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Makuhita",
+  "number": 296,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fR8nMhuPBOBNhA2hphKID05uv",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRiBbfcMe4dms7d0tw2aixY"
+    }
+  ],
+  "blocks": []
+}

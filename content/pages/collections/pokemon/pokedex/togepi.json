@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGR1NbCbsKxiNCUKuj0JfFWT",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Togepi",
+  "number": 175,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fLRuKhMkVkzYPDNlJqCSwDWVo",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRL91ZJIOZeqn5ogxByXRxc"
+    }
+  ],
+  "blocks": []
+}

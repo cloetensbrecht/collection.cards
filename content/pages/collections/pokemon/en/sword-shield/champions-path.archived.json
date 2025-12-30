@@ -1,0 +1,35 @@
+{
+  "_id": "2zp8mOozMKLDcJup0X22YLfAZ0T",
+  "_type": "PokemonSet",
+  "_index": "as",
+  "title": "Champion's Path",
+  "number": null,
+  "ptcgoCode": "CPA",
+  "releaseDate": "2020-09-25",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLyvdn3cmHnNHLn6EboJPn0Xt",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe2lseypAmil2QZgy8eEw7nS"
+    }
+  ],
+  "logo": {
+    "_id": "2zp8qeIwBBVURyVQnDsqX0XzXW9",
+    "_type": "image",
+    "_entry": "2zowitwWso3Rb97so77YR1HglGi"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Champion’s Path celebrates the thrill of victory and the legends of the Pokémon world. Featuring fan-favorite Pokémon, Championship-inspired Trainer cards, and powerful new mechanics, this expansion rewards Trainers who strive for mastery and strategic excellence. With striking artwork, rare Pokémon ex, and gameplay that honors the path of champions, Champion’s Path invites you to claim your place among the greatest."
+        }
+      ]
+    }
+  ]
+}

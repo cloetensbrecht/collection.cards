@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGW4sY6DiEmeSxsdORGoeG0h",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Meowscarada",
+  "number": 908,
+  "evolvesFrom": {
+    "_id": "36iQyiNTGv8jGFVqvb0xbwfsmDj",
+    "_type": "entry",
+    "_entry": "36dmGWvKQO1SyMO43H3VlpNt7fg"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

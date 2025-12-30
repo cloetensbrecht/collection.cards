@@ -1,0 +1,35 @@
+{
+  "_id": "2zpANtjwdOAF6VpRwnB3IW9C8DW",
+  "_type": "PokemonSet",
+  "_index": "ab",
+  "title": "Paldea Evolved",
+  "number": 96,
+  "ptcgoCode": "PAL",
+  "releaseDate": "2023-06-09",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLhCGSCvZ4mTDibA2pwJnLper",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8bch0j4Xp8pNLDeoAWMMXw"
+    }
+  ],
+  "logo": {
+    "_id": "2zpASPS9HNx0WX0PzeAibpzcCwx",
+    "_type": "image",
+    "_entry": "2zowio3IDfAdGawjqoozWK17IwO"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Paldea Evolved showcases the growth, ambition, and power of Pokémon from across the Paldea region as they reach new heights of strength and synergy. Experience the evolution of Sprigatito, Fuecoco, and Quaxly into their dazzling final forms, alongside powerful new Pokémon ex that embody their elemental mastery. With dynamic abilities, evolving strategies, and vibrant artwork capturing Paldea’s energy, this expansion celebrates transformation at its peak. Rise to your full potential—your journey continues in Paldea Evolved."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRDzqFOGkNU0uMfek8D94iR",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Volcarona",
+  "number": 637,
+  "evolvesFrom": {
+    "_id": "36iJNOgHqAUMd2wnLnql3Q092c4",
+    "_type": "entry",
+    "_entry": "36dmGQFPdtoPmLC87ampgQ5kFGP"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

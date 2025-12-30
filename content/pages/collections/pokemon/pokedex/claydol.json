@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGS0C7Qdi5cpQTJLw9ca5APV",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Claydol",
+  "number": 344,
+  "evolvesFrom": {
+    "_id": "36fSjbZP4Yv6M288doDKPdvm5C2",
+    "_type": "entry",
+    "_entry": "36dmGRMLzigLSJQUJ9i0fp3ASCW"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

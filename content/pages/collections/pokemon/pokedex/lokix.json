@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGR9NcVK3J5zTnTfTURTBgTT",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Lokix",
+  "number": 920,
+  "evolvesFrom": {
+    "_id": "36iRMcloNjwiFlUaxOy2pbH95BV",
+    "_type": "entry",
+    "_entry": "36dmGS4nbH6cMYwaVLZi1LYRGGl"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

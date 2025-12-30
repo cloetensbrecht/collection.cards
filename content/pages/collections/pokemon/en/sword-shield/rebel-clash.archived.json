@@ -1,0 +1,35 @@
+{
+  "_id": "2zp8ZkNOmtxtOngWQgVpwO16sIQ",
+  "_type": "PokemonSet",
+  "_index": "au",
+  "title": "Rebel Clash",
+  "number": 84,
+  "ptcgoCode": "RCL",
+  "releaseDate": "2020-05-01",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpM1FjnKYwOaLH3fu1lYQPvL2R",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe5iQXnh4kmqN3cMdCdtFY2M"
+    }
+  ],
+  "logo": {
+    "_id": "2zp8e7tbUZBG3BKcBVgT3REjhBR",
+    "_type": "image",
+    "_entry": "2zowiqb0z210Frhp238zjw4vp9f"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Rebel Clash throws the battlefield into chaos with daring Pokémon and audacious strategies. Featuring Fighting- and Darkness-type Pokémon, powerful attacks, and mechanics that reward aggressive play, this expansion challenges Trainers to defy expectations and strike with confidence. With striking artwork, game-changing Pokémon ex, and gameplay that sparks rebellion, Rebel Clash invites you to lead the charge and prove who dominates the fight."
+        }
+      ]
+    }
+  ]
+}

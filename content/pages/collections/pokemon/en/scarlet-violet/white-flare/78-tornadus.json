@@ -1,0 +1,82 @@
+{
+  "_id": "33QuoZMdDQEBOBpeqsgAjvK8hux",
+  "_type": "PokemonCard",
+  "_index": "b0F",
+  "title": "Tornadus",
+  "number": "78",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "colorless",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36mZyhZ31PNk45a80QvEaliDaNZ",
+    "_type": "entry",
+    "_entry": "36dmGRcNbKxrmlYWTLf5p2A2um4"
+  },
+  "illustrator": {
+    "_id": "34AAh1ln5DJ1JoOgkQ4boAkXDek",
+    "_type": "entry",
+    "_entry": "33va28LR7XuYuqRjPlGgMFfpA37"
+  },
+  "card": {
+    "_id": "33QupU1lzcJUCams9FOm3WExXsy",
+    "_type": "image",
+    "_entry": "33QkLgD6THuyAfZdtRoBMz2cPc3"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "33QuocBpSVswckWmQpdTYu3AkEr",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": "tinsel",
+      "mask": {
+        "_id": "35t2Q6UI3Q72ijRh5QGsiTifq3H",
+        "_type": "image",
+        "_entry": "35t2ObDsmbkYryYbLlkJrpXiSDs"
+      },
+      "foil": {
+        "_id": "35t2QgpK389F5DPnrYRnDiMHw0p",
+        "_type": "image",
+        "_entry": "35t2OZkAAGPffBugtLArpQHOKH3"
+      }
+    },
+    {
+      "_id": "34AAijN3rFavZhp9fBe93Offq2Y",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "mask": {
+        "_id": "34AAoaqstGOW0hpZpg7HhtdXzUg",
+        "_type": "image",
+        "_entry": "34AAnDEAD0To2SjNGXZITMNWVJE"
+      },
+      "foil": {
+        "_id": "34AApBAn4RRHEGUhGC4Gf83Lon1",
+        "_type": "image",
+        "_entry": "34AAnINwTJ6XVamRdSCOFoVSeng"
+      }
+    },
+    {
+      "_id": "34AAj3k6qO7i3RcPEEYQL9B03Op",
+      "_index": "a2",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": "pokeBall",
+      "mask": {},
+      "foil": {}
+    },
+    {
+      "_id": "34AAjScbzypBvFSHbSSgh50tzg4",
+      "_index": "a3",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": "masterBall",
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRCsYtmvxdHEPmWi6wmwS1w",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Seel",
+  "number": 86,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36e2ZJG7eddRktAQPpd4yu50e94",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQSHQrV2kEOWkNE2dTwwdxW"
+    }
+  ],
+  "blocks": []
+}

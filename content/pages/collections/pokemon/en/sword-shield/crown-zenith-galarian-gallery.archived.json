@@ -1,0 +1,34 @@
+{
+  "_id": "30t7pe6bWouJz6BfiDVrfRHgoLr",
+  "_type": "PokemonSet",
+  "_index": "aB",
+  "title": "Crown Zenith Galarian Gallery",
+  "ptcgoCode": "CRZ",
+  "releaseDate": "2023-01-20",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "30t7vULWS58AUHjThqHV5krAoRK",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8O6Z8Cgj3kd3ZsZEqKPxkI"
+    }
+  ],
+  "logo": {
+    "_id": "30t86RwEMxrRu98vQni8OxELMN6",
+    "_type": "image",
+    "_entry": "30t83Ck9P5iyV9lWAkCEtcyXH4Q"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Crown Zenith: Galarian Gallery celebrates the iconic Pokémon of the Galar region in dazzling style. Featuring rare Galarian forms, stunning full-art cards, and powerful abilities that highlight regional evolution and strategy, this gallery set is a treasure trove for collectors and competitive players alike. Showcase your favorite Galarian Pokémon, master their unique tactics, and add a touch of prestige to your deck with Crown Zenith: Galarian Gallery."
+        }
+      ]
+    }
+  ]
+}

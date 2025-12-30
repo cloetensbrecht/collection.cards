@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTG2psFfXoUMaUQUK2Grebx",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Shinx",
+  "number": 403,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fUkeah05I56mx2sEmta3kqcQz",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQSq4x4RXYwIj1KBIlFKt55"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "30qBSXB2lrCr4EknxO5idrE7ugj",
+  "_type": "PokemonCard",
+  "_index": "b3s",
+  "title": "Pidgeot",
+  "number": "24",
+  "edgeColor": "#ffe78f",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "colorless",
+  "stage": "stage2",
+  "pokemon": {
+    "_id": "36pXQTkWD5n6G7vPBMPXLn2g4DX",
+    "_type": "entry",
+    "_entry": "36dmGT2966Jh9uyuQYbW3NIdVYp"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30qBVOLi8Y2OSnNiPadQdEjr7aR",
+    "_type": "image",
+    "_entry": "30q9BzzCsWnNBG1bfIBmD6bFHCQ"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "31QfOkUgYWat7U4oXfs6zsEN1bn",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

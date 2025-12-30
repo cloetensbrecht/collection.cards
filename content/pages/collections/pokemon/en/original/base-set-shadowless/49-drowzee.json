@@ -1,0 +1,36 @@
+{
+  "_id": "30ocdNpKCS5fTxKbPNb1wf7dNvZ",
+  "_type": "PokemonCard",
+  "_index": "b5m",
+  "title": "Drowzee",
+  "number": "49",
+  "edgeColor": "#ffe78f",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 50,
+  "energy": "psychic",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pZVDZy6hqLx1DXiZOeykImivg",
+    "_type": "entry",
+    "_entry": "36dmGTv6NOs1w9DQ3QCjbLpxLW3"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31CJ20vr8XkmHmxT11KgAASdTPP",
+    "_type": "image",
+    "_entry": "31A25CwQGDtmwSCj1Dk5IyQ1NV1"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

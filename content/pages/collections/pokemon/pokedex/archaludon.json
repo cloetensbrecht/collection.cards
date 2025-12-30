@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGW3ss9cLKtk5hM0Ilc8yeGv",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Archaludon",
+  "number": 1018,
+  "evolvesFrom": {
+    "_id": "36iQXJVUoiBu4FJmP89ow3gnWUL",
+    "_type": "entry",
+    "_entry": "36dmGRqwxV9MdpTxd8GNZjMd42D"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

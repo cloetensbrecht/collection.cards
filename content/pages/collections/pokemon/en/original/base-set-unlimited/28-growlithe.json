@@ -1,0 +1,36 @@
+{
+  "_id": "31XYKttYf9XJxglSeCtmT2PdDUf",
+  "_type": "PokemonCard",
+  "_index": "aR",
+  "title": "Growlithe",
+  "number": "28",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "fire",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pYasWKwGcCxvLk4ImK8ecclpc",
+    "_type": "entry",
+    "_entry": "36dmGQWrnIGtkvjFMD0m5ufwu0M"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31XYMXCbVCIsBtAh9FVIP4N6YrC",
+    "_type": "image",
+    "_entry": "31XYGK3cwZT9ir6mtGfpeyeCmt3"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

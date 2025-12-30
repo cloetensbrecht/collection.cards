@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGVk8W8cr0wzA09jO7PzwN0d",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Barbaracle",
+  "number": 689,
+  "evolvesFrom": {
+    "_id": "36iKvEws81YoSZp5XWnlhIzG2mJ",
+    "_type": "entry",
+    "_entry": "36dmGQjOu2CCAPGiVkBFSddnsr3"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

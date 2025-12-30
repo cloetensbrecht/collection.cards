@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQYLS2HqikoC7vit2aH8jvL",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Kricketune",
+  "number": 402,
+  "evolvesFrom": {
+    "_id": "36fUUwLQEOXXLSZ6y2dw7EhKlpK",
+    "_type": "entry",
+    "_entry": "36dmGVyEJ4Sp1mTVuquW9OaTLNV"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

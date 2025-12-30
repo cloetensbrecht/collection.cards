@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTaHXkp4kChembZ8TO1pIIq",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Slowking",
+  "number": 199,
+  "evolvesFrom": {
+    "_id": "36e29gGOOix5FFyiwItwCaXDgkB",
+    "_type": "entry",
+    "_entry": "36dmGWkdUMiDpZOoyeoRvz4GJDP"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

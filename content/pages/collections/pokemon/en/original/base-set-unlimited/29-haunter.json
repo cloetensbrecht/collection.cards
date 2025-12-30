@@ -1,0 +1,36 @@
+{
+  "_id": "31XYlZbnZQbOGenK0SUCybc4SlT",
+  "_type": "PokemonCard",
+  "_index": "aS",
+  "title": "Haunter",
+  "number": "29",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "psychic",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36pYaCHp0hdIW5BcL3f49RluYk5",
+    "_type": "entry",
+    "_entry": "36dmGWJyQsyMmmKH8jMpGkueBIm"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31XYn9RBF5Zx0iI0KWL380efUQn",
+    "_type": "image",
+    "_entry": "31XYjD2Xqm3EymYAgE9VFC0hlb1"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

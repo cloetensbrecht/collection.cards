@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGX288BfYHutIF5LnBay0nCM",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Grimer",
+  "number": 88,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36e2d6oLhXs6FAzXAWukGETuMUV",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUvL28MTUu3NG8KYjo1tpsG"
+    }
+  ],
+  "blocks": []
+}

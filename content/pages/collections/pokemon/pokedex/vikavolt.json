@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGWz67WoLgXfPNT5TyEV4B8H",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Vikavolt",
+  "number": 738,
+  "evolvesFrom": {
+    "_id": "36iMDwEb8dRJKJeeObDpC38pj4L",
+    "_type": "entry",
+    "_entry": "36dmGVYIVVtMvQlCWAxnIH2JWGe"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

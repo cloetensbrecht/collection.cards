@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRe758wj6Obf3frHPC4FkPP",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Weedle",
+  "number": 13,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36dq28Fp07qRWof2SJ0B3pMJRPK",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTBwrCMTHK14iAbutQ60n0c"
+    }
+  ],
+  "blocks": []
+}

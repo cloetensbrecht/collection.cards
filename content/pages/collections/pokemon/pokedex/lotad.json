@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUnt61PkGDYqOWijQFqBHCR",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Lotad",
+  "number": 270,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fPn3zCWfrxIWVrhAKzh3OuHKv",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQCxUMrYtAPEep4zWkd5qv3"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGWQ7KtMa5n0brSGO8VA5j6c",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Mabosstiff",
+  "number": 943,
+  "evolvesFrom": {
+    "_id": "36iS2FxzjpK9UZZ6NrDL0zchyBg",
+    "_type": "entry",
+    "_entry": "36dmGSXgdmx0GCsjRqC1PVPPrK6"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

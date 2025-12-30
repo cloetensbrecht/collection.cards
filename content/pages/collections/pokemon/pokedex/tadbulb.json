@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGT25aoEoa61qpyyr7ck6IcJ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Tadbulb",
+  "number": 938,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iRvGVylveCPWAzFBqzIimctKi",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWVlot0GUflTiL0YuW5Jmar"
+    }
+  ],
+  "blocks": []
+}

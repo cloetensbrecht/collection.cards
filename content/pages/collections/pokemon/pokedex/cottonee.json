@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWJhniaC8xKYrbu4fC7h0j6",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Cottonee",
+  "number": 546,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iGSKifiO7F4wnVuUtPVugib18",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGR8m2VofhObu2sAQ3HGNpEn"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGSb0bxSm5alQaV1J6Y4Z1qm",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gourgeist",
+  "number": 711,
+  "evolvesFrom": {
+    "_id": "36iLWGQ1x7Zf0ad7gdAoqVtcRC3",
+    "_type": "entry",
+    "_entry": "36dmGVOvDfJoE4L0nXAQRyIuLjZ"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

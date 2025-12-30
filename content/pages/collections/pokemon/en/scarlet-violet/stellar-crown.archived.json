@@ -1,0 +1,35 @@
+{
+  "_id": "2zpB9ab9GbR7fBVCQZsGCHJ3dfb",
+  "_type": "PokemonSet",
+  "_index": "aS",
+  "title": "Stellar Crown",
+  "number": 101,
+  "ptcgoCode": "SCR",
+  "releaseDate": "2024-09-13",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLWSdnMuiWoJyQ8Rly1W53wYj",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe5tB9zQTgLCsipvKHZLzEV1"
+    }
+  ],
+  "logo": {
+    "_id": "2zpBDZNCKUPmDTDajQOSUV9cJWI",
+    "_type": "image",
+    "_entry": "2zowipXt30wG114WNxcLW0KEHDb"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Stellar Crown ascends to the cosmic heights of the Pokémon world, where legends are written among the stars. Harness the celestial power of Pokémon that shine with starlight, featuring Astral Evolution mechanics, cosmic-type synergy, and abilities that bend the battlefield to your will. With radiant artwork and strategies that reward precision, timing, and mastery, this expansion invites you to rise above the ordinary and claim your destiny among the constellations. Rule the skies—your legend awaits in Stellar Crown."
+        }
+      ]
+    }
+  ]
+}

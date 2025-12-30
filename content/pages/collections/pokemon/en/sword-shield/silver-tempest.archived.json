@@ -1,0 +1,35 @@
+{
+  "_id": "2zpA3EUuo739Ku0Q49Gv8CkXz9Y",
+  "_type": "PokemonSet",
+  "_index": "ag",
+  "title": "Silver Tempest",
+  "number": 94,
+  "ptcgoCode": "SIT",
+  "releaseDate": "2022-11-11",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLkifm2a9oDpQ0iHJwqsTd1CS",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8R9qb50N4uFc6DmI706Uto"
+    }
+  ],
+  "logo": {
+    "_id": "2zpA7hcpGdOULR5TX9DbDkDtZIV",
+    "_type": "image",
+    "_entry": "2zowis97IwpzAVxmpik6ppqVVwA"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Silver Tempest unleashes the fury of legendary Pokémon and powerful strategies in a storm of competition. Featuring awe-inspiring Pokémon ex, dynamic attacks, and game-changing abilities, this expansion challenges Trainers to master their decks and strike with precision. With striking artwork, tactical depth, and electrifying gameplay, Silver Tempest delivers a whirlwind of excitement where only the strongest emerge victorious."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRCIHDBOf6sN5lls8FLXY2A",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Lanturn",
+  "number": 171,
+  "evolvesFrom": {
+    "_id": "36fLIxopbPtUUj6zRbznfZuEJkm",
+    "_type": "entry",
+    "_entry": "36dmGT6cQu1Eaz77ilHGEYfOkQO"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

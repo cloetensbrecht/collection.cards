@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGT2yYRSHqtfEftf62IIxFpT",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Seedot",
+  "number": 273,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fPzcJGO23KPHCLPU7mUeZiM5a",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQawD2j2fhgWDoOVOuLGjOG"
+    }
+  ],
+  "blocks": []
+}

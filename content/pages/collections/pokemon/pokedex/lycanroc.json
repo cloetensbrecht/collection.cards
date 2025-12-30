@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTBaOatOQjXgRxuu7GcFn03",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Lycanroc",
+  "number": 745,
+  "evolvesFrom": {
+    "_id": "36iMPQePKVSBXkmrVNTd2GYHDaP",
+    "_type": "entry",
+    "_entry": "36dmGR2d6RG6LWW44qnJHJDRfiL"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

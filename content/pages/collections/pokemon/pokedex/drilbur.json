@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRz6BOpHZ2wZLm9sUoBRbEj",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Drilbur",
+  "number": 529,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iFtovIEiDyIgYHmyXd2tZRZzW",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUZdJL68TmCCNmUu8MLzuKU"
+    }
+  ],
+  "blocks": []
+}

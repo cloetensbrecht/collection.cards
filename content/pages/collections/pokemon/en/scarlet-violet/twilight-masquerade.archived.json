@@ -1,0 +1,35 @@
+{
+  "_id": "2zpAynM3fxjxLWswkXDlID5gukg",
+  "_type": "PokemonSet",
+  "_index": "aU",
+  "title": "Twilight Masquerade",
+  "number": 100,
+  "ptcgoCode": "TWM",
+  "releaseDate": "2024-05-24",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLYPim3wpetulPD0v2iSLS8GC",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe2DmYaGH7x204KlIbhjRpfa"
+    }
+  ],
+  "logo": {
+    "_id": "2zpB2H3wtFrDa3C2ee2URkQQFRW",
+    "_type": "image",
+    "_entry": "2zowisyN6YsXBnlHDTBHoTtqyuQ"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Twilight Masquerade invites you to step into a world of mystery, magic, and celebration beneath the fading light. Behind every mask lies hidden power—Pokémon that dance between illusion and truth, wielding abilities that shift the flow of battle in dazzling ways. With dual-type mechanics, disguise-based strategies, and enchanting artwork inspired by festival nights, this expansion captures the beauty and danger of secrets revealed. When the music fades and the masks fall, will your true strength shine through in Twilight Masquerade?"
+        }
+      ]
+    }
+  ]
+}

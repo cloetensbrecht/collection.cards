@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTFd0ldFVwbjF25YZdXmTkf",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Toedscool",
+  "number": 948,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iSDanZtSNt53kLBq6EEly8JNF",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTMGsllZzPEyCgVEgVWB1SK"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGUCYacSu0nK7VGbKOIoJGjK",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gliscor",
+  "number": 472,
+  "evolvesFrom": {
+    "_id": "36fMzO9CyMGo8OJ2azClRccyhCD",
+    "_type": "entry",
+    "_entry": "36dmGVsedhqUKlwf6GYmXlOcP0k"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

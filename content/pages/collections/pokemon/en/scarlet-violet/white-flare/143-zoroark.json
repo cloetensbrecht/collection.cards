@@ -1,0 +1,49 @@
+{
+  "_id": "33R1fKvTqv6DqEOVGA4lXoikblH",
+  "_type": "PokemonCard",
+  "_index": "b9K",
+  "title": "Zoroark",
+  "number": "143",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "darkness",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36l8CnskQju3awF8HGJU5QdMCl7",
+    "_type": "entry",
+    "_entry": "36dmGWMQ9l5WZ9cBdTKAh2yPgI9"
+  },
+  "illustrator": {
+    "_id": "34EDiax5eSgxPhxHaTZ9sOHQCXl",
+    "_type": "entry",
+    "_entry": "34EDhpyeXglPH9OJ6Uij5G10Wft"
+  },
+  "card": {
+    "_id": "33R1gNHcSyXEFR0zxesfRjECc8h",
+    "_type": "image",
+    "_entry": "33Qkgdk9ZDcJJXOaFeWAWiOr9cl"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "33R1fNep6kCy0NFaxfpENMaJ5pu",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "34EDjbJxZC5PcWezXr9HQrdZtE8",
+        "_type": "image",
+        "_entry": "34BJ5nDZ0uhAFp4x1bZGm8FABDQ"
+      },
+      "foil": {
+        "_id": "34EDk9ZeIPdSrUA95FDxiLMsbiQ",
+        "_type": "image",
+        "_entry": "34BJ5nkDbHqwpxgOCdNMZGI7co1"
+      }
+    }
+  ],
+  "isFullArt": true
+}

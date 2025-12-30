@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQysKqv85QKDhWD5zjtPDLY",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Appletun",
+  "number": 842,
+  "evolvesFrom": {
+    "_id": "36iPVmXerqgUngmdJb0tBbGHOek",
+    "_type": "entry",
+    "_entry": "36dmGVHK6OMe1eSr39ro0SP155Y"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

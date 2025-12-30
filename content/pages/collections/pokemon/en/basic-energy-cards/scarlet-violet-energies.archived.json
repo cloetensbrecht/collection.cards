@@ -1,0 +1,34 @@
+{
+  "_id": "2zpYkTbnAfBapJskI0QjhHRHduU",
+  "_type": "PokemonSet",
+  "_index": "ad",
+  "title": "Scarlet & Violet Energies",
+  "ptcgoCode": "SVE",
+  "releaseDate": "2023-03-31",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpZ0U6vVzUoreFVRlv06MiKDsq",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zpYzAkVghvAU5HHOvSwGJGpUQj"
+    }
+  ],
+  "logo": {
+    "_id": "30t9aDOmforKEwjrA1wZIGDE7XQ",
+    "_type": "image",
+    "_entry": "30t9Z5uQd1HyJC8EvgM7j7Yttuq"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Scarlet & Violet Energies power the next generation of Pokémon battles with versatility and flair. Designed to fuel the dynamic abilities of Paldean Pokémon, these special energies enhance attacks, enable combo strategies, and unlock new gameplay potential. Whether accelerating your starter’s evolution or amplifying a Legendary’s might, these energies give every battle an edge and every play a spark of excitement. Charge your deck and ignite the adventure with Scarlet & Violet Energies."
+        }
+      ]
+    }
+  ]
+}

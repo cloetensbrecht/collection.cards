@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGT3PUXelgKgikgIs6zXumJZ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Beldum",
+  "number": 374,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fTgSDLd8mQuzTljHhpzQ4QVil",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSy8bmeXW1cwndIP6PRQlJA"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWNBOUQpihfoX4dj6rCoYZt",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Swinub",
+  "number": 220,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fNpopl2zLSqdf72HpBshLq4J1",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGT2nsW9fwlbeqzWOOvmUb1v"
+    }
+  ],
+  "blocks": []
+}

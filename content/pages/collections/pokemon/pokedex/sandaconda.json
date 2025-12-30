@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGVJYcc6zypA9HwLw3PzuJYu",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Sandaconda",
+  "number": 844,
+  "evolvesFrom": {
+    "_id": "36iPeRxkqtTZha1t5r8HLishB3z",
+    "_type": "entry",
+    "_entry": "36dmGQrPL71zTGEnfyGeJroIIK0"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

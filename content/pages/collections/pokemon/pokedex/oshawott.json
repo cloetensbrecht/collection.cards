@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVUrGtgq8jWiusg8v3xV3ym",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Oshawott",
+  "number": 501,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iF0mwkvL7ZQu3ENevAoJ4NtPa",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGS6dzllLItSLGAlCjoeQzlf"
+    }
+  ],
+  "blocks": []
+}

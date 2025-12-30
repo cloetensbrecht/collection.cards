@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQYVk9sG7P82tUxmtBGS29T",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Wattrel",
+  "number": 940,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iRyCawoqZwosMrdjbY1XnsQ4X",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRQGY2LUOGUA3dq02Nt7uFB"
+    }
+  ],
+  "blocks": []
+}

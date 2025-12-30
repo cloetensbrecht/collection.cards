@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTTu4z6PCeSAd4SJq5EV8Ge",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Slugma",
+  "number": 218,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fNmK1VzbLrFt5koHfiN8SjlI2",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRRjsuFBeREvIEQbzUYybEj"
+    }
+  ],
+  "blocks": []
+}

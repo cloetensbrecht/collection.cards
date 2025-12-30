@@ -1,0 +1,23 @@
+{
+  "_id": "36dmGTwdayxHrjKIDfQ685q3MLF",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Yamask",
+  "number": 562,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iGwyB8fozFOhsAqX4ObAji0tC",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRMapQAQhVPnw64ZKNtZoof"
+    },
+    {
+      "_id": "36iGwwN2Aiqm7pgYy6s2FAXymUb",
+      "_index": "a1",
+      "_type": "entry",
+      "_entry": "36dmGWZzoFLRTESoCLyc0zwDUIb"
+    }
+  ],
+  "blocks": []
+}

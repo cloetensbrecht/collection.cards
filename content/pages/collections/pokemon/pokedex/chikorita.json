@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWR1uEozg6NJkMrBtpzz9gJ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Chikorita",
+  "number": 152,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fKQnpedLuSHAZZoBQJvw0XIbN",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGR5NDTQUcRhBMOfsaUoaSbt"
+    }
+  ],
+  "blocks": []
+}

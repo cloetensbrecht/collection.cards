@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGXQW2HZ8Dwc12Q9oc5To1nK",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gorebyss",
+  "number": 368,
+  "evolvesFrom": {
+    "_id": "36fTVXqDcVRJ976xhuP9sLRpkc8",
+    "_type": "entry",
+    "_entry": "36dmGVERzfgnyHFrBM1PIklbHYd"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

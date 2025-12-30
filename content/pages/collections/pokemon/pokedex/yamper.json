@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUB6Z9tt3hVTbW6L2ewYlfi",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Yamper",
+  "number": 835,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iPGiuGI9TXMp0rGBE7vJgnpub",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUJI63oSDCcsAbYYd9FQHr7"
+    }
+  ],
+  "blocks": []
+}

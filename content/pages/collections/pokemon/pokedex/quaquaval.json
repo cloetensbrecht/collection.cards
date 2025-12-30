@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGWnQAvv7BANqfHWURQthNlU",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Quaquaval",
+  "number": 914,
+  "evolvesFrom": {
+    "_id": "36iRBHirabR4jzFgyKO2hSjroNe",
+    "_type": "entry",
+    "_entry": "36dmGQvC4R3sWbFRsh4PByeR2mN"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSBJXiZsbJMHYSZdpAWuxFe",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Spoink",
+  "number": 325,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fS2m62WRopM17bBkeTQ4vozY5",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRkJ9ggx5EeVlL4EQM8g0jP"
+    }
+  ],
+  "blocks": []
+}

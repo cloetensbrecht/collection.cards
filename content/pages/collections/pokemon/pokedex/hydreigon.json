@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGS0bGIPnSFzC9Py6T6yqfdt",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Hydreigon",
+  "number": 635,
+  "evolvesFrom": {
+    "_id": "36iJIuFzaOrERcUPIVS1Szym4Ee",
+    "_type": "entry",
+    "_entry": "36dmGSsCQ1KE5n8bqZW86xsPtyQ"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

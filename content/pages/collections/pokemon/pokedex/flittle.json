@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWSh406TXavK3QlwxHqo3Rx",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Flittle",
+  "number": 955,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iSQMQldBvYwCQiELsffcpbSsn",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTuBbg7vheBlINelKHoojDX"
+    }
+  ],
+  "blocks": []
+}

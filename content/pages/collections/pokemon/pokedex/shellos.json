@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTTEDyk3ubbQgmREXKUIkrQ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Shellos",
+  "number": 422,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fVMT8jnbb646qTUvWS9vTeoIC",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGR7584npNMABekkNK1gDeoa"
+    }
+  ],
+  "blocks": []
+}

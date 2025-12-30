@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQhG8qM19vrWctGlAbIIfCp",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Amaura",
+  "number": 698,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iLB9KZLsDsZ2Uiep1rEAUdZTY",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGXUK2GQZxOus04ENEmJDMvM"
+    }
+  ],
+  "blocks": []
+}

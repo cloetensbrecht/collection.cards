@@ -1,0 +1,35 @@
+{
+  "_id": "2zpAUGht67zDWfDIHgaEAgAVtAK",
+  "_type": "PokemonSet",
+  "_index": "aZ",
+  "title": "Obsidian Flames",
+  "number": 97,
+  "ptcgoCode": "OBF",
+  "releaseDate": "2023-08-11",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "2zpLfbQbixy8MS9wtZeyPQCROwc",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe2ynxuahT2AkXZsYDeROQa5"
+    }
+  ],
+  "logo": {
+    "_id": "2zpAYV6ZpPSdfkkkoIp7vM7ZX8r",
+    "_type": "image",
+    "_entry": "2zowis8uIbMt6gaXFyoUGcPDNrn"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Obsidian Flames ignites the battlefield with the blistering power of darkness and fire intertwined. Witness the rise of Tera Pokémon ex that blaze with unstoppable might—led by the radiant fury of Charizard ex in its Tera Fire form. Featuring crystalized energy mechanics, explosive damage potential, and artwork that burns with intensity, this expansion turns every match into an inferno of strategy and spectacle. Fan the flames, harness the heat, and let your victory burn bright in Obsidian Flames."
+        }
+      ]
+    }
+  ]
+}

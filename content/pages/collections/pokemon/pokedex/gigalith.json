@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGVRUK5Gh8eBFjBGRDtKwgYU",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gigalith",
+  "number": 526,
+  "evolvesFrom": {
+    "_id": "36iFnBq3kTL86zEWohGPpgdrqvC",
+    "_type": "entry",
+    "_entry": "36dmGUkhCI2mvB9erAgHcpjD7qI"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "2zp92lxz82eM0qzRgII9Mm7vmFX",
+  "_type": "PokemonSet",
+  "_index": "aq",
+  "title": "Shining Fates",
+  "number": null,
+  "ptcgoCode": "SHF",
+  "releaseDate": "2021-02-19",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLwa8ICjyaMONYAguk8mbIEKU",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe5AMNn67Pvx4rMriubJNRSp"
+    }
+  ],
+  "logo": {
+    "_id": "2zp96t1hsthQ6YRKNx47FChhqUG",
+    "_type": "image",
+    "_entry": "2zowivEESUYj0GtzWbL2NSX3GCq"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Shining Fates brings sparkle and excitement to every deck, celebrating rare and radiant Pokémon from across the Galar region. Featuring Shiny Pokémon, dazzling full-art cards, and powerful attacks, this expansion rewards Trainers who seek both strategy and collectibility. With glittering artwork, fan-favorite Pokémon, and gameplay that shines in every match, Shining Fates invites you to chase brilliance and capture the extraordinary."
+        }
+      ]
+    }
+  ]
+}

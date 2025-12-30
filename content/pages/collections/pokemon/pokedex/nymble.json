@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGS4nbH6cMYwaVLZi1LYRGGl",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Nymble",
+  "number": 919,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iRLjmz1II0E7EhGNDEudySr8Y",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGR9NcVK3J5zTnTfTURTBgTT"
+    }
+  ],
+  "blocks": []
+}

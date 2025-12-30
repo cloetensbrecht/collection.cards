@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRNml7J5ICPoRYYEuPCdEA5",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Musharna",
+  "number": 518,
+  "evolvesFrom": {
+    "_id": "36iFWsbwD8gSyYvQUrIEQMY9hy8",
+    "_type": "entry",
+    "_entry": "36dmGRZLRDr687yIPVwnVGaUeig"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

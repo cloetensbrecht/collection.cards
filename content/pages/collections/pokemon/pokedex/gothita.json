@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVqQVq76BhDFDlmFq3BydZ1",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gothita",
+  "number": 574,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iHYa3u6teMJt8w4XWDP3eUlLd",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRfs7C0bEG9hySyuxfmH7ty"
+    }
+  ],
+  "blocks": []
+}

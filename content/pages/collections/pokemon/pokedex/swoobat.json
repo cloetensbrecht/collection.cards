@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQEn09qZOj7QJaig1JBiVJi",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Swoobat",
+  "number": 528,
+  "evolvesFrom": {
+    "_id": "36iFrD6qzO7J69GNmsl4MQOLjQK",
+    "_type": "entry",
+    "_entry": "36dmGWlbNoAPSlGkB53lEykYo66"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

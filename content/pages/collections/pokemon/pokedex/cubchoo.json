@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSJwlUsXt1rYgNeXAwEPtGp",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Cubchoo",
+  "number": 613,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iIkgYeHfWDj97qcJM2eijNOVZ",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRi90PEa6Al0pO3pQcSCe2z"
+    }
+  ],
+  "blocks": []
+}

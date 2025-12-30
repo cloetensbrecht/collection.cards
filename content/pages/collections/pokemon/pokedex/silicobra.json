@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQrPL71zTGEnfyGeJroIIK0",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Silicobra",
+  "number": 843,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iPdWy49CkfmVHku4kJdLf1Z9N",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVJYcc6zypA9HwLw3PzuJYu"
+    }
+  ],
+  "blocks": []
+}

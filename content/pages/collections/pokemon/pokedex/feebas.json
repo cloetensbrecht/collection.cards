@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWQI3d8BMrClHUbCzdISrxA",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Feebas",
+  "number": 349,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fStLur7ABYOufFwKY8CLqlcd9",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGToUXA8NghqF1srupuawIBR"
+    }
+  ],
+  "blocks": []
+}

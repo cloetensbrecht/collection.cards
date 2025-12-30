@@ -1,0 +1,36 @@
+{
+  "_id": "30oeByXwXwgY6BEZkjPv4OmET8O",
+  "_type": "PokemonCard",
+  "_index": "ay",
+  "title": "Rattata",
+  "number": "61",
+  "edgeColor": "#ffe78f",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 30,
+  "energy": "colorless",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36paPyudUC2G5etsrKpNEjazUu8",
+    "_type": "entry",
+    "_entry": "36dmGUUmG7Rntx4Xhr3lBoaWgeI"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30oeDF7lskD6FzPyqXWvNsceljE",
+    "_type": "image",
+    "_entry": "30oJlDqueMLolWNy9c49EbiBEfz"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

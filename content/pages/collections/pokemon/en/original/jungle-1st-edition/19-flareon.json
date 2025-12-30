@@ -1,0 +1,36 @@
+{
+  "_id": "30qAyEM3XXwsEJZX1B4S5ixOp8G",
+  "_type": "PokemonCard",
+  "_index": "b3P",
+  "title": "Flareon",
+  "number": "19",
+  "edgeColor": "#ffe78f",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36pXWB2kfrCLyaBrQURwIavhBKL",
+    "_type": "entry",
+    "_entry": "36dmGUaWW91KdsBfqC6me7YhSee"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30qAze4S96UjW0TC78lnbAhTNl3",
+    "_type": "image",
+    "_entry": "30q9C24odsgWeDpn03JrGqeFVHL"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "31QfOkUgYWat7U4oXfs6zsEN1bn",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

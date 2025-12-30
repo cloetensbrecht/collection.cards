@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRrE0K0MwO9PPMmTM12RlkN",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bidoof",
+  "number": 399,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fUQ7dNXnXI3A4mVhPezfzt5b1",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSSiQMvxZAINtwo7NZe3Kvg"
+    }
+  ],
+  "blocks": []
+}

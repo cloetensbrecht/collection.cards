@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSkOPyy90L2595cQyqQ7x11",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gossifleur",
+  "number": 829,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iP5KDqcyDILZYMm9IcWh5fEvL",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRkzRB2NCxeuKUwEXluG5ed"
+    }
+  ],
+  "blocks": []
+}

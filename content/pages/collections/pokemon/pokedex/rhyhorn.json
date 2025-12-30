@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQPfitYFt1jrbPOSxIz8Xpl",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Rhyhorn",
+  "number": 111,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36e3ZNqPikkptAXEBNNDDz6X85i",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQfsN2lP5A7r05oBaaBB3ta"
+    }
+  ],
+  "blocks": []
+}

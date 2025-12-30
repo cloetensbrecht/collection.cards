@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGSTsrm9vCkHEMeqEg1Kzu4E",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Wugtrio",
+  "number": 961,
+  "evolvesFrom": {
+    "_id": "36iSaQCFm7EnWha7qXFSxi4V0CY",
+    "_type": "entry",
+    "_entry": "36dmGPyuwLy2CWAYRqsk8mBdbvh"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

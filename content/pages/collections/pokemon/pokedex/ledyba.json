@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWdgsPBlqGyDHKNZyHg8jvz",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Ledyba",
+  "number": 165,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fL7Q3aHlmV1W5TSh6CvZfnUuC",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUTgtXzqW8E2dykF3GjtrmO"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUTpZqKOLyqfWbUoBRWXyUe",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Roggenrola",
+  "number": 524,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iFkQtSF52Z39ZWIS4ybSie3L8",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUkhCI2mvB9erAgHcpjD7qI"
+    }
+  ],
+  "blocks": []
+}

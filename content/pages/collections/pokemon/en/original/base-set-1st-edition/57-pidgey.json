@@ -1,0 +1,36 @@
+{
+  "_id": "30odqYNQK2Z4hvCUHqixPS02yx6",
+  "_type": "PokemonCard",
+  "_index": "au",
+  "title": "Pidgey",
+  "number": "57",
+  "edgeColor": "#ffe78f",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 40,
+  "energy": "colorless",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36paT015rBp7eybw3CtVP0GyPZw",
+    "_type": "entry",
+    "_entry": "36dmGUSeeafKeJgNdEYR8lxbkqT"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "30odrbnM4kH5BIIy5mHk6fj3YOx",
+    "_type": "image",
+    "_entry": "30oJlFB2aACek5JcVTusqhVDMa7"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

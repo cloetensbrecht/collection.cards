@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGXQaWjLQlmlByV0lswqwkky",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Clobbopus",
+  "number": 852,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iPuIIeZ9mSU2CsVwVfD36mTlJ",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQnXoe0IEuB7B1m57trqMvd"
+    }
+  ],
+  "blocks": []
+}

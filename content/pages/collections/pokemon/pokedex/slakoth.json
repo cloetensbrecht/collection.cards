@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVwqIu4D4ON4J7thuivPXHu",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Slakoth",
+  "number": 287,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fQkI9mPZiRI2gkPmT9fabmdCo",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQdM6kspiTKVffNtjfUE8XC"
+    }
+  ],
+  "blocks": []
+}

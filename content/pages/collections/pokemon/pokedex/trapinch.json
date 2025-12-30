@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTlivkz7znVF9yMY2KC5Q3Y",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Trapinch",
+  "number": 328,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fS6yI1z4UF4PPSxUf0fHhVjsu",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRXOsHvHjmjwXzaWNIUoVZr"
+    }
+  ],
+  "blocks": []
+}

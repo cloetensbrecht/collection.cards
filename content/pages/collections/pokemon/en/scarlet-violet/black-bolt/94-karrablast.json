@@ -1,0 +1,49 @@
+{
+  "_id": "31zaQncfQFQcwSCJph3T3KhdRsy",
+  "_type": "PokemonCard",
+  "_index": "b0X",
+  "title": "Karrablast",
+  "number": "94",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "grass",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pUVXfiwxmp4ntixsamcO2pBMh",
+    "_type": "entry",
+    "_entry": "36dmGQ4NuQy7s9NpcDs4uZygQ4w"
+  },
+  "illustrator": {
+    "_id": "33vzCYyYeJk75wtUOYafAXVzr9J",
+    "_type": "entry",
+    "_entry": "33vZu8JRiESEdhPrb9W3jIB05Cv"
+  },
+  "card": {
+    "_id": "31zaTQl1PcjyyuILnrsRZ2vx170",
+    "_type": "image",
+    "_entry": "31zaKuppObh3Jw5UVLm7RDBa3T1"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "31zaQlObPTQ5McTGiKlVNfzF0tW",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "31zaWhENIfK3R3U5LNzvf5x5kdH",
+        "_type": "image",
+        "_entry": "31zaPJHDE7CtoNog76YIqRs3wHJ"
+      },
+      "foil": {
+        "_id": "31zaXSGUWIhzGzJM5H8akqYphtB",
+        "_type": "image",
+        "_entry": "31zaPOhXHDvJueFapoBYTGzBv6q"
+      }
+    }
+  ],
+  "isFullArt": true
+}

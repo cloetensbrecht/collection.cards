@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVX7BgRgYAbemQZFjGn1dBJ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Shellder",
+  "number": 90,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36e2gUwa4tfh8ZncirP8de3bN0z",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQyw2m3Gvz4ptkm6snWldg9"
+    }
+  ],
+  "blocks": []
+}

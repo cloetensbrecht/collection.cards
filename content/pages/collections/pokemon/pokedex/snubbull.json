@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUsMfcryv6dQ4fvI9JYTsJR",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Snubbull",
+  "number": 209,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fN2yE6KTlT7ZfIkOqYt9Wi8wI",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGU3pGeeM4IT2iOjd5qg6rz7"
+    }
+  ],
+  "blocks": []
+}

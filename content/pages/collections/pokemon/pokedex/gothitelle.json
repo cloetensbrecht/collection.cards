@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGV7H2MeUBE2AITmkHec6aEE",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gothitelle",
+  "number": 576,
+  "evolvesFrom": {
+    "_id": "36iHbJEBRNC4gfHcNDN9PBBv6ig",
+    "_type": "entry",
+    "_entry": "36dmGRfs7C0bEG9hySyuxfmH7ty"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

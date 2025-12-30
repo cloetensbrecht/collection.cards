@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTnkpG4oxDxRbYkhV0eM3T9",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Crabrawler",
+  "number": 739,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iMGTIDbuKQ2Z0gH5cPbfBgJgu",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGXF4aCXFbbBf3F37f97MGtr"
+    }
+  ],
+  "blocks": []
+}

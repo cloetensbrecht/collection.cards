@@ -1,0 +1,36 @@
+{
+  "_id": "31XZOd29EJOaPqZcD3ArMTDBUQR",
+  "_type": "PokemonCard",
+  "_index": "aT",
+  "title": "Ivysaur",
+  "number": "30",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "grass",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36pYZNVAUKG5QHyPVkS7lNQ1IY6",
+    "_type": "entry",
+    "_entry": "36dmGVF10vcAVKJlLDkYPxErvfs"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31XZQALpZ4SKAngmmLw42iE6BhH",
+    "_type": "image",
+    "_entry": "31XZLqmwEH9h6ksPhXdeNWnqDTW"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

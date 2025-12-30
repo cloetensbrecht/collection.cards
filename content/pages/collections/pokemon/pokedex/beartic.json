@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRi90PEa6Al0pO3pQcSCe2z",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Beartic",
+  "number": 614,
+  "evolvesFrom": {
+    "_id": "36iIlWP97Xuoy78NnAFpKIJISfB",
+    "_type": "entry",
+    "_entry": "36dmGSJwlUsXt1rYgNeXAwEPtGp"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGUZr16BaKA9AsiIE6p049un",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Chesnaught",
+  "number": 652,
+  "evolvesFrom": {
+    "_id": "36iJeI4n0BxVd9v6NXINlDwNYUC",
+    "_type": "entry",
+    "_entry": "36dmGSl6q3WkLcTgMY53uGy4EeG"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

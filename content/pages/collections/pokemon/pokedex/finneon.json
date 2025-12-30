@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRqBZsHWY2Api8gX8epjVsR",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Finneon",
+  "number": 456,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iEK4r9kWCuGlGxydxTN7qF62v",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTJXpyZR1Q4tsewF6OAN3m5"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVLvWtpLvhwikkbrdDFe9ZL",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Fomantis",
+  "number": 753,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iMxYVm53mvoEJOYZSKIAuk6x9",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTh0KmAPwr8kXchkxf9cjng"
+    }
+  ],
+  "blocks": []
+}

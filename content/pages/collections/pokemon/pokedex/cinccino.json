@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGVqT19vfQgBWp8S7osuwavr",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Cinccino",
+  "number": 573,
+  "evolvesFrom": {
+    "_id": "36iHUnkhNfXt5yC7ZXoFFepnDOM",
+    "_type": "entry",
+    "_entry": "36dmGWhSlB7vUGDVsiHgTvpoihY"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

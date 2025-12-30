@@ -1,0 +1,49 @@
+{
+  "_id": "320KfEDhrlfppBGRplXlH9sp7d4",
+  "_type": "PokemonCard",
+  "_index": "b8c",
+  "title": "Timburr",
+  "number": "125",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fighting",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pU5I6534LDpOC1AybWcg2jRzf",
+    "_type": "entry",
+    "_entry": "36dmGQUfSuXCMxtPA2GEBU7PgEA"
+  },
+  "illustrator": {
+    "_id": "33vyFTlouHYo01uoVdRLoV4EdJj",
+    "_type": "entry",
+    "_entry": "33vbJ2aLiV2htj2JmYUMNXwz11l"
+  },
+  "card": {
+    "_id": "320KhOtiU9qZA1CPX2bh8CHWlNh",
+    "_type": "image",
+    "_entry": "320FBOU8HmqMDxJGSKSgXLNZc1R"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "320KfFJU1d1eRuxxHuNiusuujuL",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "320Kjslb27htu6PyZfZ2KcJGCTd",
+        "_type": "image",
+        "_entry": "320Kdux2M8rr3yaxaiR9TYzqEQJ"
+      },
+      "foil": {
+        "_id": "320KkV85m53ZUHpA04D0vFXWEXP",
+        "_type": "image",
+        "_entry": "320KdvHbKT0HgDKizLvcHMTSQwi"
+      }
+    }
+  ],
+  "isFullArt": true
+}

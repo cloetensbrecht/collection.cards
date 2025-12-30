@@ -1,0 +1,36 @@
+{
+  "_id": "31Yjz5dQNL0fJWzPt8hb0EKff8W",
+  "_type": "PokemonCard",
+  "_index": "ax",
+  "title": "Ponyta",
+  "number": "60",
+  "edgeColor": "#ffe78f",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 40,
+  "energy": "fire",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pY7ceIuBU72A70IIbnPr3iQ6k",
+    "_type": "entry",
+    "_entry": "36dmGQnmFaVAd5sYsYZ3Vp5MbyC"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31Yk0jyaVdRWI9z5sdCsrFi78mI",
+    "_type": "image",
+    "_entry": "31YjwxpIecnvHa75LkLn3ylrwnq"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

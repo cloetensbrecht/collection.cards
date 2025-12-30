@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTOzd0j1syk6O7b1hv137um",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Goomy",
+  "number": 704,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iLKQq4xss3YJUlxYvactTJ9ax",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSeD3QyjAZZ0CVuaJLpKRRn"
+    }
+  ],
+  "blocks": []
+}

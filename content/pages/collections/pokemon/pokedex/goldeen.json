@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGV564oWJNt473CIDZ11OAa4",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Goldeen",
+  "number": 118,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36e40RRQNqUMFEyUwlh3OaCF98g",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQzKeOFnFXFfj8JC7yUbrGf"
+    }
+  ],
+  "blocks": []
+}

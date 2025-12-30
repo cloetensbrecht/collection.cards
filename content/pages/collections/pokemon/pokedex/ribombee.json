@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGVomDFF4eZAhYzWlTmAly8h",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Ribombee",
+  "number": 743,
+  "evolvesFrom": {
+    "_id": "36iMLghVQRY4n3C6jppPcs9xwe3",
+    "_type": "entry",
+    "_entry": "36dmGQnB71mr9fcmuAReSXGsC1m"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

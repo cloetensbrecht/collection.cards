@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTX52zkhraftgOmxG6o48L5",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Archeops",
+  "number": 567,
+  "evolvesFrom": {
+    "_id": "36iHA4ZYxKPJgFIvgX1PMmDVlAL",
+    "_type": "entry",
+    "_entry": "36dmGQncx5NnWIGBnhklPbdca8q"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

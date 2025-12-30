@@ -1,0 +1,36 @@
+{
+  "_id": "30oa0SyuJDkguEAT32Z4DHeF0LA",
+  "_type": "PokemonCard",
+  "_index": "b42",
+  "title": "Dratini",
+  "number": "26",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 40,
+  "energy": "colorless",
+  "stage": "basic",
+  "pokemon": {
+    "_id": "36pZqXkc7Ya66i0mphah3SEk3Gm",
+    "_type": "entry",
+    "_entry": "36dmGSVmVzqCKelGJToC6ObfEnw"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31CJV3G53xk4LVDjdQ1P8fhzZeE",
+    "_type": "image",
+    "_entry": "31A25AJKdEiXWCCywZlolFfDApF"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

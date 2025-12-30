@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGSJ72PdGaXaVx4UriplGVcY",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Shuppet",
+  "number": 353,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fSzAcK4kcygw0wUHLUaHE8Z0f",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQ4sdBQ54yul2ZCGfULjP9h"
+    }
+  ],
+  "blocks": []
+}

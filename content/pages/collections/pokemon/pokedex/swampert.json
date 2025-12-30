@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGV6klwyIZbeFqKrCGD8p6yX",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Swampert",
+  "number": 260,
+  "evolvesFrom": {
+    "_id": "36fP6Fwpa2y3NzccYeONnqeKjUh",
+    "_type": "entry",
+    "_entry": "36dmGU01TqPDvw8hbr3NjOpI0LJ"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

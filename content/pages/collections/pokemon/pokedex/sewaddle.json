@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGXahwe3u2QxURNDbqMgCG1u",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Sewaddle",
+  "number": 540,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iGD5l3y9xh8cn0iRk10CyR3GS",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQQ4PzVylKwkbwxKjHA1wbt"
+    }
+  ],
+  "blocks": []
+}

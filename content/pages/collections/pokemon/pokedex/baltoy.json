@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRMLzigLSJQUJ9i0fp3ASCW",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Baltoy",
+  "number": 343,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fSi9ENosr17Jn0eRrQAlt4CHy",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGS0C7Qdi5cpQTJLw9ca5APV"
+    }
+  ],
+  "blocks": []
+}

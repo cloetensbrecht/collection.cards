@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQzKeOFnFXFfj8JC7yUbrGf",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Seaking",
+  "number": 119,
+  "evolvesFrom": {
+    "_id": "36e41NB16ym5v4wpSDVXxVQvrZl",
+    "_type": "entry",
+    "_entry": "36dmGV564oWJNt473CIDZ11OAa4"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

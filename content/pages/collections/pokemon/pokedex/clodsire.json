@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGUqbZhhSQoTdr2dpm90XcDS",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Clodsire",
+  "number": 980,
+  "evolvesFrom": {
+    "_id": "36fMRjtxXFe0OwTkdb2jUGeagJQ",
+    "_type": "entry",
+    "_entry": "36dmGQcYomLBxprtbBKN5f1cZZ7"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

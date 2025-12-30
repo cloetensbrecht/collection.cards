@@ -1,0 +1,34 @@
+{
+  "_id": "2zpO9Y4XhQBMqpyQUwD9wPllg9j",
+  "_type": "PokemonSet",
+  "_index": "b1U",
+  "title": "Trick or Trade 2023",
+  "ptcgoCode": "",
+  "releaseDate": "2023-09-01",
+  "generation": "IX",
+  "symbol": [
+    {
+      "_id": "30t2eKmpJHLbjStjSxtYnWPGhZA",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "30t2b55yOiTI4XcCHdhl3aQsBHB"
+    }
+  ],
+  "logo": {
+    "_id": "2zpOOjjrlQy4H1fQDnhDsvnJ668",
+    "_type": "image",
+    "_entry": "2zpOLmHhUGLZhnEkxJlWtaPUQtE"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Trick or Trade 2023 invites Trainers to a Halloween-themed adventure full of surprises, strategy, and spooky fun. Featuring Ghost- and Dark-type Pokémon, mischievous Trainer cards, and clever mechanics that reward cunning plays, this set turns every battle into a game of wits. With haunting artwork, festive energy, and tricks lurking around every corner, Trick or Trade 2023 delivers a thrilling seasonal experience where every match is a treat."
+        }
+      ]
+    }
+  ]
+}

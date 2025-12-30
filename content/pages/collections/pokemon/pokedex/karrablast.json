@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQ4NuQy7s9NpcDs4uZygQ4w",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Karrablast",
+  "number": 588,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iHy8A7qYVFrMtvgpDJPOtiD8F",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVoTN0MEcwqYq4IgpdcCaRA"
+    }
+  ],
+  "blocks": []
+}

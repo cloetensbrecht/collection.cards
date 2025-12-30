@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTXOF5Lu1rhVJ9PUvxGleAK",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Cacturne",
+  "number": 332,
+  "evolvesFrom": {
+    "_id": "36fSDl613W2CIKVVGaG1gqbcrRk",
+    "_type": "entry",
+    "_entry": "36dmGUxN6uyYQ4hgUcjbVuQmwQC"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

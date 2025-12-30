@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQFPdtoPmLC87ampgQ5kFGP",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Larvesta",
+  "number": 636,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iJMAgeGhv3Gd2ckXmPJHhvcPx",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRDzqFOGkNU0uMfek8D94iR"
+    }
+  ],
+  "blocks": []
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "2zp9LT1JNp9bJuFsAtl5AIkKVDo",
+  "_type": "PokemonSet",
+  "_index": "an",
+  "title": "Evolving Skies",
+  "number": 89,
+  "ptcgoCode": "EVS",
+  "releaseDate": "2021-08-27",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLsTWqp32TpqiaFvZRddHsMzw",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8mDu19xaGiJUnasorh0JIN"
+    }
+  ],
+  "logo": {
+    "_id": "2zp9Q1e1L5Dnr3QfMd1p1BorNhW",
+    "_type": "image",
+    "_entry": "2zowityeYYHsAWWKHpM3OhI8Ayh"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Evolving Skies takes your battles to new heights with the majestic power of Dragon- and Flying-type Pokémon. Featuring Eevee’s evolutions, powerful attacks, and synergy-driven mechanics, this expansion rewards Trainers who master strategy and adaptation. With stunning artwork, breathtaking Pokémon ex, and gameplay that soars above the ordinary, Evolving Skies invites you to evolve your tactics and dominate the battlefield."
+        }
+      ]
+    }
+  ]
+}

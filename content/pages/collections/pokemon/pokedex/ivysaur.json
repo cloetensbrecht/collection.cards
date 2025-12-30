@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGVF10vcAVKJlLDkYPxErvfs",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Ivysaur",
+  "number": 2,
+  "evolvesFrom": {
+    "_id": "36dmlPHFAasaO39wARCbXzbpcGV",
+    "_type": "entry",
+    "_entry": "36dmGTtxW7600GckSwIKeAFghxM"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36dpjtfwECgeC1CcVj32wNluUzW",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGRAIwdBiUk3ZHkrejyQXXaY"
+    }
+  ],
+  "blocks": []
+}

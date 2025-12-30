@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGWUcnLXc8MfgdwjdMKI6lr2",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Blitzle",
+  "number": 522,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iFh4aG8MTLY8NcZyruBBTNwUM",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWiWAFxmDkFn8ieDFvACMUt"
+    }
+  ],
+  "blocks": []
+}

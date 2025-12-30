@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTBkXZeS8wTFiD9IoDj1kP8",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Pansear",
+  "number": 513,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iFPDMVucce12SPw3eqxWONWVe",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTJm83aUaOSaVc8GvNR0s1c"
+    }
+  ],
+  "blocks": []
+}

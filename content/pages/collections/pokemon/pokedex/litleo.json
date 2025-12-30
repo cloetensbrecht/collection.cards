@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTzmwwwAOKv9zqPkid3yDkI",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Litleo",
+  "number": 667,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iKCS3V9xQsJobJ0ORsBzOaOeL",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVP99VY6rDGTrcZx1jvbGiM"
+    }
+  ],
+  "blocks": []
+}

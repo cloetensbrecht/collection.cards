@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGQF4NXqfvfUGl5IkXpN5I6P",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Glameow",
+  "number": 431,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fVXIenNMeoVLryD9kCd1iTKvl",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSFoyOkuBzUPb0Df2ZyTs20"
+    }
+  ],
+  "blocks": []
+}

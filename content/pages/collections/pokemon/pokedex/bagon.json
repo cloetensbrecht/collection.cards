@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRuCYS6Q1cW7IENPr5VBrvn",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bagon",
+  "number": 371,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fTaJangCW2IYouLgB58StvS91",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGVpOgtKudHttR8N98kRlgNF"
+    }
+  ],
+  "blocks": []
+}

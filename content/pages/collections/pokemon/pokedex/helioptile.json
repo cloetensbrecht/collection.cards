@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGVd70jwdg7SGc0aDjHZBcqE",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Helioptile",
+  "number": 694,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iL4be4aPRXBswVKdvTdTuONAv",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWqTZmMumLcRZmoKDouWTgS"
+    }
+  ],
+  "blocks": []
+}

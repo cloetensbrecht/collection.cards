@@ -1,0 +1,36 @@
+{
+  "_id": "31XPmGodNPtHh6hOJRvCQ5AiTRt",
+  "_type": "PokemonCard",
+  "_index": "aM",
+  "title": "Arcanine",
+  "number": "23",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "fire",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36pYgwJDpjrPnDUO74RdWiakodC",
+    "_type": "entry",
+    "_entry": "36dmGRZuMFo84sh31nmTeZJmG67"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31XPsJ7TNCXYi48eAxGNCROsnvx",
+    "_type": "image",
+    "_entry": "31XPr0eCi9LXQn3aVWlxveiVio9"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

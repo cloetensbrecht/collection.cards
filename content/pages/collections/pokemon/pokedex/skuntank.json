@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGS4aDA5LXFb20XAqU19Av1t",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Skuntank",
+  "number": 435,
+  "evolvesFrom": {
+    "_id": "36fVbch5PArxl15rdVrfROo9mcN",
+    "_type": "entry",
+    "_entry": "36dmGTpKiVMQQGYmL2B6HVtjvK1"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

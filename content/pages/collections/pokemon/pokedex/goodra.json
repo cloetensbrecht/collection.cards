@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRx6tapcXUgkmDOVHFeSIqA",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Goodra",
+  "number": 706,
+  "evolvesFrom": {
+    "_id": "36iLNF2EvTHB3cQI4z3pzRXMBoH",
+    "_type": "entry",
+    "_entry": "36dmGSeD3QyjAZZ0CVuaJLpKRRn"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

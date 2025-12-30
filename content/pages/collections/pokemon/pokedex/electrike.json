@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTDBwd9eqmxHIwG2rqo7feK",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Electrike",
+  "number": 309,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fRXJKLJT54J8Ohpk5Cf5o5FBV",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGStJVd8VRkl4969dp9s9Mfm"
+    }
+  ],
+  "blocks": []
+}

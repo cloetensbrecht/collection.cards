@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRPLg9HEfrdA93mcmrU0sqx",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Dunsparce",
+  "number": 206,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36fMvLjW1gI2hL2PqHfw8lS6rhG",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGQmH4LRmv5iuQd8ghsmtTpz"
+    }
+  ],
+  "blocks": []
+}

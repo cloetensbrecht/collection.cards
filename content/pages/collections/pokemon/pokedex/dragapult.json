@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRJ7FURFNKIrJCt405npwSI",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Dragapult",
+  "number": 887,
+  "evolvesFrom": {
+    "_id": "36iQcIUtOfAZwv3sbKtySjPZnBp",
+    "_type": "entry",
+    "_entry": "36dmGQnBAFlJX2bdnNEHJQKrkVr"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGU3pGeeM4IT2iOjd5qg6rz7",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Granbull",
+  "number": 210,
+  "evolvesFrom": {
+    "_id": "36fN428Ahwg9W3x3WOVjv7yMxwX",
+    "_type": "entry",
+    "_entry": "36dmGUsMfcryv6dQ4fvI9JYTsJR"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

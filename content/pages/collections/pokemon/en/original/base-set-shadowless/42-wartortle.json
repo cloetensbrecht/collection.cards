@@ -1,0 +1,36 @@
+{
+  "_id": "30oc2mB0LXYEbU6yWwN2q3mtQOR",
+  "_type": "PokemonCard",
+  "_index": "b5I",
+  "title": "Wartortle",
+  "number": "42",
+  "edgeColor": "#ffe78f",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "water",
+  "stage": "stage1",
+  "pokemon": {
+    "_id": "36pZbArXgnl4dxdcVO5qKg8PYi9",
+    "_type": "entry",
+    "_entry": "36dmGTXIK1QnJJNR6EyNhlMfSlq"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31CJFAI2m6fS3GOE2bQHVQKdTHq",
+    "_type": "image",
+    "_entry": "31A259ZqstmCCSwRSE9lytQxoOy"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "311WcCrc6q86Na8yYy4vKE5tAnN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

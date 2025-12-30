@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGUH95vxwc7iPZZKxooBf62z",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Patrat",
+  "number": 504,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iF7SNnxaDJ9FbSHcHr4bU7wT0",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGT1zn3ThvSPF1lwW4e9O1SU"
+    }
+  ],
+  "blocks": []
+}

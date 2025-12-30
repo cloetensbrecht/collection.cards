@@ -1,0 +1,49 @@
+{
+  "_id": "33R5d0WtvkqAQdMRfBcntp5DpuO",
+  "_type": "PokemonCard",
+  "_index": "bAZ",
+  "title": "Victini",
+  "number": "172",
+  "edgeColor": "#e50a0e",
+  "rarity": "black-white-rare",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "pokemon": {
+    "_id": "36l7dOiv0GN863HdvdSatSBCAJK",
+    "_type": "entry",
+    "_entry": "36dmGRJaF2mkPAzHpZUT6jrUUkE"
+  },
+  "energy": "fire",
+  "stage": "basic",
+  "illustrator": {
+    "_id": "34EFupMKyOinn7JaLBEjY48LLSS",
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW"
+  },
+  "card": {
+    "_id": "33R5ex9WTddadfTEoNNlW9LPjZN",
+    "_type": "image",
+    "_entry": "33QkjyI9OnUplVogbwTcR7abGOR"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "33R5d3E4iuq0NegwmxFnq731J19",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "mask": {
+        "_id": "34EFx1gi1ZJJuV7ZAjCZbXZMfZI",
+        "_type": "image",
+        "_entry": "34BJ5jX7R7L2tTSm3CzO3DUJAZT"
+      },
+      "foil": {
+        "_id": "35Zlf94YeCCzQqpzo3GQDSaS2Bj",
+        "_type": "image",
+        "_entry": "35ZlPlURyIIk4PAq2ll1mfI7f16"
+      }
+    }
+  ],
+  "isFullArt": true
+}

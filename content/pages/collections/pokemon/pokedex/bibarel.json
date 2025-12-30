@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGSSiQMvxZAINtwo7NZe3Kvg",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Bibarel",
+  "number": 400,
+  "evolvesFrom": {
+    "_id": "36fUR06XR5NxjMyja0xRkcm1PEB",
+    "_type": "entry",
+    "_entry": "36dmGRrE0K0MwO9PPMmTM12RlkN"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

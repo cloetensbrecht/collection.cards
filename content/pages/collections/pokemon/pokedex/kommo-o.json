@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTx49fTm8rTRe44UDCGnSCL",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Kommo-o",
+  "number": 784,
+  "evolvesFrom": {
+    "_id": "36iNp8TiWy2r6cEknGyXi93DTCM",
+    "_type": "entry",
+    "_entry": "36dmGQpz9jEinO7GFvbSIBf9vMP"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

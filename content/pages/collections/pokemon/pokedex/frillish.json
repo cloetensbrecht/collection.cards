@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGTQsznbRYR1Ouepeg3MA7sQ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Frillish",
+  "number": 592,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iI6FGZmVldOuQ0VeC9j6FkV9l",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGTHJXcnZj1sIuNpL8387r85"
+    }
+  ],
+  "blocks": []
+}

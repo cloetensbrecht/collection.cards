@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTK1bJF9UazTGiWL4mUeLgJ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Pangoro",
+  "number": 675,
+  "evolvesFrom": {
+    "_id": "36iKW3BEQUhcjZvvXZb2KRXtyl5",
+    "_type": "entry",
+    "_entry": "36dmGTt76yz7TgDFmx5WWpyTaAu"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

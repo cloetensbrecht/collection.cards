@@ -1,0 +1,36 @@
+{
+  "_id": "30oYzYMtTb2BtQJTFfmX1O6Wf9l",
+  "_type": "PokemonCard",
+  "_index": "b3B",
+  "title": "Beedrill",
+  "number": "17",
+  "edgeColor": "#ffe78f",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "stage2",
+  "pokemon": {
+    "_id": "36pZyFJP9AUt634ca7pJgkmc2bf",
+    "_type": "entry",
+    "_entry": "36dmGWuUuu9FCMMcqvoQTzShcTB"
+  },
+  "illustrator": {},
+  "card": {
+    "_id": "31CK3JISZrlQzLstINPaZwRkKqc",
+    "_type": "image",
+    "_entry": "311YjaO83oLap37hOKnGgfnVRBY"
+  },
+  "reverseCard": {},
+  "variants": [
+    {
+      "_id": "31CJvMrNyh4V2IcH1YO8auhuxB1",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null,
+      "mask": {},
+      "foil": {}
+    }
+  ]
+}

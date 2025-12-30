@@ -1,0 +1,34 @@
+{
+  "_id": "30t5AX4dzXneok5CGO9iYj9XXDT",
+  "_type": "PokemonSet",
+  "_index": "aF",
+  "title": "Brilliant Stars Trainer Gallery",
+  "ptcgoCode": "BRS",
+  "releaseDate": "2022-02-25",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "30t5OXiMCdvD6LVPmiyh8xewrsK",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe6IQBhwCkGnak2wukb7rjfQ"
+    }
+  ],
+  "logo": {
+    "_id": "30t6Mbq8eRsOUkdS6hkfftzSW8J",
+    "_type": "image",
+    "_entry": "30t6KeNM30u5dBMjNw5z54rbbdO"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Brilliant Stars Trainer Gallery spotlights the Trainers who shape every battle. Featuring iconic Trainer cards in dazzling full-art designs, this gallery set enhances decks with tactical support, versatile strategies, and collectible prestige. Whether you’re building competitive decks or showcasing your favorites, Brilliant Stars Trainer Gallery celebrates the skill, cunning, and style that define every victorious Trainer."
+        }
+      ]
+    }
+  ]
+}

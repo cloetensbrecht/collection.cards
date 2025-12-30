@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGRVLxL6626OMEirswW8fozP",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Beheeyem",
+  "number": 606,
+  "evolvesFrom": {
+    "_id": "36iIW9UjGJpHiYSk7pIiELeGwpF",
+    "_type": "entry",
+    "_entry": "36dmGWTqzgMWzWAtLx1ECDkANaX"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

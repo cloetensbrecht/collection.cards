@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGQT1q64F9b7rqIKE3RcXyxp",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Pawmo",
+  "number": 922,
+  "evolvesFrom": {
+    "_id": "36iRPrIazgzhS282sg5bjxrMRoD",
+    "_type": "entry",
+    "_entry": "36dmGSRxIUeSDGybOMDr9c4NLaT"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36iRQtcWAIdNoeXYbPUywkq4Pch",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGSgO6FiG81sFTDBaR77oXuo"
+    }
+  ],
+  "blocks": []
+}

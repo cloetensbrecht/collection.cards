@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGQjo75JcEJtDK8kBBzd04pl",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Dubwool",
+  "number": 832,
+  "evolvesFrom": {
+    "_id": "36iPAkjpVQCbm40F1h86KSp67zN",
+    "_type": "entry",
+    "_entry": "36dmGRkfl2AiEcjEwinPWvyjVk8"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "36dmGSl6q3WkLcTgMY53uGy4EeG",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Quilladin",
+  "number": 651,
+  "evolvesFrom": {
+    "_id": "36iJcXEGs2Dpm1CshPGRJmpdeCw",
+    "_type": "entry",
+    "_entry": "36dmGUDnVK2gIPABXhHljVo0s6T"
+  },
+  "evolvesTo": [
+    {
+      "_id": "36iJdNLWtJ9crk0kKUJmoGBwk9B",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGUZr16BaKA9AsiIE6p049un"
+    }
+  ],
+  "blocks": []
+}

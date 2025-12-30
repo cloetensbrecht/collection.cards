@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGTON397aUjO9atpmG3VLI3E",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Butterfree",
+  "number": 12,
+  "evolvesFrom": {
+    "_id": "36dn7L76ubSaiEBNi9BIWf9Lifj",
+    "_type": "entry",
+    "_entry": "36dmGWTkzNbExGWLQUrimG0qYfz"
+  },
+  "evolvesTo": {},
+  "blocks": []
+}

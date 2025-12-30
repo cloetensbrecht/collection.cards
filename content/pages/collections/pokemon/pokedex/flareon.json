@@ -1,0 +1,14 @@
+{
+  "_id": "36dmGUaWW91KdsBfqC6me7YhSee",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Flareon",
+  "number": 136,
+  "evolvesFrom": {
+    "_id": "36fJT0emsqCeiPVnktQANZyuagh",
+    "_type": "entry",
+    "_entry": "36dmGWceOHkNLbBySnEgkN3dbRA"
+  },
+  "evolvesTo": [],
+  "blocks": []
+}

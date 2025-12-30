@@ -1,0 +1,35 @@
+{
+  "_id": "2zpAApMAWELaC3c6IdV2OFoimc7",
+  "_type": "PokemonSet",
+  "_index": "af",
+  "title": "Crown Zenith",
+  "number": null,
+  "ptcgoCode": "CRZ",
+  "releaseDate": "2023-01-20",
+  "generation": "VIII",
+  "symbol": [
+    {
+      "_id": "2zpLjf58mUK1Z638KxNpT9ky6ah",
+      "_index": "a0",
+      "_type": "image",
+      "_entry": "2zowe8O6Z8Cgj3kd3ZsZEqKPxkI"
+    }
+  ],
+  "logo": {
+    "_id": "2zpAF6fc8DPPtfsTW7nNmsdhuRT",
+    "_type": "image",
+    "_entry": "2zowioKBLcpFJlkNtdUWrwEF78b"
+  },
+  "heroImage": {},
+  "cta_description": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Crown Zenith reaches the pinnacle of Pokémon battling, bringing together legendary power, rare Pokémon, and awe-inspiring strategies. Featuring striking full-art cards, rare Pokémon ex, and mechanics that reward bold plays, this expansion challenges Trainers to master their decks and seize victory at the highest level. From dazzling artwork to game-changing abilities, Crown Zenith crowns your collection—and your battles—with unmatched prestige."
+        }
+      ]
+    }
+  ]
+}

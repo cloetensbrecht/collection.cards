@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRC1LZpPDe1IjJzGbs84UNZ",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Gimmighoul",
+  "number": 999,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iTOGePOHqZXypf4xVEIrseoPg",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWovFvDOaM18ByzQMEbpfpm"
+    }
+  ],
+  "blocks": []
+}

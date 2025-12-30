@@ -1,0 +1,17 @@
+{
+  "_id": "36dmGRJwS0nbPu3DPAjMIv838Dn",
+  "_type": "Pokemon",
+  "_index": "a0",
+  "title": "Swirlix",
+  "number": 684,
+  "evolvesFrom": {},
+  "evolvesTo": [
+    {
+      "_id": "36iKoGJnme0rhi94YpDOiksdFeB",
+      "_index": "a0",
+      "_type": "entry",
+      "_entry": "36dmGWE6ReFEt9hppel1SAce0TR"
+    }
+  ],
+  "blocks": []
+}
