@@ -6,7 +6,9 @@
     "dev": "alinea dev -- next dev",
     "build": "alinea build -- next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "setup:assets": "bash scripts/setup-assets.sh",
+    "postinstall": "yarn setup:assets"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
