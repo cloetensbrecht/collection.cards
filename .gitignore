@@ -46,6 +46,5 @@ next-env.d.ts
 /public/admin/*
 
 # private assets
-/icons/pokemon/*
-/public/media/*
-/public/patterns/*
+/icons/pokemon
+/public
