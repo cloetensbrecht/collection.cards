@@ -7,7 +7,9 @@ VERCEL_ASSETS_URL="git@github.coms:collection-cards/private-assets.collection.ca
 PUBLIC_ASSETS_URL="git@github.com:collection-cards/assets.collection.cards.git"
 
 has_private_access() {
-  GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=2" \
+  if [ "$VERCEL" != "1" ]; then
+    GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=2"
+  fi
   git ls-remote --heads "$PRIVATE_ASSETS_URL" &>/dev/null
 }
 
