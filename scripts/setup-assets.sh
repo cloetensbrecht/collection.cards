@@ -3,7 +3,7 @@ set -e
 
 ASSETS_DIR="assets"
 PRIVATE_ASSETS_URL="git@collection.cards:collection-cards/private-assets.collection.cards.git"
-VERCEL_ASSETS_URL="git@github.coms:collection-cards/private-assets.collection.cards.git"
+VERCEL_ASSETS_URL="git@github.com:collection-cards/private-assets.collection.cards.git"
 PUBLIC_ASSETS_URL="git@github.com:collection-cards/assets.collection.cards.git"
 
 has_private_access() {
