@@ -3,6 +3,7 @@ set -e
 
 ASSETS_DIR="assets"
 PRIVATE_ASSETS_URL="git@collection.cards:collection-cards/private-assets.collection.cards.git"
+VERCEL_ASSETS_URL="git@github.coms:collection-cards/private-assets.collection.cards.git"
 PUBLIC_ASSETS_URL="git@github.com:collection-cards/assets.collection.cards.git"
 
 has_private_access() {
@@ -14,7 +15,11 @@ echo "Setting up $ASSETS_DIR…"
 
 # Determine desired repo
 if has_private_access; then
-  DESIRED_URL="$PRIVATE_ASSETS_URL"
+  if [ "$VERCEL" != "1" ]; then
+    DESIRED_URL="$PRIVATE_ASSETS_URL"
+  else
+    DESIRED_URL="$VERCEL_ASSETS_URL"
+  fi
   echo "✅ Using private assets"
 else
   DESIRED_URL="$PUBLIC_ASSETS_URL"
