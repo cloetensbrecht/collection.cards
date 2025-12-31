@@ -8,11 +8,12 @@ PUBLIC_ASSETS_URL="git@github.com:collection-cards/assets.collection.cards.git"
 
 has_private_access() {
   if [ "$VERCEL" != "1" ]; then
-    GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=2"
+    export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=2"
     git ls-remote --heads "$PRIVATE_ASSETS_URL" &>/dev/null
   else
-    GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o BatchMode=yes -o ConnectTimeout=2"
+    export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o BatchMode=yes -o ConnectTimeout=2"
     git ls-remote --heads "$VERCEL_ASSETS_URL" &>/dev/null
+    export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
   fi
 }
 
