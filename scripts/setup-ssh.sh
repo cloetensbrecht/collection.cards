@@ -20,8 +20,13 @@ chmod 600 ~/.ssh/id_ed25519
 
 cat <<EOF > ~/.ssh/config
 Host collection.cards
+  HostName github.com
   IdentityFile ~/.ssh/id_ed25519
   StrictHostKeyChecking no
 EOF
+
+# Trust the Git host
+ssh-keyscan github.com >> ~/.ssh/known_hosts
+chmod 644 ~/.ssh/known_hosts
 
 echo "✅ SSH configured for Vercel"
