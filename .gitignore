@@ -48,3 +48,4 @@ next-env.d.ts
 # private assets
 /icons/pokemon
 /public
+/proxy.ts

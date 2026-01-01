@@ -62,4 +62,12 @@ find ./assets -mindepth 1 -type d | while read -r src; do
   ln -s "$src_abs" "$dst" 2>/dev/null || true
 done
 
+# Create symlink for proxy.ts if avaiable in assets
+if [ -f "./$ASSETS_DIR/proxy.ts" ]; then
+  dst="./proxy.ts"
+  src_abs="$(realpath "./$ASSETS_DIR/proxy.ts")"
+  [ -e "$dst" ] && continue
+  ln -s "$src_abs" "$dst" 2>/dev/null || true
+fi
+
 echo "✅ Assets setup complete"
