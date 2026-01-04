@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dSR3fzi5tCFlHgcNA9G4diI",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Camerupt ex",
+  "number": "156",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 340,
+  "energy": "fire",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW",
+    "_id": "37o1dRX4CSiePfvPYDzdPIr8isW"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cH8lwrxWO9eGlns0L6YVlvX",
+    "_id": "37o1dS5c2kYmj2o8cuKHeV7iDek"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO8rGafCRIVYIkYcVI7GbJu",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cTFfSDjcpLo2gbeqimhPOMR",
+        "_id": "37o1dPELPSSl33HtJCnGXdPzHp2"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cPnLGZe8IgEjUQLG8iZJis6",
+        "_id": "37o1dOhTRIsaWm4p71LMdbjZzyp"
+      }
+    }
+  ]
+}

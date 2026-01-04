@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNVt7wrHlDLv0styQpBkNc6",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Vulpix",
+  "number": "19",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSRiMYXbtLcHZO9smP415Kh",
+    "_id": "37o1dRTbGp6VLlSpmAzJ2gK94ZF"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BWeUH6PYdBa9vtvFGiuAwlozR",
+    "_id": "37o1dPQGesBQ1CyFj0SATOideRt"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1blznKo3Reau1fDKDx9crSIF",
+    "_id": "37o1dOCStitRjl5eeo7FRpMy72V"
+  },
+  "variants": [
+    {
+      "_id": "37o1dScL0yCZuWHQzfKwB3NomrP",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dScKMtlmsPuEAFsXhyhli7K",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1buRRdsHMI5vwWfyHY20CNU8",
+        "_id": "37o1dQbUowofvwxIeyH0wyDaUxN"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1byeB0uQOnPphWzDPyMXuRk7",
+        "_id": "37o1dQkYMhjAZ096cUvgyQHpzKT"
+      }
+    }
+  ]
+}

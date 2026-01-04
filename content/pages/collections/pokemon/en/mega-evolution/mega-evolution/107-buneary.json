@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPkHBOnEkPFnYvPq55AFtst",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Buneary",
+  "number": "107",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTamdcOoc7nzndCrTu5feNe",
+    "_id": "37o1dQQWGNFR3kyDFwQ0YFzaO4l"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vakbijpbWp40WWotZpVIXOAHK",
+    "_id": "37o1dNvB7hYj5yOB4ydmvjCLz4V"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cAro5KRkyKWQn7RDfkZHKac",
+    "_id": "37o1dTlGPe07AWGE6yzrRQzfFpG"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUfBx3td6xE424NV0GPXsM3",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSssoGwCFvaTtrjVLziGMsP",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cAZqPk7jai5dwW5ssrrgwCV",
+        "_id": "37o1dSg87qXSMn1NaIoIlqhO7aj"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c9CJl6Zc3J0hdCrbbPVPYGw",
+        "_id": "37o1dO2zBxhwZGIhMvKOjyCdE9q"
+      }
+    }
+  ]
+}

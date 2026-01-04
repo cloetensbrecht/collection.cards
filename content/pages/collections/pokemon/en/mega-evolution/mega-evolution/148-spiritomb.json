@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dNbm4MAYU1CST1t6WMk6AMW",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Spiritomb",
+  "number": "148",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUTn4bnMl7jRekpkxBKcz1W",
+    "_id": "37o1dShkEQiv04zE3icwQiUsCT1"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdJMaqLRZb2khUkHzZXkCK2y0",
+    "_id": "37o1dRBAzVm96M6EbiihHcB3NTO"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cLOJ0IGkzVS3lMjF8OB69bc",
+    "_id": "37o1dUKJAI4jAnIMOxDd1QuraB2"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUefVsVRPHt79A7so2s5vHE",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cOWPPaYBYGNK7af8YOidJbR",
+        "_id": "37o1dUMCOx4hofJXY23aIXlUENC"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cOfQRHhaEuoyd7kffFxGCe3",
+        "_id": "37o1dO9eCJlDvTASi2PA54NgpzQ"
+      }
+    }
+  ]
+}

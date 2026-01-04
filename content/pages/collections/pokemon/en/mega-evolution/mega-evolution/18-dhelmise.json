@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPhzbKZMG720UHl2dfVO0pT",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Dhelmise",
+  "number": "18",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGR7cHytOb57XLMFXxuYlwlu",
+    "_id": "37o1dToEihUajsg1oxC6H205rEY"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A3PQs2SDcyJ2TOLjyxI5kbkrK",
+    "_id": "37o1dOK5RQmCp0WzbXDRymXVRFV"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bmRtlV4RBrMAOLUQAAWynsE",
+    "_id": "37o1dTJDv0UznwLZvZZcyIq4PfH"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNkblvZCzk9ukgxur89k3jk",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUNCowABBEf1ByI5tci4jbu",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1btclsBfaXDn9ODKR2pztCJU",
+        "_id": "37o1dQLCwEaRfzTVj2wYEORmSVS"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bw66Mz1bJ51Uyan6bI2FKK8",
+        "_id": "37o1dNkNRkk7nGErcj3SApWopPe"
+      }
+    }
+  ]
+}

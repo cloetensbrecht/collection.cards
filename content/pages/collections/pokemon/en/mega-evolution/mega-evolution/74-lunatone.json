@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dRG3IYV772UGXbVpThdjDdB",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Lunatone",
+  "number": "74",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRcv1KrA7SKLnV62VEcJbBG",
+    "_id": "37o1dU0wYKBi8ieFRuwXpRSZgML"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vadM7hRikreaL0xjHsdFwhQlS",
+    "_id": "37o1dNUqpcosFGHorOBQVnXd3Ef"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5ubiiKvhZlnvw4UV9prtYL",
+    "_id": "37o1dQY5taYEat6CaPuuN8CPYmt"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRSeaJJxhBUlGMiGkHOgUzW",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6V0GOEVI4OFLC6Gi0tCODn",
+        "_id": "37o1dOZY6vLx6fGBxIJ6nYuGmAK"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4DquWmEFML7obpmljXL7j9",
+        "_id": "37o1dNXEGt7C8WXNHp27fK1VMfb"
+      }
+    },
+    {
+      "_id": "37o1dOvoeIM1hQRYO1Xtfy9VZae",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cBeYH44r6MnTJJsSaLCXj7f",
+        "_id": "37o1dPhOH5iwaLtHNOLCynr8iZs"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cAh88jVqz2PPNTqDWIbyHyw",
+        "_id": "37o1dPz1OhLrJoFbJcwRBx18cHy"
+      }
+    }
+  ]
+}

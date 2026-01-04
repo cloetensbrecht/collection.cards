@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPiNHAv981wCnc81w8Imdys",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mantine",
+  "number": "32",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVucAKBrRTcZxOSOhYpWzd4",
+    "_id": "37o1dTWxXdAoZFvqxmuK9GAjkX5"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbVWnveXI5Hh425yZnDzGTufd",
+    "_id": "37o1dNtwZG4dnvZblh7ry7KkijN"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0sTtaejwNeyJBHE4k6cKOv",
+    "_id": "37o1dS0fwE4jVP1aluglawK4hx3"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO4zXhrtGy01wVWrIOBJ3qw",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSEdSqcap9l2pi3Vw3qQub4",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1y5YJ6k2dqVOyixBViYI96",
+        "_id": "37o1dR2LvMdMOModZaAZXHddAO1"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c61yMotjeVfF5g8f6pXz13z",
+        "_id": "37o1dSb0Q7MlfPCFjykCOowVFDI"
+      }
+    }
+  ]
+}

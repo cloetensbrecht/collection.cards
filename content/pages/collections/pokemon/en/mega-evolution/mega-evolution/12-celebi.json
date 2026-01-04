@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUWQ5VVwLlIBtwqcSHxVwlM",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Celebi",
+  "number": "12",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRBmbqBEyHDCUCwgXspQdEQ",
+    "_id": "37o1dT3gk3cqKJXsvbYzBqy2NXC"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EDaZ8p9i5yXxwsawTrUKdoVMm",
+    "_id": "37o1dSk6pOG0j4cRYXdOZ5H1ZBP"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bnPQOt0WOAfvvGDwFoOXvch",
+    "_id": "37o1dOR4SN3SEqsMmtFNBpQqLkD"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTNqp0HqkB8rg6SCaJdCUGT",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRCXqV1TbgwWzV0Fk8uAB8N",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bypjuQQhN6aVBwGSsUM05j0",
+        "_id": "37o1dR1FT3jR6c5BKVgFI1VNWGq"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1brzEuRjdRHyTJpIUqoax46D",
+        "_id": "37o1dQSNgosk6rxggjawSERIblc"
+      }
+    }
+  ]
+}

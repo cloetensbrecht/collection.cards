@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTtw5v0IrfyL5k1t4AoD3Mj",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Magnemite",
+  "number": "45",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "lightning",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWp5au5r2JJK3qWfJE8aGjJ",
+    "_id": "37o1dSYtt5GCHvM0TS1omLDmJA4"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349zkO7TWuwNfwDHyzn5cCwuG9l",
+    "_id": "37o1dQjqUngN6VSU3KiAZP0wgLq"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bydgwvsNvjA6g6gF3EAHRMP",
+    "_id": "37o1dUCE7fvao2vGspGIlkaivyo"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRYxwNDtnVxl4djoPHQGeT7",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTjzROeG05gaRXegWodW8k9",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1Jn6jWVXCAOYgR2W2M1zQ4",
+        "_id": "37o1dOiazM3LAXZyfscnG1Oi7dV"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0l3aWSmVWGH0tKdPkWzlWJ",
+        "_id": "37o1dQriRJYiNY9ZDmcT4jNoq66"
+      }
+    }
+  ]
+}

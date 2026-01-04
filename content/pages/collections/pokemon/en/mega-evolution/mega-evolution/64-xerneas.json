@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dR8dHGHQk4i65L600DKnLwQ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Xerneas",
+  "number": "64",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVmTyqBl9hXrUNSAhjuzOuj",
+    "_id": "37o1dNyG29nETGPRgenx8cJemXH"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vYMmWWk5NkFv59ifqpF8scdjV",
+    "_id": "37o1dOT84bvTbAzTJwEK2RBKBuK"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bz6fLX04qIRjqw97nwfEupo",
+    "_id": "37o1dNtauH1X4mDmrP5WN5HbbYC"
+  },
+  "variants": [
+    {
+      "_id": "37o1dP4D2o8a6noZgKNcjLqnAyt",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0PnOPG7UjxcSwKC6SRrOYq",
+        "_id": "37o1dUmVD6vvnvbYvaVF24DnZhL"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c6YB7Kvsm5WZXrpaUL5IFr3",
+        "_id": "37o1dRpGrlbDcJwZae6MJfVfJpz"
+      }
+    },
+    {
+      "_id": "37o1dNdSoHqfgLB8xhcNH4E7KLZ",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2DPNlObrFL4WtylQ9griZt",
+        "_id": "37o1dR0dxLOCxGy5bG2EqySSAuC"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4EIrZB9UXfTJCJ4qJoK13X",
+        "_id": "37o1dQnk81TMBo8IFS8VZOeyjVz"
+      }
+    }
+  ]
+}

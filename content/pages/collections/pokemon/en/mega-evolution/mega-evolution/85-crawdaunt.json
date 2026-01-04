@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTnresqobyexzFPGXqfUqB7",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Crawdaunt",
+  "number": "85",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "darkness",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUqcfzXIbUOfsyMoGd3e3Y1",
+    "_id": "37o1dRRXVsfXQG5bUORJ7rj8cIf"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EFTakY2ESip6eCw3eFkDttra7",
+    "_id": "37o1dQRzHmoOLteZGb7wrFJpztb"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cAFSoUjE5PwCGW3UzG0Z4lu",
+    "_id": "37o1dSmyFsb2Kq5XbgUF0ArFnSW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSm9wVLFbAT7m7XWgckQRUt",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOSztHFiTwWM4SXlngWvBXo",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cAAoOjMSvDUN2BJN6QpmxB3",
+        "_id": "37o1dOTja5IIGPN7vklm3ETmPww"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cBf8GRGFHoQZenhMYXpMeYr",
+        "_id": "37o1dUPHwunfZOBjvrq32XFXJ78"
+      }
+    }
+  ]
+}

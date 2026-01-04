@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNuuphNEFLZIc6F0nKm00y4",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Raboot",
+  "number": "27",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "fire",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXGE9QI4cZT77fsmzwRrtTI",
+    "_id": "37o1dPu1dWQEmwvLX00aTQrk5hS"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EEXHNLXSRVdYG3SJgZkT18RYH",
+    "_id": "37o1dRzfcIdsvkYNBFoTEqwb4EP"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c7GaqBQxc7xNf8H1EhHzYEH",
+    "_id": "37o1dOJg4UotkwZuyjN8DdZPegh"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTyWoFKELX96gvrP4wZy6ir",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTdFowZ2pOLaqhLmJZtp7IF",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c807qctyAC5C3sQaFg6HtU5",
+        "_id": "37o1dPpmFCbM6VmGMdOl3IiqjML"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cCmbvtrDXuvI2Y9Duac0MrO",
+        "_id": "37o1dPnCxEqpYltejtB5zBWHVAY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dUzpXWKFtak8a7aqDLAOKW3",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Repel",
+  "number": "126",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dRc485gcSmpiloso0rgGxcl"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cAuvPJFlaFRjPrWN3HC4DVQ",
+    "_id": "37o1dUWUMdPQzOjlmmCgL0OwmLV"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPSJASQW7A07QiSlKY4C6hx",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNUQnMtw7iEPkaV4CIP6AKX",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cLrsCY2QuCQcMKHkTtClxdF",
+        "_id": "37o1dUlUak0jodrM6XsMJ5qBMUh"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cJssbjuUPaRzL4uENvh2KYT",
+        "_id": "37o1dQuqzBYxNh34MbvC9qTwyAY"
+      }
+    }
+  ]
+}

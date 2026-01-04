@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUUyDcoK0P4jll5nks0RVGX",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Scorbunny",
+  "number": "26",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTIdlBrQueRX5F7WbuheAwY",
+    "_id": "37o1dPQQqnpFm55XjNBnRGIh39W"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXMCPGpNs4YpYKPNnKgmsDhqU",
+    "_id": "37o1dSu4QONvlKyjPUVEvwYQFyd"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bufytXjz179wCGJXXMFdtU7",
+    "_id": "37o1dPJRoKrpqM8gM1OtTv4pOTe"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOyEL479tMxTLGUbIOrWDmB",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRrCZmH2ZDH08CXuqXppL9J",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3UsSmC7wZjCa1ey13nAQ7t",
+        "_id": "37o1dTbKnrI5HY8Igs7UZwcSUij"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2uVYWxAdkG1cwrxvaMjNy2",
+        "_id": "37o1dRhuV37ThmvB1r0EBQfKYFr"
+      }
+    }
+  ]
+}

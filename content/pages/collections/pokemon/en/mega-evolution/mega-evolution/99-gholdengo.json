@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUE4VdXztsoMMTeOwIrBk5M",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Gholdengo",
+  "number": "99",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "metal",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWovFvDOaM18ByzQMEbpfpm",
+    "_id": "37o1dTBprlcwi8vuAFJzzURj50f"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXX4BkgLXx0jyfFy6DbsrdwFW",
+    "_id": "37o1dQ3gI6PVwIqcFqcWEarCsUL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c7bTY9pJ2fcOEaYpQCWtvGf",
+    "_id": "37o1dRaQddQjkQpgNmZZmTIBKsc"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT73swX5gyCHS6StMH0e8sx",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dP1uUYFqeQAW0xOsaiISiDd",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cFO1nkoxZrrlsdfz7cPYdsz",
+        "_id": "37o1dOSU4W8WHL46z4fgoH3yXyZ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cLCTcHSatCMgfCbe3LORVd4",
+        "_id": "37o1dOWW9wUq3cB0uo1pD5SBnm8"
+      }
+    }
+  ]
+}

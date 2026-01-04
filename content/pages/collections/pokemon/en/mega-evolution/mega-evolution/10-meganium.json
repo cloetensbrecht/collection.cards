@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dRS7rNmBFN0XYaUtGlG9nNR",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Meganium",
+  "number": "10",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 160,
+  "energy": "grass",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGS69uJ8r5F0C1escL4aEv62",
+    "_id": "37o1dPSfCwrHx3uTYR74tSViBld"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaFX2EJxdunv9ohPSi2lAOkNV",
+    "_id": "37o1dSLAUzneFUE6aBgqVP84Fnm"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bt8G7jKe0AbW3ke9d2uwwgG",
+    "_id": "37o1dTb625EvGNpabT0y0JcOhh7"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPYUVxdyzO3wl2xYmScI8de",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bxJqgO7eRPeZ3jCsGU229it",
+        "_id": "37o1dQdoPIMX5kGguHDkMPhF10P"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bvTl7B7FIHoEEY9ahNkhBKy",
+        "_id": "37o1dTclmuxy6CsXQdAcFYDCN3F"
+      }
+    },
+    {
+      "_id": "37o1dS0D6k1kknSgi3SnJMgUcGu",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1xy7gSatngSMThijGuGrTs",
+        "_id": "37o1dPcLOFbV7BpedANEJSjsjne"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0ESTc9iM0bkJAw64ungNLJ",
+        "_id": "37o1dOf3aKsYEf8DoPHk3ZPODsr"
+      }
+    }
+  ]
+}

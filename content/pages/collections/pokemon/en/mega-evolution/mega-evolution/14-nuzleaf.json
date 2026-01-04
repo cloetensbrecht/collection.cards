@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOaaOA2H8wUzj9mGtlb6IlQ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Nuzleaf",
+  "number": "14",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQawD2j2fhgWDoOVOuLGjOG",
+    "_id": "37o1dUC2TtQxPPoe8Cbspo03qm8"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BV7ELWsiELyxTB157nbsSwcHr",
+    "_id": "37o1dQFq3xDgh2njY5o2KGSpRcY"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1brJQV9Ykh6t1wOKtjxIpGe1",
+    "_id": "37o1dUBMRlOARYAJTeMRelAlaBL"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTD7wNyfSmRRjLHX0a8aQLD",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNWUktuz7mDhhfNv1wETo2c",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cQip6fSjr3kOvQAHnMv2Inu",
+        "_id": "37o1dPwZEMCadEQ7bU5cOS1Vy8K"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cSQJoJRPJNiG1uHx2fo8NcY",
+        "_id": "37o1dPQQCECPpKZkE8AC5AisBvR"
+      }
+    }
+  ]
+}

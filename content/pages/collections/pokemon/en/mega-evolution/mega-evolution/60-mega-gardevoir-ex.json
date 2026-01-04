@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dUsofCm2CjUaMC67724B8g6",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Gardevoir ex",
+  "number": "60",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 360,
+  "energy": "psychic",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vV7Az7hYGpLDq7N0F87wVc5wX",
+    "_id": "37o1dQGNQOLpkoeBl3MaeICg9Qn"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c6l23y61sZMI0vwOHgXLj5e",
+    "_id": "37o1dSYP7PamBkdGun68avdiT8m"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRJHRUl2hVdo3rL6ECo7WHr",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c58nPTeOilxzC9gK3lr1Anr",
+        "_id": "37o1dR4Cf3roIgvQulpFuhszV3A"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c18RzzIosFMDz3iqs51z40A",
+        "_id": "37o1dRyYaoGWArgNSBJIlRSoy2C"
+      }
+    }
+  ]
+}

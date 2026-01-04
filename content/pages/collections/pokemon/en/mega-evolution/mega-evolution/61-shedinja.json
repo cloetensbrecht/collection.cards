@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSBarcrXzo9umaHqT0o1ihI",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Shedinja",
+  "number": "61",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "psychic",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXJFRSe4yjZCZmt4sZcUrLN",
+    "_id": "37o1dPmV68FL97JoaUDfnSsVgCY"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdJMaqLRZb2khUkHzZXkCK2y0",
+    "_id": "37o1dNfVQFdoPBV4f9NyrujYlfy"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cCOAL4U2rT6QU0oC2JZrG74",
+    "_id": "37o1dTsYQUUpoBVrc3j9MaQV1bz"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPObidUapnwqw37gFrTgHG3",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOV1J4KcfwfZn6og6uBsw3W",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cAl6Qu6ni0bFEOVgxaWzQmS",
+        "_id": "37o1dUEU1fO9Wh2fUyhz7YnkR7O"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c9GBfZLU0tKE6D7pkvgx7Sn",
+        "_id": "37o1dNosugYz9G7ogqcBrd6D7OA"
+      }
+    }
+  ]
+}

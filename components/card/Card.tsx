@@ -11,6 +11,7 @@ import Holofoil from './effects/Holofoil'
 import HolofoilBlackWhiteRare from './effects/HolofoilBlackWhiteRare'
 import HolofoilDoubleRare from './effects/HolofoilDoubleRare'
 import HolofoilIllustrationRare from './effects/HolofoilIllustrationRare'
+import HolofoilMegaHyperRare from './effects/HolofoilMegaHyperRare'
 import HolofoilSpecialIllustrationRare from './effects/HolofoilSpecialIllustrationRare'
 import HolofoilTinsel from './effects/HolofoilTinsel'
 import HolofoilUltraRare from './effects/HolofoilUltraRare'
@@ -93,6 +94,10 @@ const Card: React.FC<CardProps> = ({
               break
             case 'black-white-rare':
               Effect = HolofoilBlackWhiteRare
+              effectProps = {radial: !isEx}
+              break
+            case 'mega-hyper-rare':
+              Effect = HolofoilMegaHyperRare
               effectProps = {radial: !isEx}
               break
             default:

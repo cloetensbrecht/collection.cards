@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPAtRoIsOboDMnaxVdBEFJZ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Jynx",
+  "number": "57",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVoAmGat7d8Jy8fnKMIm7tR",
+    "_id": "37o1dOpLAdWhAI28DEqqpcSlzaF"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349uQhvTpyFTe4TC7prfuhgEM0S",
+    "_id": "37o1dRRZajtwDe5vFuMYJhXmFCK"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1buaXll16QTNKerJJoSxfXJn",
+    "_id": "37o1dUNY2Xb0w6VsZ4jk3uqPsAh"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSlaoJQsIQDM0Hc98QkkQHR",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSPyYqm2umogFE8Xtc0xZpU",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1o7hNIiBfH9NWKGUAiWSeh",
+        "_id": "37o1dTiUk9GjbRKXKlM1H8YUTnQ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bxrPyf6yw2HgKWROCVWIhCa",
+        "_id": "37o1dNUFNwh3cHJpDJbS1cbh40O"
+      }
+    }
+  ]
+}

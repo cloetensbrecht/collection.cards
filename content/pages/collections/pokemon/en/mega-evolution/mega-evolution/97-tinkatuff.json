@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dV4wt3rA81KWvklGUucRKAf",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tinkatuff",
+  "number": "97",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "metal",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGS4LPJ08hXEiE7NPLAMSWpQ",
+    "_id": "37o1dSltTyeLkUOCAjKBrlft2ZY"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaLpCKAF8vbVpKm16XKctYSjv",
+    "_id": "37o1dR2laS3yBIKA2lkclxKfB1a"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5b0jfJABjyTm4KAbfGItZ7",
+    "_id": "37o1dRaz5dX5TlC7cD6GJ1sUpNT"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNj68Z39xBv8YXY7JIQ3AoW",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQxSrpcrD8epGBiCqtqtX0i",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bzeHDc7nKGOFKGkfGAmBvEj",
+        "_id": "37o1dPxX1rZN18sDyvSDfTgiFAi"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0snHjgAD6KOisM0Hx2nZam",
+        "_id": "37o1dUf0i8UYtnm39TaV2AeK5H2"
+      }
+    }
+  ]
+}

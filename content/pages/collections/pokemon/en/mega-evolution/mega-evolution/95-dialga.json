@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dONHjtFEBmFvDP1EG7sGg18",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Dialga",
+  "number": "95",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 140,
+  "energy": "metal",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTZQVE2xQXl7ON49Qw8RPkw",
+    "_id": "37o1dS1avDbJcYgPDQCJE8laE0q"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349r15HPSoIebKPFp8gePJa02Ns",
+    "_id": "37o1dUIDo8Oc0iquEeqOxgPGpGg"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0RuGPh0EKOMqW5gXC5IVEn",
+    "_id": "37o1dNoT93tHbAGxM9nYvbtHAsS"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO9pe0Tsw1m7dJcL7DG31Iw",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c7uZcyXq0HAhPWHNnpBNqPV",
+        "_id": "37o1dTaJk19yYUuWMkttQol6Edf"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c8nVqmBDNagQuCozKYz9hJ0",
+        "_id": "37o1dSyUkxPQH7v8wgoxwdzB8qS"
+      }
+    },
+    {
+      "_id": "37o1dRlumGFSd1scQt9JCs0PaMd",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cEaLsn0th23nM1mb5jGDMs6",
+        "_id": "37o1dUY6EhFxJGhllo4F7RAQyjC"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cD1d1VPyXHh6ac3rqzH9MEv",
+        "_id": "37o1dQg1tLmebssb6jrsazpw9JD"
+      }
+    }
+  ]
+}

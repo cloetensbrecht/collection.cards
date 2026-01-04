@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dOgUdjmX3VqEazaUIX2cwvJ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Strange Timepiece",
+  "number": "128",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZGqAhMVeaMz9R4gLoz8dBmSI",
+    "_id": "37o1dPlS8vtny3gcKTEfEeR5GlI"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cFuhUwYlOyZbiTBHkt4bnlk",
+    "_id": "37o1dUATS7qJUmxDB3taA4mw64L"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT8vuewdt6fk2OGAuUUtDUG",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSpjyJ6SDGRoQfMDNJwTZQq",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cJshBIlAxE9OK3R1Z7RYgzJ",
+        "_id": "37o1dSRAptwAVeV8nAjGMm7xahn"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cGYHFO2qLwabkPcx4SgBVBl",
+        "_id": "37o1dQNmRRQkuhG8VKMQCyoUKCU"
+      }
+    }
+  ]
+}

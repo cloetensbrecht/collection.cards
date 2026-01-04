@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dPkkKsnXaQmCAZE9RPWvBC0",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Yveltal",
+  "number": "88",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWdyTQG66542KLiyAvlQOFL",
+    "_id": "37o1dPaiANDKIjf98JAMlPVdKxP"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vcGVqgTM5CbQwSHRZZIA3rttd",
+    "_id": "37o1dQeTCg33NEQIDJY1y040MwB"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c4lr28ECAeLyPnMz9Id6qkU",
+    "_id": "37o1dRjH3qHRZ1qTjLkZfPwhmwC"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPl1PoKY6ug2WPFj5g1fadP",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5N5DREvXHXhsiu62G9bF9i",
+        "_id": "37o1dNfKzRxXuvAAtVzMmQIdTMO"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3uuIKydROpaXypDgACmutG",
+        "_id": "37o1dTvBIPr6LkblPwPLVFZVFzv"
+      }
+    },
+    {
+      "_id": "37o1dSy71gRJtEDYs16G6VEQ0Gp",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2V4PYYcr0sfJYxcYGPwUpm",
+        "_id": "37o1dTSac7DGyyk9wtAetu0PrAx"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c5b1e7nfyRaocC5yzQWjE3q",
+        "_id": "37o1dTaI4HNNi39nBnFKFNmvi30"
+      }
+    }
+  ]
+}

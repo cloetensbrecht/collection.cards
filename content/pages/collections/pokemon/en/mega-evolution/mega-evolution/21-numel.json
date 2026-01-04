@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTBokunUZfAdnrKeg6CaHjT",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Numel",
+  "number": "21",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUDJAnw8mzuIu2UK17iNhri",
+    "_id": "37o1dOxd7uNab5Wr3SCekyhPmFQ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349zDtOmQUBu3BRb8igKhhizPWJ",
+    "_id": "37o1dTm8HNUtujcxEoXVAWh9ffw"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bpwHOqICF1tMRAZBNoNTkch",
+    "_id": "37o1dPtDv0VOaA46oIPnjaEda4Y"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOzpjAtoIuQ7FBRQs2N39H7",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSmUV5cUT8rnHD8bvfnvnj2",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bzJLUuCYD9evpq8vHXSqZmp",
+        "_id": "37o1dUfYsd4gO0j1X9xtmezGxDM"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bryTeQLbBooUE5hbpOyxjir",
+        "_id": "37o1dTocAGKp3OMPpB1BgvMWm2E"
+      }
+    }
+  ]
+}

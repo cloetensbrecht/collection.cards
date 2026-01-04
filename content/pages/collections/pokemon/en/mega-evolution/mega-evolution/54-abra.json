@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQb89466YviVBe5mcHJTW1H",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Abra",
+  "number": "54",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 50,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVPERn3o427v7oYpqGPbwSc",
+    "_id": "37o1dSXiTRZyuFzlM3bTW3qNlQ5"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BW2OGxEgbF0eqisrfxHfuTewe",
+    "_id": "37o1dRbO7IXWjrmGfMotTAH05Cm"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bxZ9pdEqBpmaL9vn3zBhXTA",
+    "_id": "37o1dQunkec2pBgWUdTlLkMzUcy"
+  },
+  "variants": [
+    {
+      "_id": "37o1dU7tZwPEbwwmLAeHZN2BRXm",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNw7gzw6DAEbtdA1ZCztPM5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bsgBJZfpWc8apUkZxt13hC8",
+        "_id": "37o1dTzFMbgIx5Slrle7EcQeSOJ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bsGKmksguK15dqo7y2A6yIC",
+        "_id": "37o1dPUGPdgra8FyXNM0vExn6Fq"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSLa2XzpSdnh0EIiwZkzFPd",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Shroodle",
+  "number": "91",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGR7H90UWoAgCE4BunU1at5h",
+    "_id": "37o1dTFlxumVBuD77jnzi5YtAHI"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vabllU8Ul1mQxWJnYO2UvxZiq",
+    "_id": "37o1dT4hGmJHy2SwBIvbKVEa4hz"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c646fgZPx2O0DGwfC6w95wN",
+    "_id": "37o1dRITVFBtUeYvRz04ZD3wBQQ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOHLjcftfZQcIbOJlcYKp5o",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPfoPBupevJXfjdcdkzyHYu",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6TQEzfp5XsSCqdeHBUqtAB",
+        "_id": "37o1dRKTYj9QjeaBRyjn7JBN50L"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3Zy8P8Dq8yhQ8vyawhusRN",
+        "_id": "37o1dUsC9qwYssj1KasJdGuvKiP"
+      }
+    }
+  ]
+}

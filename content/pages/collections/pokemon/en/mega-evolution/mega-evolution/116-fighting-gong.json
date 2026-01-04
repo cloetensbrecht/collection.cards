@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dV5cXwEVoaH4ra57IjmkkSJ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Fighting Gong",
+  "number": "116",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZGqAhMVeaMz9R4gLoz8dBmSI",
+    "_id": "37o1dODrJnFC3k75xMBOYmZYC4Z"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cB8AixQWpkI3q4YVg9Lc2Qo",
+    "_id": "37o1dOZBxaXqHARAjF9NyhjX1HW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQFZDgneJxtcBmXMTNpCIRN",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNetDQbu3upqlperKtJeS5C",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cCajxqfFfdZcHuPNNWpIFHV",
+        "_id": "37o1dPhIE5Mh0GUjIBvfSo15dTD"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cBalZgyEmVnicpCRlZykNQV",
+        "_id": "37o1dS4ddEwOeGgqfkmGsqwQJ0E"
+      }
+    }
+  ]
+}

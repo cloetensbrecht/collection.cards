@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dP5TSS8NqZdjlwdoNveOxDf",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Clawitzer",
+  "number": "38",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "water",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWP9USTRgVWb6IYquua1Bbr",
+    "_id": "37o1dRxdFUinLGDa76IJ6XYoJ3j"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdnbkPf4vXYkE8OI8gnjIlV7Z",
+    "_id": "37o1dPSEu7EEKiRpVWJtbgodUko"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bsiS8vg7hEWP1cyFiPhjT1C",
+    "_id": "37o1dQFRKidw2pHT3muxzOcGkiv"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOs83Zq26tOagp3110a27PH",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c76UTuEv1FZPepITWLPUUCs",
+        "_id": "37o1dOJfxU2MNa7mYxGw4Jqc4rs"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c203Yj3mOZM2QIqiD5vnyvK",
+        "_id": "37o1dTvFXX1euscU100mQ5PvMj9"
+      }
+    },
+    {
+      "_id": "37o1dUzDG78qmhqFflouUSidLBF",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2iDGzJLqVwWRdKu4Dz6Hsa",
+        "_id": "37o1dNKnn9aOrYnaHrQou8f6fZY"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4ceBnpmvlW1taUWZlzH0Em",
+        "_id": "37o1dNJcXFz1cVd81hIOxAlmwvx"
+      }
+    }
+  ]
+}

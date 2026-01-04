@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUF1oVd01wq4fkI9iDYb9p8",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Inteleon",
+  "number": "41",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 150,
+  "energy": "water",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV4yGsyCFZFGmVpu6coW2aB",
+    "_id": "37o1dRxtJCIwnFY2pGdQjIckc4i"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vcGVqgTM5CbQwSHRZZIA3rttd",
+    "_id": "37o1dRdNaWnrOona1V6Ji8WnaBL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bucMiSY4E228GogF1SuTkB8",
+    "_id": "37o1dSc8xnDnHaJSbyG7C2aB5wt"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOp9ox1WLjjfvxTRAt5ip0r",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNlBojxo4tsqDmAXW2iuG5L",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2lalHtppmReZpqLnYbsxHd",
+        "_id": "37o1dQzccEdsZDGrhSHS3UmgmP2"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1GvxIz4mf1PP0Nm70jhnRv",
+        "_id": "37o1dSt5v9LrEhscn136L1fIbN0"
+      }
+    }
+  ]
+}

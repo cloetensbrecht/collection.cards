@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dO7JU84Zq9LXTPgfjywZXHf",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tangrowth",
+  "number": "7",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 150,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV4eobnxnu2DaKAT1c6NmtD",
+    "_id": "37o1dOq3xRrqYgMPQVgisLWrVO6"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vd4vNTmVSC9GXxdxdvrQctNaq",
+    "_id": "37o1dQf5cW8e5Ml5HjXj2kOLKok"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bnMaMeX8uiY6QBEiJPJN2kq",
+    "_id": "37o1dOdqRMOKiT7VyfiLyA3lcId"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUUuhlKfglhr5otBZFza1r0",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRGz5YzdluQOIDnifoKPoNo",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c23xUuESvIm6bk68EAuIdYQ",
+        "_id": "37o1dT1i73w1XlwccaS2w7YMROM"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c5fRvUdxhSyg8vq4bVu1GqP",
+        "_id": "37o1dQWb6ppzPuDpXK8e1iIRikI"
+      }
+    }
+  ]
+}

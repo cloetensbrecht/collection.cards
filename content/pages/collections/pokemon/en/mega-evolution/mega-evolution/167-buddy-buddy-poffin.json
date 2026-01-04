@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dOHVGsqSINRn8dB32WUpWub",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Buddy-Buddy Poffin",
+  "number": "167",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZDiCauBlUuRJ1IRKwZaoYqp8",
+    "_id": "37o1dUB4iP8GIHLRkJ9ZqCCyqp1"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cTGqlYIzbYrkmuv5NwDMeVO",
+    "_id": "37o1dTpMogGb3nvMNFvHg8alfGq"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRslRa3PI92PWOz1PVYjOa0",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cRizZeZ3ggux9PsmWdtTed0",
+        "_id": "37o1dU1qNHd9GN57dUBlqlVb5QB"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cUZ6Y6aXOSqJzPslqItEuUA",
+        "_id": "37o1dUykIBT2x1kfdhAVBsgZMt1"
+      }
+    }
+  ]
+}

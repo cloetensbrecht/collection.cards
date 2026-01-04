@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dQl5d4yrXEH8fgvY6eGGw8R",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Latias ex",
+  "number": "181",
+  "edgeColor": "#97999b",
+  "rarity": "special-illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 280,
+  "energy": "dragon",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33va8V9OnMaME7h0IDzzOTZ7fBe",
+    "_id": "37o1dQQlcslAQT4lci7etUD90Xe"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cTpR44UCdRvOyYH0wDI4uKi",
+    "_id": "37o1dQiGQTwl1VhXamJvTT3MYMf"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSVRtvDSIyrvssXzo0zBcBC",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1caIBqGjTydyaXXmpSj4pqCb",
+        "_id": "37o1dT4OINkTO1CUtA1NkD3tmxg"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cYpNlP5KjQrfgz3ZFAbX5A7",
+        "_id": "37o1dOe6aloV3fBY6uzIGfofj4E"
+      }
+    }
+  ]
+}

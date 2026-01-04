@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSaJxEKxFOo84jHH2fAfbF2",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Nickit",
+  "number": "89",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRCm54jKnoeSOY8hswEJZXJ",
+    "_id": "37o1dPycA1InF69uYSgprwQOq1n"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbMkl0gD4fnXIBc3I0FMkA7rX",
+    "_id": "37o1dQLTU1oqqLwLUAjzKBWz0kY"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c2p0DUHigTm2FJ1PNMS5AlJ",
+    "_id": "37o1dPHWeiUMs2xrQXS1L4PRey2"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNxrxF7KmUrt2aSfavXhyPQ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSZl9977Iq5LkEVn0gU9s2J",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c7azztsDFyqgUW5P5QxQiQy",
+        "_id": "37o1dUElLV55MQfcJ0ir7Ung3CN"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cDs3NfmxmTF49U7Jc0n7G0u",
+        "_id": "37o1dU9VtmwlJKQcOcH6vSV1gcP"
+      }
+    }
+  ]
+}

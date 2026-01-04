@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dSihxY167IggObmNZ1qgBrG",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Ivysaur",
+  "number": "134",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVF10vcAVKJlLDkYPxErvfs",
+    "_id": "37o1dP7irizPky5oipqXZpY6PFE"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXORBZFTHoxnDct1xdyH0X3Rj",
+    "_id": "37o1dNT2RS9L7yPwphskzTWwVcD"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cLoXicpN21Fyvi8XtoIfgN0",
+    "_id": "37o1dRoVLTJFc0L7oKLrUQY7STW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTdtIGsBSB0uv0sQ9Ieevop",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cO2Q1x6bpZf6vplgzRy8t24",
+        "_id": "37o1dUvzbUMnu9sIFikcUx3Rcg8"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cQUEBH4CEKjZAQ2nYd6JTkz",
+        "_id": "37o1dTJayliuGkQKzDWzu3PlHV7"
+      }
+    }
+  ]
+}

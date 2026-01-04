@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dNKRpJDhVNH3GpoFb1oxKjd",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Ultra Ball",
+  "number": "131",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiWhkwoErdNhZiTvI5XEYQ4tf",
+    "_id": "37o1dQEpgcTkSsPG71ruyjTlSNJ"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c9Rx9AlsgTlI6cS2m3ho0c5",
+    "_id": "37o1dUdP5mx6kHUxCHjQFjG0e0W"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRNUqy2SumRZnfoycst1Xz2",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQkO5VAbG0m7nivpwIUQjwi",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cChHLuUPHpbMxq7dvVgJ2qy",
+        "_id": "37o1dORlTNK99yvV1GQS8bmlXAw"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c92gFD8WTxMtqU2T88VIx9E",
+        "_id": "37o1dNoXJUHdVq1elrsZ66eqMVn"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOocvZK6RaKhuEzsNVm4yHU",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Seedot",
+  "number": "13",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGT2yYRSHqtfEftf62IIxFpT",
+    "_id": "37o1dR4GFv3fwv9cVJF9o2lgvMp"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vcdHQQUHB3yg0bj1aLbrrUfM7",
+    "_id": "37o1dU0HeIcQcTtLE04GxGzZGzE"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bt2bL5I1zp43yVEHM3HGEHF",
+    "_id": "37o1dODw47o8fA5SvDcwCaubaBW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSdVO7JAxpa22dlrmgOQJpQ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPQc6vupJ2XSPa15DiOi5Uq",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c57lebBozeBDS08qzWLZ0UX",
+        "_id": "37o1dPUPtjYh4oPVvN3H3WAGx2g"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1LSKplLMLwbcmqLCcL3Xys",
+        "_id": "37o1dPrVKg93awwnHcpRIEu8GGA"
+      }
+    }
+  ]
+}

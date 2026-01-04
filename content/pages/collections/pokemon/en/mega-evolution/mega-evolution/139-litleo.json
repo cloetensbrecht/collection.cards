@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dOAWxJyBj4C40s9YCoCSAJn",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Litleo",
+  "number": "139",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTzmwwwAOKv9zqPkid3yDkI",
+    "_id": "37o1dPmLg01i4Gjl3g5B1QrpVTc"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349r15HPSoIebKPFp8gePJa02Ns",
+    "_id": "37o1dOhHUvEmm5J1CFDKWs6imM1"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cGNFJbP2XERhBnoBr9FkeFl",
+    "_id": "37o1dUyrtZhL3vszKXGc2sxFsAn"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQa5XnOzsZOHIh4qF38sRGF",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cP9dpaVGaZVkaTSA9Nnz53D",
+        "_id": "37o1dSDjYHEWvL4WkpV3kLDfNEF"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cSe9QViqivFekDjkHC7Is34",
+        "_id": "37o1dPUEgwCFO3GorDCVkm5ljSv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRWi7ZRdh17SLtSxuOLzzM8",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Kirlia",
+  "number": "59",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "psychic",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSbg6mfYwVZEqOQhi5ofkfe",
+    "_id": "37o1dRZleTtsnG2dRn5wmInKSan"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349tWftyxx6WEzzYt8kfs8dWWPv",
+    "_id": "37o1dUIUtuaSgO517vltthszfbS"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bxkx9lDs07f3S2kpx6vkD2Q",
+    "_id": "37o1dNvZsUK31HRkUGlBsA23hlz"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRazlvDjoBPgHC0hB1usGd4",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRQcEdRQsDm4LvXRc0u26lw",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3ceRbbYCXfskhwSpzicyFI",
+        "_id": "37o1dRNxSze43XQWcMkofJmFDRf"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1J5cUEIKfEbTATuzyGVNeo",
+        "_id": "37o1dT2NPgLi7koKXwrj6lrXSQb"
+      }
+    }
+  ]
+}

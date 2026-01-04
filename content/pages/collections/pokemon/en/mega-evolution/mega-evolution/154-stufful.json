@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dQOuFMJ6s4ezYToBumfqW42",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Stufful",
+  "number": "154",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGT8nA7spET7T0inLKe8lilK",
+    "_id": "37o1dRxIoPBUcguwYsxIppBwXPI"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vY7s09PEgcYcePJCFGqslTjsT",
+    "_id": "37o1dSOUkWKNxyNL7f94sE24p3j"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cQvvfHR8l9GIl07G7AZe2KN",
+    "_id": "37o1dOSczQnH8jOSIi6YjmgqLYN"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOaj2JyKrRRDGNdacTwSKnQ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cT6OtTshRQw0u66TO7vpCy6",
+        "_id": "37o1dQK8hi20JR1ids9DYi3skJs"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cUAtyYrBNlRtLSa6IKkzC1N",
+        "_id": "37o1dSofnPWiUzSt29slrZxjBPc"
+      }
+    }
+  ]
+}

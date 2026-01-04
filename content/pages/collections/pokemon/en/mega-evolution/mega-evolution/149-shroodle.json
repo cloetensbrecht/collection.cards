@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dR1qHBDilEmc45vhQ9lVMVg",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Shroodle",
+  "number": "149",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGR7H90UWoAgCE4BunU1at5h",
+    "_id": "37o1dPCZQHd3Ntfps2LEghdyUo8"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbVWnveXI5Hh425yZnDzGTufd",
+    "_id": "37o1dUsip1Ek08bZEMgy2jMnAxU"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cMcK20WI72CmcGXRGWKUK2j",
+    "_id": "37o1dTl0b7iyyI1UJpmqH0WNJpN"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO8Wew11CqbBHbX6GkHtDQ4",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cIWOOVtNzMnzLjlKi8fXyYq",
+        "_id": "37o1dTFq3rtFkG1a81JcBv3IOnp"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cHxB1QM5nuBo97gVafhfDxf",
+        "_id": "37o1dUS1yJ3xERa3vrlZ37MMdkI"
+      }
+    }
+  ]
+}

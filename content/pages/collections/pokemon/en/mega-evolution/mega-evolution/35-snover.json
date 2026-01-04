@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNQSI2md4rSSdcS48PIPMBM",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Snover",
+  "number": "35",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV2ehFVGdIzOqrBImlIGQ0F",
+    "_id": "37o1dQPUTvwmitzD1N0QnV0YVWv"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A8ixJhdtLIYe3KTiBYiMw5MFl",
+    "_id": "37o1dUKb7hyCRDrqgHcItwEltx5"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bwrYDtrQYpF7LDRjjvR2ZUN",
+    "_id": "37o1dQeRmfTqBiVtEYh3zYxQVyU"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTcDuxqgJrgNiMlocY4xh5e",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTJDXCmWH72kKBJY2H4Jgmv",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bwvEFIy4mwGUgsp889C8jTZ",
+        "_id": "37o1dS4xYo1DBq1u5FDgOF3JpJ8"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bvMYs68GUmywwQDUc5EC0Z8",
+        "_id": "37o1dSi5LC28h7HjfztPwblqUgn"
+      }
+    }
+  ]
+}

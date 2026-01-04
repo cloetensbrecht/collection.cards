@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dP6vRbk5T54gPlPwfvdQLPC",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Heliolisk",
+  "number": "53",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "lightning",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWqTZmMumLcRZmoKDouWTgS",
+    "_id": "37o1dPUUzZjvP9Qlt8QWVB366ky"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BXF4WRjh1ERSLAKY3ontvDE1R",
+    "_id": "37o1dOauUnhrv5406bjy6jaImlU"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1by5nkdq2s9o4c82n9o8T6Ui",
+    "_id": "37o1dQhWBSFxrv1f4PuDxOTSizy"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUPRpTI2DXlVu5CTVGXh1vR",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOkVhzMpkiDuLJS0htb9lU6",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5FdFtnTMXnlie1C7hvRcXP",
+        "_id": "37o1dUWSPWazlQwadlRoG407eNj"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1DLvmFqtNBRTQdOCPVxfjA",
+        "_id": "37o1dUkiZow4VDRrwQGxcp6HEl3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNcPLi4FHKsTqWCdUPSx6Ix",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Greavard",
+  "number": "65",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSRzWEM51xnmbrFjEEiuum1",
+    "_id": "37o1dRmvQmjZOccFuNY30vQR6Pe"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EEXHNLXSRVdYG3SJgZkT18RYH",
+    "_id": "37o1dSt0Jz0ZazJmvKefJENDsAg"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c3VTO48aEfeyEt3lGdXM79D",
+    "_id": "37o1dQeYaOVYfJnWo6jOw6FHtS6"
+  },
+  "variants": [
+    {
+      "_id": "37o1dS2jZ5qyZwjdWyY6Cm5UC2D",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dP2eNuS3lckcKbOOZBPk3yG",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1BlPOPHDc9kX8uowWRPtby",
+        "_id": "37o1dQGTrIlDxvtSHfpNcz1TV4s"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2GyiChPKAVML3Rt2WpzqAH",
+        "_id": "37o1dOfnEiL0uiSZHW6ukIr4RsZ"
+      }
+    }
+  ]
+}

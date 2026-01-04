@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dTTqLo0uodOXvifhgy3E9J5",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Exeggutor",
+  "number": "135",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 140,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXUwP3l9hfAOpgKFKG8kdmW",
+    "_id": "37o1dSbqHK6oeQCTNW2xLKCPbTl"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXX4BkgLXx0jyfFy6DbsrdwFW",
+    "_id": "37o1dOlqOKYrZcFwinFbNL2UzHt"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cFCVdQMicRdNQ8xqdVuXSGD",
+    "_id": "37o1dPolyHeBnJaS6455Pm6jZZr"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQPsiPh9ZGM2zHFozGk1Tiq",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cGWFg3HHkhL65kEr96PHRqF",
+        "_id": "37o1dO2mWqsBbxE3kt1ItLiyeaP"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cKZruDAWMsPhKF7zaRmuzCt",
+        "_id": "37o1dQhOcT8pp1NPLBfCE7yuiDD"
+      }
+    }
+  ]
+}

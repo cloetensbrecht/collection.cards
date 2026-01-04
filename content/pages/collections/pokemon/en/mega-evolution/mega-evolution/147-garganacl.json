@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dNyoMihVAB2f4l5i3Lo1jDZ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Garganacl",
+  "number": "147",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 180,
+  "energy": "fighting",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSJMem8OF2eOPo9TpCOQqDC",
+    "_id": "37o1dP9iJ4g8il9JRhrskuj7t4Y"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BVFw5LsWXILcMTtoHXrXilLCH",
+    "_id": "37o1dQBSphWi1KZ34rlGL7ZVbYN"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cRnsoqxSzvVtTuHNmOOMGpD",
+    "_id": "37o1dSSsZWMVnLgGya0nNge4tXF"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOzCB0agLGItuaNcENVpEkR",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cOBTjT4LH0hSXelOHcDCTTe",
+        "_id": "37o1dOCZ3ZwKB78D0GrB92sIn8N"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cNMc6kTQ7iODPMYd6GZwGYd",
+        "_id": "37o1dQM7gqGD6WMMn6WVrcxT3h2"
+      }
+    }
+  ]
+}

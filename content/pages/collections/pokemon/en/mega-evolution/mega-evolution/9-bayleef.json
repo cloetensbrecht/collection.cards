@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPruzyoo7VUMOKJ4GmKaCvr",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Bayleef",
+  "number": "9",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGR5NDTQUcRhBMOfsaUoaSbt",
+    "_id": "37o1dNXA0MHy2x2zCSfSizgdUyD"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdMsxltAjHYhESZvJ74utVq3T",
+    "_id": "37o1dQgG6rlNMDFmojkLz79K3pP"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bzFbHE93fAdt2Aj0kNIVts0",
+    "_id": "37o1dRCX2EaNTt1yoslQ9t3M5nW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSh4iqJWO0zdYywDLF7OQTD",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dU7M77mA1qXpwx0zj8LEe2q",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5HT1rLu0vX2M1Ew6WywVBf",
+        "_id": "37o1dSdZ0F9Wmvr2C06cCDghgAK"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4Ula9sRqUalQLxCYOI4lLp",
+        "_id": "37o1dQZSYStqsteHSZCwOMXLC9j"
+      }
+    }
+  ]
+}

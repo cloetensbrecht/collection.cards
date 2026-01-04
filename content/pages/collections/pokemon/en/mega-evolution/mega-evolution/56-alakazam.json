@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dSRkbFbRNOFdSr33yGxzkPe",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Alakazam",
+  "number": "56",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 140,
+  "energy": "psychic",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUDXTAYYTN1mxzxYRWvCnry",
+    "_id": "37o1dS0UY4TjrkiOTwGCoW5IwII"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A0C6qda8oZbG90NORi5HJpKqW",
+    "_id": "37o1dOnqcwuzN6b0NIsXMuel3yA"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bx4Nd903JBjhEQJ6WHVMZKR",
+    "_id": "37o1dQXE6UwGUlEybGyDeWJf2fZ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTndHDZRL5zUiVGxbxWTpah",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bt1yfBbfTu4WRJ9IWfJ3JvZ",
+        "_id": "37o1dP7sG7QhKU7lcNRuCHXniZA"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1buVfHG5br52bPa2WW2kCAVd",
+        "_id": "37o1dOd74ThIPtmxKFmAYgtuPGI"
+      }
+    },
+    {
+      "_id": "37o1dRHrDyngyUbD6lEqVpilMXT",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c70MToSA71Jy1CdtlGktinV",
+        "_id": "37o1dNdeDdzKkHYOutQqtbBU0pO"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0fB61yPzfK8AzYm7VvSxQz",
+        "_id": "37o1dU058zQ2cvNhYCQQhuvWV7S"
+      }
+    }
+  ]
+}

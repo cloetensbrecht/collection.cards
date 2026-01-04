@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQDQ0bOXNP8O6hoFUD72c59",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Solrock",
+  "number": "75",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUgVBsjgFOyen08h266H96s",
+    "_id": "37o1dPfZ9Rc1EsCCkGrOl7VbC0F"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vadM7hRikreaL0xjHsdFwhQlS",
+    "_id": "37o1dRB4ENOPzIEH3caQyRRZUBa"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bxUAyj4qHGX2vFCgB7KG277",
+    "_id": "37o1dUhOfkmA9YMrfpSxwRJWjzk"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNecqE9gV4I9hCWWw0YtfWl",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSV1xVrthNxNjV9dlMks6Ex",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c26P6wv3HIo62DNiNPdKPFR",
+        "_id": "37o1dQBFHTDj1K6znDA32J34Sxe"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1kKDybGrPKgfRX47PddbJT",
+        "_id": "37o1dU7qbWMabYdFDPWUjDKMP5q"
+      }
+    }
+  ]
+}

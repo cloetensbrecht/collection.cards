@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dS0N3urqRJFap7nCOf8OvFf",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Chikorita",
+  "number": "8",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWR1uEozg6NJkMrBtpzz9gJ",
+    "_id": "37o1dQzeQ1WaPFgq7Ri1N1I8xGg"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vcgHcyrTEDVGllRHdQnnu0wde",
+    "_id": "37o1dRisWxWiQR5gGWdlX2CivF9"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bpDpQKQx3eI8lVbwGFQPbhi",
+    "_id": "37o1dQhUcedgPlaeiYYxIj1GA8Z"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNdjkFaVHzgNr6ObaLwsADJ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRendCBwBpO7zR8JjKQJkAZ",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bsHTLTtf87fxDDvIc6Jjtut",
+        "_id": "37o1dSeg8ZzT6YRAawzL4EaR1X3"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bzPoVT36ul8XGNUkosdo7Ju",
+        "_id": "37o1dTmLc7eNgOuwRAAxgK3mXVJ"
+      }
+    }
+  ]
+}

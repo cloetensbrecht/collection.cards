@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUvtyOeZJFiQygMTpg0Tmve",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Riolu",
+  "number": "76",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXVYf84eNuyurPdZiJ95x7Z",
+    "_id": "37o1dTm3aO50W4IvjAfLU14PcRL"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXtFEOiWjAFERRvhwRAMXm9Eq",
+    "_id": "37o1dQ77voKjU19il6h4G4UsmYR"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c08SRT6fX7cgmo7LXh4TRlL",
+    "_id": "37o1dSLxVHIap3tw5qnM3rrjzcu"
+  },
+  "variants": [
+    {
+      "_id": "37o1dS7UVYF0ESpV4mMFO31da7v",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNyE7d7GTHnV1XfMtp3YZIy",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6uzcSnlCJDt3feGaQRyslW",
+        "_id": "37o1dPXOgLHITJabm0Bqs7QtE5c"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0fNYfLHCVIGKXmavXjFtB5",
+        "_id": "37o1dRhKKvjkrXmri4l59OSxm1o"
+      }
+    }
+  ]
+}

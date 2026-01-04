@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRZpVGpIeOYyMaIj9PqIfz9",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Kadabra",
+  "number": "55",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "psychic",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQ1YWiH5cLnGFG92tWfNOuV",
+    "_id": "37o1dPlYYJkAaanXmS9A2dGyaw5"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vtSoFZ0bvONM8edNtxXPsYYMG",
+    "_id": "37o1dOtgKI0yj5Xu9jJvZ8guFH7"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btZyNuSu3SLA24jylbykV5r",
+    "_id": "37o1dQAUY3tCuQg1jevhTXwInOL"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTGk56B6PvgfAfCH1NlGB7f",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPzJS4zjExDxjQQgRCLin2y",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4dzX378hES42BBh5ZxYRXQ",
+        "_id": "37o1dThvtcoGaXJzMMBlhd0fAW1"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c27X89OOJQlq0F6DLru6ptF",
+        "_id": "37o1dUwkVFfM7y4w8W06J8NysgN"
+      }
+    }
+  ]
+}

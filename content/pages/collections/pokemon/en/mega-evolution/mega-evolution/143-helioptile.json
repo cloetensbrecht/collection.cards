@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dUnzeP68kPqwJIg9mEBQDcu",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Helioptile",
+  "number": "143",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "lightning",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVd70jwdg7SGc0aDjHZBcqE",
+    "_id": "37o1dNqMWLt6QujWWUjWymo39QO"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EBCqjRuYgZ1RpuixQMxeyH6OK",
+    "_id": "37o1dPcjjyYkWx5FKRu5JpLXQD0"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c95OLEtovfYP7CjGt27BoJ6",
+    "_id": "37o1dT2wzLrZYVouRz2wRGJTo9q"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQykE83O4MwDCVDDTGvyXYC",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cJy4viBNVuCz6N74KPOesEO",
+        "_id": "37o1dPcwKZlFExUqfnFDGpjSMsE"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cFWitKHfRcPzvYqPOFnFRxe",
+        "_id": "37o1dP9Fsi2mytC4zq9GKny3UzP"
+      }
+    }
+  ]
+}

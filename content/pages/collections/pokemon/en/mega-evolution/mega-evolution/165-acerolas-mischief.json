@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRVbitXP6dZcFUzOPefzg8Z",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Acerola's Mischief",
+  "number": "165",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZJOti7WXEFhja1ECral3WpcT",
+    "_id": "37o1dUYNHdeJ9S9QSdfLUkKm1qz"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cPuUOwkzoLALPzFB8seXSdp",
+    "_id": "37o1dOeJ7nKATnmTSFXWuiNmEKP"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOkfdLgIM9kLQ9DJxLaHwkK",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cRubIka8XqaY7smfFzJ9amh",
+        "_id": "37o1dSsZbHb6CfZQkdXl2ma6nJZ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cNLQjaoaebaDnqueCib391k",
+        "_id": "37o1dQdcWavw2NTxWThRG8co1rc"
+      }
+    }
+  ]
+}

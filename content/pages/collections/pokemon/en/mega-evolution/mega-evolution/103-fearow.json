@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQzWgitBA9YgJyh9wNQ36Mx",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Fearow",
+  "number": "103",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "colorless",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGU7b4ArlxhsOqcYkA6b5765",
+    "_id": "37o1dNmI03s5aYQrRxTQvvsJhk7"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vtSoFZ0bvONM8edNtxXPsYYMG",
+    "_id": "37o1dOrBFoSfzuiWUtBDY81Zvx4"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cCoMKZBB4MVLjnSzATNr8zn",
+    "_id": "37o1dNLjkbkbGUv4oAikCZ8eXoL"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTD0wJrEWpei1TThvdH9d2V",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSEfmYgI7ZHQGNhpWjUsIVs",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c8ystDEU5Gm4EwNhbdDZLlu",
+        "_id": "37o1dO5Q2ahlFTQVG3Cr5qEn0XG"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cDmpx8pCaojzs4unQ2T4kwT",
+        "_id": "37o1dT2DPeLRFRDv12bimaZ0XAE"
+      }
+    }
+  ]
+}

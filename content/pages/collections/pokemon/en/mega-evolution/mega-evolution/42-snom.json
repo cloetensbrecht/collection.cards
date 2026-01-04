@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSyYaGZaRailxJmOSjJUZao",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Snom",
+  "number": "42",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 50,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUjclKEh8XrqDR5iOpjbXru",
+    "_id": "37o1dSv6kGzygvybUUDSmbIsADr"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiGky9ThYmyzfvsuiXvhp2apE",
+    "_id": "37o1dUzKZywDIOtfs12talCvnJW"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bx0ICWDEVOSRBqAhZm3dB4W",
+    "_id": "37o1dT6jvI5Z0xm5TcetXNMxEav"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNeYb1Z5AthVC2ypEpfLkID",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUP0srenLpUAHnZmKmlDNPr",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0IhUaObI8iH4tCGWMPDQIr",
+        "_id": "37o1dQo4sUhwklCZeqrLmagJfEU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3ZATNIURC3PyZpMW3FLWc9",
+        "_id": "37o1dU6favhqmsEN7tjBHKE3dpR"
+      }
+    }
+  ]
+}

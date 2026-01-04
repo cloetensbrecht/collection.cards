@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dTuL1OtCfrJh7pFXYwDoX2e",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Gumshoos",
+  "number": "153",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "colorless",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUu8zMhcLxKE2KHtPL4Ljq9",
+    "_id": "37o1dTwVOTF9uSf15y8da97pD5Y"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EAbSo7qB0inQpdvbXS4U6JgNb",
+    "_id": "37o1dNjGuhxBza6tyzdrc2fBwwK"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cLeMod9rkZRFHZuhGMvSfDB",
+    "_id": "37o1dOT3BUUB586srROdPMpgOWw"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO1yyRTmzMhTC6m3fkj2o2R",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cQdhVapA5H01kEUb2TDIHNT",
+        "_id": "37o1dUB383x1jSBkRqjYw8eIiMh"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cP6PzqO1z46fFK5Eel8yn3j",
+        "_id": "37o1dQWN9jXxIU2P5Aunz7QN4dE"
+      }
+    }
+  ]
+}

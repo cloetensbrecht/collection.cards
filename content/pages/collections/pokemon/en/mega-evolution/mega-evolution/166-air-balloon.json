@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dUaipjhx60pXLHn0ip0Ukdc",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Air Balloon",
+  "number": "166",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "pokemontool",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dOSp63f7ZQSd77UUoqeN6uP"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cUNzWYNIQYND4kxjw24BXQu",
+    "_id": "37o1dPDTNMHjBqFIIY7WtnC2O6Q"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO2Xck6zpqlqc8guerKT5rk",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cSHDspf0scZcE5VhbFJ4iKq",
+        "_id": "37o1dTzJMEFqiBHgr9Fn2LwW2Ul"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cTheA3dGFUEnVC3AjooeHk5",
+        "_id": "37o1dRQZFRYThGq6sREMIXyRgAi"
+      }
+    }
+  ]
+}

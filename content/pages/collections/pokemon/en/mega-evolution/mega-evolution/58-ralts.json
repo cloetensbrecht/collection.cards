@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUo0coVJGYWkJof8Lc57Z73",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Ralts",
+  "number": "58",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSpbyxRiw0M7wfTAopOhiCA",
+    "_id": "37o1dTdGWPxfBCxsWPKcVaiSgee"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EC260ZiVLHE8Q7gPMCpnquAYL",
+    "_id": "37o1dPM90qzRhEE4ika03xS1YdI"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btpKUbBxzHFd0WZ0ZadIoYC",
+    "_id": "37o1dOnvAZH9O75xFNnv1mCEwq4"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSsFAHJweo5pvbdb5sDtfcE",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQ9doR8qdFrC72v7ch6JHVO",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0YJdtFwjhpH1oVHvqBsjnP",
+        "_id": "37o1dSuSYkdGoMzQxsnZwP2CuCA"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2W8V9s8imTa84H3saCoyKO",
+        "_id": "37o1dQAzI7tuhVR5Ce3g9s6TzWn"
+      }
+    }
+  ]
+}

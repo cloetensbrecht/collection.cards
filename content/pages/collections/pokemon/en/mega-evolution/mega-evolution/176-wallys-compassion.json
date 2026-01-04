@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dSrPhans7R8Z4uEMunL8s4V",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Wally's Compassion",
+  "number": "176",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiYgogAtDZDcpJUgTX4HQvNKe",
+    "_id": "37o1dUlhiJVsbIt0KqxyafDvDHt"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cSmWz8C4BahqE9P8pXSdvN4",
+    "_id": "37o1dQChPEZiO3FhLKx48WhoMsV"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUGqxIu5C9I1Qs1g1A5YTcD",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1ccSR8zl0f36fCyPGzUjkNqS",
+        "_id": "37o1dTiLDfhbaJBA7QsOgWyeo8B"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cZKSggsjb9PKBLBAMokhkMh",
+        "_id": "37o1dOoimfuqJTIGdwUzTht3BVP"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dQHCPW8qQsAzROgndrVFnb2",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Manectric ex",
+  "number": "50",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 330,
+  "energy": "lightning",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW",
+    "_id": "37o1dNSDPUPVknsndq0v756WE9T"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1buJlXY9apmhIOto6ICfhNld",
+    "_id": "37o1dV2T7DH8hFXdnavMqGMwv9H"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQ55ZiDT537drPzOKQzDfjd",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0IbaEqJFTs53rlCfVCOW8X",
+        "_id": "37o1dQqarIorKpl4oySIbowXiGV"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3XI4BYUOCi5vXwQuVQpzpk",
+        "_id": "37o1dUeohC4V45KsiwEQASDI79u"
+      }
+    }
+  ]
+}

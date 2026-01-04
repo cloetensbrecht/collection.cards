@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dSTMvsKe2Jn2M2QyEeLt3He",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Rare Candy",
+  "number": "125",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dOyoRNdA2gzFW0c8dgTJx7N"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c7gmyZJbm9gIR3aBw9kx0Di",
+    "_id": "37o1dUyxY98qFfJFtf8UuZCepWs"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRYRbxOBUAkv1ZT3QDTMbCk",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUki9zCsgahrpGSjsthAMIf",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cBV7Y2cSLKzhYe41IHdSjYv",
+        "_id": "37o1dSyC11hoILY1BNUGiepapUk"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cDH7QJ75tphB20A7reAy3IQ",
+        "_id": "37o1dRcO3Pi5UldSrdyK5kFh2n4"
+      }
+    }
+  ]
+}

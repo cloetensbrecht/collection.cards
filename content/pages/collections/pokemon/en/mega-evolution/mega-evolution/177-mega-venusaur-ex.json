@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dNYgvw1t0MD2DsYqCzOXGM9",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Venusaur ex",
+  "number": "177",
+  "edgeColor": "#97999b",
+  "rarity": "special-illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 380,
+  "energy": "grass",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXORBZFTHoxnDct1xdyH0X3Rj",
+    "_id": "37o1dQ66fY0t3v5XJKmtp64cK0k"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cJL09AvbWOhsLHZbPCAgB1r",
+    "_id": "37o1dSNjaLtqzSaJpYlmx5M509X"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNMJDJ5hMGMZ2GrApbmj5t1",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cRxVegJ5FnFV6TlOEIixnDd",
+        "_id": "37o1dNcUvjl9uVog6p1T6u2bV30"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cQOrDP203TVdvUPCwOltX2t",
+        "_id": "37o1dTvXzffCEiW8Zna9h1cw6Dh"
+      }
+    }
+  ]
+}

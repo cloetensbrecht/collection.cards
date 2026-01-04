@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSbFkKAnAKPGHIa3YOuGWaL",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Bewear",
+  "number": "112",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "colorless",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQj00lMsDa7ZoH8BYI6nA22",
+    "_id": "37o1dNddzKWqkSWC3OZQWNhdVWq"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EB6dYg46TmqKy3T1qB5F9EJ1Z",
+    "_id": "37o1dQqgLFzAogQ0d1pA2SKHFHy"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c1SWuiaNcKOu86bBLlQxTTh",
+    "_id": "37o1dR2jF4dv4qYUDmjfFJhCb4e"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTPhVv4yaKWbPuws90ZOIyw",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dU4VPqB3706VyOXC88aGKL1",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1cJADP015lZ5lqvY0Z6zpi",
+        "_id": "37o1dSp8mPYQQBD99h06bpbce9r"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2EtowjPh0IFn3lhPsuz2AO",
+        "_id": "37o1dOJqFVEoeg6zv92iysib9C2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dQNY65VlBMDJ8Knl1Fl4TQ4",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Snover",
+  "number": "140",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV2ehFVGdIzOqrBImlIGQ0F",
+    "_id": "37o1dROfC6nIv6URfwm59i7fAqX"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A9gooBeMPkZccViOjBb9wm5e8",
+    "_id": "37o1dNaKjzrZqMkSfNvvMU7okjb"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cH1zaQtravkt22dAtcgdUgy",
+    "_id": "37o1dSRnaOibLGhy3vTzos3B54B"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUMW03P8nMGN7cLNjJZRrZK",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cPQT6xmmmAMgnzMDLkbPmIr",
+        "_id": "37o1dPife5PEsh8vgT1oglVhwek"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cPn9PSvqZRU8N0QRLnDlVXK",
+        "_id": "37o1dOesAfj9m8dzf1Qnu06pZtt"
+      }
+    }
+  ]
+}

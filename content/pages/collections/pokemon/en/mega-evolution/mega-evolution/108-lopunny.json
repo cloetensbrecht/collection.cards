@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNqJq1uVshh2WYYM2ALKp1I",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Lopunny",
+  "number": "108",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "colorless",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGT4Em1he98J1IpzMLJaGynp",
+    "_id": "37o1dTRHD6C1GjNXQIxWl7PXBH2"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349e4JeljFnnzz85BdmNSIhdzCc",
+    "_id": "37o1dUBOq8KOMF3eI3ITZDZD4GS"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c95ub6EOlp2nHFI3xoRmCrA",
+    "_id": "37o1dNsekaqf45bzDlnB9rKjHwT"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNJVALliaezWF35mPc6Zykn",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRsQ3BSznCshKhYMcUPGad2",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c8niDwPHcbH9727LiyC6XcP",
+        "_id": "37o1dQd3Y7PJvZDJgspbNw7RBD0"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cC3hJRyVrPVUYki1sDaciMF",
+        "_id": "37o1dOQzma0dDCuleLUewgNNPHK"
+      }
+    }
+  ]
+}

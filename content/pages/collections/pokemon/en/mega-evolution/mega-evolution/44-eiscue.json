@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPuRrep22rv3LneDXHZUtPM",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Eiscue",
+  "number": "44",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRWW5uJPc5Kv5a45u1IZGRR",
+    "_id": "37o1dNrzONr3M2IM9LWY4ILVjHh"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EBCqjRuYgZ1RpuixQMxeyH6OK",
+    "_id": "37o1dTfDUHfaiV4n8FusWy9LSnL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btR4Uw7Zg8WsThWEZ2p17pv",
+    "_id": "37o1dSBFBBsKXo5rr3Uw5eVSk1q"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRnatHWrCxDjzvwA7UqiZFr",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQotHZbFTbYizqCLxU9DNRL",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bwC3BSEcR4d4xvZlgA82ObS",
+        "_id": "37o1dPtR2pQBJ1hrP8vDo0DZmOX"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bxkXAeXByFjbSTHa3Qi7J0R",
+        "_id": "37o1dNs1Q4uCfUiEa2ttxy2OwEl"
+      }
+    }
+  ]
+}

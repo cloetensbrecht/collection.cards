@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRVAFqjpdePUQqXDFqjIhk3",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Croagunk",
+  "number": "78",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUNacaoRK61n0fWOKKOWp5M",
+    "_id": "37o1dSjbIliS4WNklhAT4Ye76MQ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34ED9bKZVBHmWTtmZbEnKZT4tvt",
+    "_id": "37o1dNckzs9cDUqXtaipQSgGxxk"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c4Zdc1mKkJfdgVGGYJIHMOM",
+    "_id": "37o1dTjzG7B5sGRt2uerGKvmhzc"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTDimZBu9d6uGI4uY81nWJw",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRJ5PCvxYXbzQj4LAbCAQNI",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c04wffT0a0ZwcUsfOh0bydH",
+        "_id": "37o1dNxIDt8PEkqA4vu6XFfw7SR"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4u5iFQvrOzumRuuXTTVxuX",
+        "_id": "37o1dUR2mv7sod5LG3TIafCQqI7"
+      }
+    }
+  ]
+}

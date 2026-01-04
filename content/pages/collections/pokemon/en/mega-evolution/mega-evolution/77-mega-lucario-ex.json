@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRtVpfg4xT3QeAuqg66vZl2",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Lucario ex",
+  "number": "77",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 340,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW",
+    "_id": "37o1dUjv2OmTYDv1cyrfXPAcCrN"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btXuwisxdt5NLY1ZbQ357sf",
+    "_id": "37o1dOCg4enZIexyWrEAfXdAvHv"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTpcItTWkt5p0R9jkNmNfO6",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4BQvmiZiyjHgBLz9VW776z",
+        "_id": "37o1dSqJvlFiLQx8Si1SbK3FLGZ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c5LNP5FwROD9ZSAjwlwZwrY",
+        "_id": "37o1dUBnGE9s1y7ONAhivVU8iw1"
+      }
+    }
+  ]
+}

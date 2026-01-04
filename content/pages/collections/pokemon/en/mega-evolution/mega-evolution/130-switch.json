@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dNaSO3QL7ycte3bcFPNhTUp",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Switch",
+  "number": "130",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dOxwrnF2fK7Za0WFG3RViTJ"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cLoZIwEuzJG0xSZsPpcbuq1",
+    "_id": "37o1dUg9Gb8RLe9OFfceOAlxUik"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT3BbbhJT5KYp3lVA7SdBbH",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRK8rlAgZBVAsFzDTbWzITr",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cH4VfX1ai0CPYf67RZJzV9J",
+        "_id": "37o1dQL8zJCr0KXBBariLQfGact"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cHsTSW3FdzrWwIg6osJaQCa",
+        "_id": "37o1dRUum8V2RV3EGQDoY4QxXLQ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dSdzXmeYqjkeMIwwCzWqetD",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Hariyama",
+  "number": "73",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 150,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRiBbfcMe4dms7d0tw2aixY",
+    "_id": "37o1dTRZrSPrg8CVtxa9PxegBqx"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbR0Kv23oYvSnWfbSRqtgyHyL",
+    "_id": "37o1dQ06KqhB3meARnxXiqwYdnp"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5pc7KMseVEnUCkhQBRiILi",
+    "_id": "37o1dNzqncZIwsdOxQ2AfK5JrL0"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPLSAblJAvbLiYYbcOCkeO4",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3NKNtZVYH86yAtV2CdxEFJ",
+        "_id": "37o1dTpsun1IgTEBnliI4ggAmba"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2mnJGlAhSXIxSGtLq50NcT",
+        "_id": "37o1dQVjY1GjN8FIw3xMMwp02ZA"
+      }
+    },
+    {
+      "_id": "37o1dQjRYEathsp55WCRx90ISjc",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cCTYMTo7PfhBmXVrSR3iSYU",
+        "_id": "37o1dS9EOnwazrCBVPtcEV9y1IX"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cA6CJadtyQIAaLISPzhIw2g",
+        "_id": "37o1dRBtG47qKyJvG6NtKeVlq6N"
+      }
+    }
+  ]
+}

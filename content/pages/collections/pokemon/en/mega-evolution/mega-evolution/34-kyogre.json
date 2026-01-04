@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dPkKtfumI47uyIKfE8qUb8d",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Kyogre",
+  "number": "34",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 150,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXcZo2t3dbaKptQYZr91hAh",
+    "_id": "37o1dQPRTaOqGNWHHE0Ufgw6s9W"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33va28LR7XuYuqRjPlGgMFfpA37",
+    "_id": "37o1dRli14WS2TX2R6ejipaE3b0"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btq8Tbo7rZmDZzGfh1Q5n05",
+    "_id": "37o1dQ14dlL1Yz5DJiFWgF0pWTs"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOyBWmfZnmp3DYw26Y8thlj",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4fwMlgk4biy8aszWIWVGnI",
+        "_id": "37o1dPlYyTitmmVzZmo3Oj3zoWA"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2qQTBiIdCKbamNClzHtSHu",
+        "_id": "37o1dOLEvvNoPpXkHzElLviMmVJ"
+      }
+    },
+    {
+      "_id": "37o1dOOrrd4bBrvouPMitqviT5H",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3DHClSQ4A1IYSpzivxVLkd",
+        "_id": "37o1dNUs3Yacj4OU68cMh4vk478"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c6UZFSDsCu8y3B93R14OQJ2",
+        "_id": "37o1dTookA9sUKToKegfHen4MGD"
+      }
+    }
+  ]
+}

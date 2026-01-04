@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNsNhvWxuYweV3f0iVcyFVh",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Toxicroak",
+  "number": "79",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV0V6ePLYbui4AJi9LsLtPq",
+    "_id": "37o1dU59c959eUhAmt5VahOhkhw"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A9LokSAiatevc0cEJsqK6p3za",
+    "_id": "37o1dP3bHrzM6VevCBANqahDil5"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5OhVSX1tDgqnzHiTKXxf6O",
+    "_id": "37o1dQf3OAuyK8oPtekY4n3tSP6"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTBdpB43i8Yx7uOiWg2siHf",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQd6DRMVVtUUd2Dog4MqCEI",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6pg7B6px2oiXkS6getuCi9",
+        "_id": "37o1dPnJa5RvK0X1X61RDf8bJvT"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0FQ0aHAqKIJn5TVtUWDY8F",
+        "_id": "37o1dV5sGj6Np0Vc80WScEF6Qpo"
+      }
+    }
+  ]
+}

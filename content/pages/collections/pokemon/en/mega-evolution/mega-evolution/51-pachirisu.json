@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTQlOr5ZNIatHOFwnDiEADn",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Pachirisu",
+  "number": "51",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "lightning",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGR1nvhe0h74Mkrbw5NMZN9v",
+    "_id": "37o1dRMaASrYafg82j7cTb6M525"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vca1V1h8hkaaVUVld5rGWVy6H",
+    "_id": "37o1dS2sjTimbQZKq4hZF10nTQI"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bz8FbyLxqGbLCRRD640CBHG",
+    "_id": "37o1dUEsTxjRW5ZebmijQ1YpF8Y"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO0XvJfilKv3yMaUI1XCDOL",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQTm8LzmeQixRLXX9LN7l6O",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3VgEG1Rw4mX5OQ9YmEDyhv",
+        "_id": "37o1dPGOmnoCwQW4Wc7W5goS2Y9"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1H9xts0A8kMCcQ3UrI0T9r",
+        "_id": "37o1dQlRr5AlJJLWNJLttNXD7hD"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUPMUCVVB7UBq0F5VcZEIFV",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Litleo",
+  "number": "23",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTzmwwwAOKv9zqPkid3yDkI",
+    "_id": "37o1dOkNqD5j32NS8CsCzLrXgIC"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXFtQdeH0f1XVOXsWkr39Jnac",
+    "_id": "37o1dUJ0OEUYzSgvfC1l0iSaJq2"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bvN01nMqJoSNb8vNKjSWuCj",
+    "_id": "37o1dNm8lVo6evuwLdvc7Zl804e"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOksFH5gJwTkwdHp5FDBTk1",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUh2kNPoHhiOTJ6t5dxcLL0",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6xlqF1P1hJ1cVnHaiAQuYq",
+        "_id": "37o1dSzhchY4Pq6ZEL1cecfWaCy"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3GjalfiXEvZsUxw64YbaEv",
+        "_id": "37o1dNjTYqYX2Ffq20CqpjR23uE"
+      }
+    }
+  ]
+}

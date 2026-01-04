@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTCYUfX83QwvhhzqrR1S6Xg",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Ninetales",
+  "number": "20",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "fire",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXTO1JCk3s3akl1woKEhrtV",
+    "_id": "37o1dOEgfGE6cutq8RsZ7ssOkaF"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349tWftyxx6WEzzYt8kfs8dWWPv",
+    "_id": "37o1dOMD1KwnecYQEO7NkigMjeN"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bnNnjh8Yn1dp2hIcA2EzP3l",
+    "_id": "37o1dNqkPkzR1mYXYI0WwLZqFVY"
+  },
+  "variants": [
+    {
+      "_id": "37o1dU2dQQplNElsqTTZ9DIR6lp",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRqndXzlQN4cUXnYleRvhGA",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2ArrO8gpa6QlB0obUH0pEE",
+        "_id": "37o1dV1kLysrS6WDVgGdf3kbpjG"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c60hZ8dDvhDMTmDHT9ySe3S",
+        "_id": "37o1dPbj10Pf8iiiAa3j7cTg8cn"
+      }
+    }
+  ]
+}

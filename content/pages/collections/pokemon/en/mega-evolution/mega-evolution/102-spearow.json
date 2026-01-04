@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUN1kj51YWdIatEAzZ5Ziv6",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Spearow",
+  "number": "102",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSF0aMHw36KOb48kGOupB80",
+    "_id": "37o1dSDsQNqjXkEFGTYPtXlDwtj"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EEAfhbHESSEw0aJ95txoEMPN5",
+    "_id": "37o1dT6dQS2Cy0XrcWmYoFb6Naw"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cE9xnChwOsZFQkjzfDiyag2",
+    "_id": "37o1dPspwZFeBWwiBKhlTlFMkIL"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT9qmVtpcD0hV3rBR69hbex",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dU1JiYxMUb6L4VAtntJ9JYj",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c8QPalwn2ghYMd9EpqMVnBO",
+        "_id": "37o1dUiD5lmmUmURYqbcAbbkJpQ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c7zN3CkQ5lOP3HjdtplsFg0",
+        "_id": "37o1dU88oNPcCJAEImSW0kb3Vqe"
+      }
+    }
+  ]
+}

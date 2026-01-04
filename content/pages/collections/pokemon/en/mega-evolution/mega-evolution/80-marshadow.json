@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUy9LQcsdUYCANPPf13Loxs",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Marshadow",
+  "number": "80",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRQ6u6vzgV59cSIdnl6yoAW",
+    "_id": "37o1dRvJzqn8S4baEVIHwWwHGbu"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vYpwBnY6o622RpPW4Ru1p5wwg",
+    "_id": "37o1dQ4QPWtkHmSPRzxN5d1VRRO"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bzrDkKjr20g56nI8LYsaiux",
+    "_id": "37o1dQtUwrIP3pty1WVB2vADFZN"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUliLduZ4e0mzyahieEINad",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUcccJJPpY8t4sDsOcKL6sc",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6A6gvgeaXw13KNbt9KWJTo",
+        "_id": "37o1dTChzGlEEEjtXB52dchiomz"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1DhukpSvidBMNIaSM9tLJS",
+        "_id": "37o1dU5PmFQnkRggkxE17yM90NW"
+      }
+    }
+  ]
+}

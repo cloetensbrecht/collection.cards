@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOfhz5rD2oOcAJ5i9Pt7yZj",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Magnezone",
+  "number": "47",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 160,
+  "energy": "lightning",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGW0nUD6Nmibn0tOYzVQ3iQy",
+    "_id": "37o1dSVFPAYy2Wc4JwSeSptnDBV"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34ECVa1E1x8rycoIbDfVA36UfP2",
+    "_id": "37o1dSDuXYGuoJQqJ0IHy8U4Mm7"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bsViYNIPSQDa9LunPN4oNeR",
+    "_id": "37o1dU5aFqpjI4GGYKRRMCnYcIG"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNpd2WBNPSCV9lvjEPNcs6E",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTfEN1sIq3afXqbUur7InyG",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1btz1LxJODYG1lFndPJceCfp",
+        "_id": "37o1dNXZq0dN6NdvnYbpw762riH"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bxb6uBqKE7BWUXkNkRURfjI",
+        "_id": "37o1dPH9AI3NiEdwvZsgni34Zb8"
+      }
+    }
+  ]
+}

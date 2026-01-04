@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dSB7MVO6MCPEjDEUb71RXSo",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Pokémon Center Lady",
+  "number": "123",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXo0KBpEXgvziBy0udh8bE40d",
+    "_id": "37o1dRcVfeuVRb8fVbK3tPRzAtx"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c6LHSQpzDXzB7hO8lh6FBpX",
+    "_id": "37o1dQyYw6KyfHHjINClTUIni46"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPXoHUBt9m3WdgNYsROQk5A",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRZGyPHkH5GfRPIQaR2vC6a",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4zK00rTk856qjAP452SKP9",
+        "_id": "37o1dOdkfmikbwkzkj2vaOvTn0P"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4X8h0q3gYpqX5VL8MA6cBD",
+        "_id": "37o1dQs6fNlUluqm2Y4SWrigRrR"
+      }
+    }
+  ]
+}

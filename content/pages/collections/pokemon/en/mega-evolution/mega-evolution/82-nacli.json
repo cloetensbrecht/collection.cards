@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dP2O0RPDSAV4moa3l6h23sl",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Nacli",
+  "number": "82",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQQwzInMIRCgBmsWPr331iz",
+    "_id": "37o1dO0iJE8UFQst1i5MrkamM7W"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34AA6ttWKz1ObnMbpME8lVJrnri",
+    "_id": "37o1dR16KwI8bxmafoB10uKbMmm"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c1Q5GTBSOvGlGOu2eOhyGMu",
+    "_id": "37o1dR7jMY1WibWcv6s0rpHTWSQ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dONlTSAP2rVNnme0aAH6Bde",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOCEX9sichL8IBchqqNpb0H",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bzz5EG3EZ31p2KLEYWFaWIM",
+        "_id": "37o1dUAJMNp1UNMT3pIqaHbA4yo"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c5rzP9L00ragy84CYDm4v19",
+        "_id": "37o1dQl8kJEX77HYT84vVGC2RVF"
+      }
+    }
+  ]
+}

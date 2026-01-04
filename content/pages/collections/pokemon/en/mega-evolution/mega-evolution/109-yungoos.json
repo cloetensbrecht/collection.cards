@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOfnnkDr36SzoWYzmSbvcwD",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Yungoos",
+  "number": "109",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTNLmNFQP8DzeRAjpudF2TW",
+    "_id": "37o1dPFGMC0Ol2D2jH5cXjpf3au"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BVNhK2lxYszQuGGd6utSHe2AB",
+    "_id": "37o1dULJKuXkQgZKeSftfv2jigR"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0KjGC436e2Du9UfkghEq05",
+    "_id": "37o1dSALm5GiFeqOCRH4H8R5HS4"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSlDz42AURgTaHb04KwREyZ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRPvYKYInfxMLYRfeLdXMud",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0s947j0oL7soIY3TpaSHms",
+        "_id": "37o1dSlZDHd4EWFaixb62YbLYkU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0g6ENSqeadFGWRwimhWiMw",
+        "_id": "37o1dOqHpHCOkscr641GlOi6Akz"
+      }
+    }
+  ]
+}

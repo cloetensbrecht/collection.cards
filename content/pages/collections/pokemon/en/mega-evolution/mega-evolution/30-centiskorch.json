@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUXWdLW1aWK8H27llj6kSea",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Centiskorch",
+  "number": "30",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 140,
+  "energy": "fire",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVNs3JCQvBL738yr3j1hr70",
+    "_id": "37o1dRvIHmdaud8DlVobmMYaWO1"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34ECzPiNOuFTTPDHHMi7GNcczES",
+    "_id": "37o1dR7dKGyCSykfHUpcqAlH0mX"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bvJekqcj3DmhSLPNij4Vzvd",
+    "_id": "37o1dQaIMLt6OvA3Y4sh0gsFU3r"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTNiwzudTDXvHqFlye4D5ap",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNgR03EEVzQsC8MgJE6NbC5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1buggXFT8CIOTNs05uB90PLS",
+        "_id": "37o1dPd4zsPxlsPAqoyLUqB6O80"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1byANjJwYeoLfJEdAfMccB1l",
+        "_id": "37o1dSC1qu3MmbNZU13sfFxASQo"
+      }
+    }
+  ]
+}

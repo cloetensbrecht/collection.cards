@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dNs3NytnYMCxyfwz6WYJJRX",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Lillie's Determination",
+  "number": "184",
+  "edgeColor": "#97999b",
+  "rarity": "special-illustration-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "349tWftyxx6WEzzYt8kfs8dWWPv",
+    "_id": "37o1dQgiYrfOIXmyJYz3tcbD94k"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1caFy37gKeSdKc2QXk4Io4ph",
+    "_id": "37o1dT6C1qcnwhda11T4vxsdgW9"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUeCtYYnNwdaylo7xP7Bkhu",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cYP9IgYeZjoK2PWyOUnuBR9",
+        "_id": "37o1dPESepHYwG0K38D39UPOGrw"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cbzt1dBPQGDZnOvGnq8ZxKQ",
+        "_id": "37o1dUdLIPmabf60Q6Ocv2CQpRE"
+      }
+    }
+  ]
+}

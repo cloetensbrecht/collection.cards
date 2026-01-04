@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSdw98sk7GXJAWpSXR5q9kF",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Nincada",
+  "number": "16",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 50,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRctYiszUyTjPgynaJJ8tSP",
+    "_id": "37o1dQK8jBc9lo5283CPwa0XL8n"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BWqKm9kK6wIvmBSUFyymxL35e",
+    "_id": "37o1dPBU4HFQWn7s7GH3ReGpw1O"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1brSoNn2xwWynFNjEci8Hagf",
+    "_id": "37o1dQaiHH1p6dEelGqdNGhRcDE"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNYFQyomC34xxKEq4pouDQV",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUaZgTK7A4g6v3wgyXoivih",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1buJ000jfRnkTRU3vzvXUCAf",
+        "_id": "37o1dR4OOkxbQZJ5DWZQINhxuh0"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bsYLBtpUL2NxJYSWpTaFVD5",
+        "_id": "37o1dUz6G6ARhp8Oweo1Jhyj7QK"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRyCNAi9QzllcXk5Y8Ty0WJ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tinkaton",
+  "number": "98",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 160,
+  "energy": "metal",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUburrXH5uuF5Q60NGxreQi",
+    "_id": "37o1dThyWIJn2PK793bFPDY43JD"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vc8fUQ3cLQQniMEPW2AF0lrxG",
+    "_id": "37o1dRZChSjfzkxmef6RBHEzTAA"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0Jp2gDhMns5NLjhlsClR10",
+    "_id": "37o1dO5O1Fa2jXd3FapiKlss8Qe"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT7F7s6r0Yz2lXVaprdFeNW",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dP433CkwtiOknXvTM724Ks5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bzsee0FdR2lCZqrnJIEqJUW",
+        "_id": "37o1dR4ckGiprDHjCSwvBaNTzrV"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c6yQGhZ7AyxTDQDELePEoZ5",
+        "_id": "37o1dO3UOwSHwCDtplUYnsMTYRv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dP8YouMILbwBU7W55JiuSdK",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Houndstone",
+  "number": "145",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 140,
+  "energy": "psychic",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVRbrTUYJ7X2h36o1EzuTtz",
+    "_id": "37o1dQFYBqhnZagepLTNNP2W9jc"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiabULJzp1Rt6SKGS3PuBlh4h",
+    "_id": "37o1dUfgVv4uqhLnGJWIg3sHq6b"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cFDGnIVyhPibalrslYS1Afn",
+    "_id": "37o1dRj8CG43SFf7HCl1O1QubYI"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPQjursnI5AyrdU2O1qUiiT",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cRYjRJeZK4vLiAqXlwCxjAs",
+        "_id": "37o1dRsBmFGmKg1whwntiU7nzxU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cQ0gpt8evhqeTHnMjg2CCwL",
+        "_id": "37o1dOJQY7h8cEgL98neRkfnf1B"
+      }
+    }
+  ]
+}

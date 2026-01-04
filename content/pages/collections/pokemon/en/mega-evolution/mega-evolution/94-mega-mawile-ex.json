@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRq1cjcu0FTnQbPOZIrQacO",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Mawile ex",
+  "number": "94",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 270,
+  "energy": "metal",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiM3uXbhT8aPAWXVCsILHsX1R",
+    "_id": "37o1dUIAQr2Irfn7Uo6XKTqE8rF"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c2iCP2AHU5pJNAdMkMud06a",
+    "_id": "37o1dRnCvTpQS6aqerF7T0NpBUZ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dR9FnWFBrjLM92T22A8dxZ8",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cCc1uJRCbzszVMJLL61atUs",
+        "_id": "37o1dTL5gUOiQmM7qEXHkr0Mz3Y"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cDmd5lNSSL7SyjGyPlySlhX",
+        "_id": "37o1dQrY7IyisanO2EUvv2JJ8Nq"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUCjJZESUX2alkmNJ2CduYW",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Exeggcute",
+  "number": "4",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 60,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGXcpoIRF0u4Ty3cmMMKKiTT",
+    "_id": "37o1dQSr9GLSjzW0QDWFhRZX6e0"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaIjJh3tJYZXFxFnfodi0wzxb",
+    "_id": "37o1dOxsroht9WtsmMTOQ6YtYMB"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bo44NRS3xNqutFpOAtX6KxQ",
+    "_id": "37o1dSmBrjYRuVSJmV4ICgRgb9E"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOft3QbhoECcLt90ycl2iI4",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNN4ms5bJZM2Qfvm0B1HWHk",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bwd0k216qso0GEoIw3oUz60",
+        "_id": "37o1dPlxqUGM9kV5tG68gNh5JgQ"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bthLNACxIpjLEbTNOUxJJAI",
+        "_id": "37o1dUxChVRiZ12AuY3Cxuwpyjk"
+      }
+    }
+  ]
+}

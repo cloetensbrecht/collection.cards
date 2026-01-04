@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dV4mkHVHYp7gQQlhgOvJZH7",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Sobble",
+  "number": "39",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVzqV2yhuhG3CdLV9vbQRUw",
+    "_id": "37o1dOvkT2zqlbPolU5LmFX7tLD"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZQuoIjQCFfMFbFLd1dJzcIQf",
+    "_id": "37o1dPZiWuJcqLUIww5TbhXiImP"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bs2TO9Zmuxznrwucoxfkkwc",
+    "_id": "37o1dPHKn0mZjSzHfRAXM0iAdWD"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOIMWZofSnakCzy7Ie1FnYX",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dReD53NweWwgweEG9eZo8mb",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5SQZDrVvFc47y2PEEsKf8V",
+        "_id": "37o1dTao6lYxWa0sJr6yZqE2KO0"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0fVaZYUCck5YtpRtPZCNV8",
+        "_id": "37o1dPSVn8pDEwigtoML77UGT3a"
+      }
+    }
+  ]
+}

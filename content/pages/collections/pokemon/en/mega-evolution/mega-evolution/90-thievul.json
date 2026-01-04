@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTnmnUGjn1iUsQpFi3Wom4K",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Thievul",
+  "number": "90",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "darkness",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTTt8gtYS3P1C3itXKunD75",
+    "_id": "37o1dPCf7co7as41WlKtcrcuwBZ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vakbijpbWp40WWotZpVIXOAHK",
+    "_id": "37o1dTEaGh7lQ72cZHeni7qem1D"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bt03iy0iLj4PI7Rt4zEniYX",
+    "_id": "37o1dNULs2wkEprlqH9KIKwY3Pk"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSoWzTTNnbNBayjAxjdIEef",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dP4zymiIQyhoxmw7MWh6i9N",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2JAADJo9zpn2GSEC1fvlWx",
+        "_id": "37o1dORj9C4wIssGLrpWWWF2Pym"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3O29QVaeej8XJTLibvRlRr",
+        "_id": "37o1dTJNWWHAgPeBs9WJMgbaC1f"
+      }
+    }
+  ]
+}

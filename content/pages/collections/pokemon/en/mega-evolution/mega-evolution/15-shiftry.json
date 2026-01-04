@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dR21GBdCAkmOPQyed6FA01t",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Shiftry",
+  "number": "15",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 160,
+  "energy": "grass",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWhJ7zco0cppjGuuTxFYuk7",
+    "_id": "37o1dUMdP8bqTRFQlc1Zxlz0zgx"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbs4hrhVWRVWppzfM3LlXgFNI",
+    "_id": "37o1dRSih4vmfbWzo925fKgSlzZ"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bwlHUv2mlJRKWj80oXzc61U",
+    "_id": "37o1dPWcfc5GpA0Cxt2U5R81wXi"
+  },
+  "variants": [
+    {
+      "_id": "37o1dS2WzISOIjpXcvU2npvalOi",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRMoYdONMqG32nKP7jjXbxp",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c7Keut2AmVFm5L38kJtYlbV",
+        "_id": "37o1dSqLSv6XQ88CsIOfvwabl26"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1dswF9GNsirzNCA8eN4uOJ",
+        "_id": "37o1dPeeOUOJfzRmIiwqsji0DA3"
+      }
+    }
+  ]
+}

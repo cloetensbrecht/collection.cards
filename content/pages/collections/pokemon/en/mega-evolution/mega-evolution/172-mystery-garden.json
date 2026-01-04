@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRcWNjZcjrqdApFhLVouZET",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mystery Garden",
+  "number": "172",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "stadium",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZDiCauBlUuRJ1IRKwZaoYqp8",
+    "_id": "37o1dSdUEP4pjgUpih5cXMuWiVM"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cS8j4vauvzbZlqtFQnGiF25",
+    "_id": "37o1dRTmQ2o2ZtV0vJ3QjLlewUb"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNzVE2sIgGFwwRajqTuGGNT",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cZB5zI0hMZeXA6pyXoWhri9",
+        "_id": "37o1dOCY6BkWE0hAgeOswQgprYg"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cb4Zl43oGMLB32PNjNR4ZJy",
+        "_id": "37o1dPaKHJeozYToaOeKu9xMaJn"
+      }
+    }
+  ]
+}

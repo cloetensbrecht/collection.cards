@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dO6BbVuhGSXyhOWesp0Th0O",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Makuhita",
+  "number": "72",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVKumgCIL5JCDd5vkIDY5fk",
+    "_id": "37o1dTKHmyCuZ7lLr6mJNAAZBWy"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXqGCgzVMiaM4Y3FQRJ8n7xiD",
+    "_id": "37o1dOD2CVAFSx4JbYU9cSEWjKR"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1byP8tFVwlpHos4ufDg7qdMV",
+    "_id": "37o1dOavwXjdnDsQPug0PzJ0hEc"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSQDy2Ox8YvtfpnAjsOfWt7",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNz7ZxccZr3vuOBHOT9079z",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5B7bI3mxa9dwxFTCgrOghL",
+        "_id": "37o1dOZCccFTyvLz4y1OAWAUzkU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4vaJoNPY5mhVc31JDSSHxj",
+        "_id": "37o1dO4ubdH8qYHKddTX7JS54H3"
+      }
+    }
+  ]
+}

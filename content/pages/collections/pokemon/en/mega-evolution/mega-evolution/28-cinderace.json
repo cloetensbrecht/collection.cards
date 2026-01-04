@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dOhcevNwhzd3JRIpKrvXu1I",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Cinderace",
+  "number": "28",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 160,
+  "energy": "fire",
+  "stage": "stage2",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQynisoiRYOWwRL12S6XW7D",
+    "_id": "37o1dRRBixhew5YAmLZfL8qY4Wu"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vd4vNTmVSC9GXxdxdvrQctNaq",
+    "_id": "37o1dPnM1TsplNrAzYbUfwREvah"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1byPGZUXbIs1BXyl3ajWHxsf",
+    "_id": "37o1dQaNpcMf57CKp93ktWdrm1O"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTGYTFTS5uMszHmmoYRwhDS",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bvEHaQBzSrYtMvGEDCt91Y6",
+        "_id": "37o1dSzeoEJ2EbFAuG6V3ew6Ut6"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1byNnCC96AS9rsGVDQ6OaOo4",
+        "_id": "37o1dS1DOpPVcyYxcsBQdzhlR51"
+      }
+    },
+    {
+      "_id": "37o1dTFN2a0N7TAafJFB13CD3sG",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3KQOMYAlWQPH7IxExZYbWp",
+        "_id": "37o1dUPcRcyUmyLBczQXpadZFfM"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3DUy6vYExq3meWarqK09EB",
+        "_id": "37o1dOS5KPrfOxqTMEKOkPYWuvT"
+      }
+    }
+  ]
+}

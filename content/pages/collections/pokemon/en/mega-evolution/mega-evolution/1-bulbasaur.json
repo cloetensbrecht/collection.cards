@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOPRRijqdEOcNMCDsEzawGE",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Bulbasaur",
+  "number": "1",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTtxW7600GckSwIKeAFghxM",
+    "_id": "37o1dSq2Jq4AJH8Qy6rJqIJ5qDb"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EB6dYg46TmqKy3T1qB5F9EJ1Z",
+    "_id": "37o1dToZmhRYvRND6Yt86cyDBF0"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bpwYEJmCmL4uzKabdzkCqfa",
+    "_id": "37o1dQzD17iHNc5mx3QuWqRUtQO"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRtUaxNKUP2YqfQtzZWeEcQ",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dP57U3RzNKSIlzzwVwDPMzQ",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cP3kkUuZDCz2X5AmDlktU38",
+        "_id": "37o1dRdPIWrVsn9iwkncih7I88N"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cU02aG27HqVEmqWFmPIR5lG",
+        "_id": "37o1dS4vGeVbbuGo3XSIH0t7eRk"
+      }
+    }
+  ]
+}

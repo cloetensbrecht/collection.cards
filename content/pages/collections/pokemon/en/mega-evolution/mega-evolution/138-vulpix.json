@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dQscHl2fItbOmaS0i47Idwr",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Vulpix",
+  "number": "138",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSRiMYXbtLcHZO9smP415Kh",
+    "_id": "37o1dUoBJYEaCcl3bobDN3laKsw"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZgL0VfUyrWoBGcpnvUtzbpbS",
+    "_id": "37o1dQHxTQBKm3CYOfFGBsFnixS"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cDmPfDBe6gklOGcvqZ7zMTv",
+    "_id": "37o1dSjgfhFbFS2l3zPrPS4lyVZ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTEhaO83dItrgph8Qxa67dB",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cG2j1IB50yKmIeC2IENfyY3",
+        "_id": "37o1dPexabGJWZ2y43RkVPO9KPU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cKaI0jdWF7KiZY1P9KSNO66",
+        "_id": "37o1dNl17gWAilZJRgwLHdImDNw"
+      }
+    }
+  ]
+}

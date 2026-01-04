@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dUS6oTp7tfcUHCmn61XpR0s",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Lt. Surge's Bargain",
+  "number": "185",
+  "edgeColor": "#97999b",
+  "rarity": "special-illustration-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vabllU8Ul1mQxWJnYO2UvxZiq",
+    "_id": "37o1dO8ceq0W9RIAGlynlMnm9hi"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cU4TaCVGNcXYgbkVtWPS8l6",
+    "_id": "37o1dPXjWOTjVFykCNnijo2OcXb"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPlEpyyrIuMcsGDzwF1ti7U",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cN21SOwkJY9XKvbPQDI09Xc",
+        "_id": "37o1dRMqnIrDL4wROeqUsV9oUxS"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cTtT5zNifLyNDJpKGz9dFun",
+        "_id": "37o1dP7feDPdXMNz63H92DrnQLC"
+      }
+    }
+  ]
+}

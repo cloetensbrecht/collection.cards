@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRTchLgv3GyYzO1U4E9yh1e",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Sandslash",
+  "number": "69",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSSkDNjbxnBtl2IbqiaaRoi",
+    "_id": "37o1dT7xgVsBlzH1V89WvqWPZvZ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiIVuruS2edLxvn0YBvDtp3Qw",
+    "_id": "37o1dTUtO0GnjFTfyL1xiIFTYjI"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0IYKpaiINgmKmbJa2HzDyD",
+    "_id": "37o1dRdMHgYmmOz0v7ImWvwgCpN"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQ1wQc1BhKzWep69qetSiRp",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPKel2c97xoIXAVIRiFk2mb",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cDKVnAuSct1igjbHSPzR38s",
+        "_id": "37o1dSaF5xQOKytIGEX3sycoNIB"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cBBpZfD26ZnlHhleKTGUdoU",
+        "_id": "37o1dPhlAepTQw47ibiJZ9l0vQ0"
+      }
+    }
+  ]
+}

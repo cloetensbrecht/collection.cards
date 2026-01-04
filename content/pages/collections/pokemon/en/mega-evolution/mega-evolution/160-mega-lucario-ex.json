@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRsH1NYY9kmnaJCDWAlsagE",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Lucario ex",
+  "number": "160",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 340,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vV7Az7hYGpLDq7N0F87wVc5wX",
+    "_id": "37o1dSD8NPJGnF2dF2bt1aprt9V"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cOZjj2yPJeVbu92uQf49K7s",
+    "_id": "37o1dQ4xdscadvLyKivWzJmHgCU"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPDp55jsXLCEKSJ97YilMlO",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cSVZEzseSL7vvdHDgPsG3TV",
+        "_id": "37o1dRiqumihyWxI88fMAxBiWGW"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cU2Ct9eGN4yPCetGllWdKQl",
+        "_id": "37o1dO2uuxNIsslFz0FDKLJwCNv"
+      }
+    }
+  ]
+}

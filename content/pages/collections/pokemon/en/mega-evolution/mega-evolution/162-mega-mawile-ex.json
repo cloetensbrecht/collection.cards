@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dRpi05qbwZFF0V03isXto8O",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Mawile ex",
+  "number": "162",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 270,
+  "energy": "metal",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiM3uXbhT8aPAWXVCsILHsX1R",
+    "_id": "37o1dSvVkA06mkesC1Xu1VbZpyb"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cHsmIwoBboZl7eU8rK633Fo",
+    "_id": "37o1dUxNxj75Gd3VOYn3BUjN89O"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQQTIWtOL6T1Pl2t6NFWFff",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cO2xbUDutEbxrW6dvw24pGa",
+        "_id": "37o1dQxxemLVOZjZA7WD7Hdsuy2"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cS3YwqYjfFzpPVGXj6sFFP2",
+        "_id": "37o1dQYqcXpwMbP6FNcfOJ8nqDW"
+      }
+    }
+  ]
+}

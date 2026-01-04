@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTR2M5JftWISVaH5z9aoBqH",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Spoink",
+  "number": "62",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSBJXiZsbJMHYSZdpAWuxFe",
+    "_id": "37o1dT0g1qbNZTpIAs4jxgeI4dk"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34ECOs9fNhPzDwQJdjx6IEC1yrc",
+    "_id": "37o1dOPXGl9cwrlxmdDQKLgxDbD"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c72XZ2T0CFW2xMV3tzVSs4s",
+    "_id": "37o1dSey6reF1eNhxi48ojq6EqW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPXIuRAi42wHEP2CRpwtAqa",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dS9fS2D0oG9CMR4Ka82Q4L4",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cALoxVVb06GMBj0S4itp2aS",
+        "_id": "37o1dT2yJeGEW34oXds3HkwhxkL"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cAnuwKf3tD2skURbNV1dT0o",
+        "_id": "37o1dTpB69yR9gIA6507tnUwMaH"
+      }
+    }
+  ]
+}

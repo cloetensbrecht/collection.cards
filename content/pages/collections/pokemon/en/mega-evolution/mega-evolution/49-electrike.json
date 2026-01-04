@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPndBVBevOaIPDRzigF0Aj8",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Electrike",
+  "number": "49",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "lightning",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTDBwd9eqmxHIwG2rqo7feK",
+    "_id": "37o1dQ8DKAv6VrUfjm84RxkIEam"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EDaZ8p9i5yXxwsawTrUKdoVMm",
+    "_id": "37o1dURNT0hzvxBgrYZpk4y0Apn"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1buKitZRtijpwF2dtHKL4sGy",
+    "_id": "37o1dRJs3exn6XxwromUjtkAgdK"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUTWaipeij6fkGidwo45u91",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSRgU2lyVgYWIc4mz93QgRj",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c7Bfkqu1OrfrYqb728UXkTJ",
+        "_id": "37o1dRNVQodDeZvisgGlQEx84zv"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3OfkxN3n6jb0hRmHipRj30",
+        "_id": "37o1dSBTv8pONZeRkrWMbTxjRPP"
+      }
+    }
+  ]
+}

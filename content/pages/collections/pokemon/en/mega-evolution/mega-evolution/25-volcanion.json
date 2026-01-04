@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOWIiQa7JGvytrBwvZH70uz",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Volcanion",
+  "number": "25",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGW5Y7tO39Ws1Dx7UHYsBDY7",
+    "_id": "37o1dQBk33b32e1LzksCuUuZvEX"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdB15Dd9uB2wt8to7YduIXBVi",
+    "_id": "37o1dRMBVd9b06hodguSX1cQWBA"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bs0sxxyUmMrEqUfIYL5jAxF",
+    "_id": "37o1dPLGgZu0MXBQZqCFPCZFR30"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOuRyHqBkOShyUZmpR9pnYS",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dShR3ggTkxumAhJKluQSG1z",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bwRogdrfyy2V9FXKtCwlDta",
+        "_id": "37o1dQgjqZXXJdtjrZ7xx6AEtUU"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bsuEkcmjxSBTcavFadxKAaG",
+        "_id": "37o1dUcls6UwPCEalIUGtVwErpW"
+      }
+    }
+  ]
+}

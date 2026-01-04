@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dR66lf21sxfqKKJ1VL3el0D",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Abomasnow ex",
+  "number": "36",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 350,
+  "energy": "water",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW",
+    "_id": "37o1dTUA3iUpCtgvkAh9c9dTvgN"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c2ljTLg80sSnqPvhgmTcs8b",
+    "_id": "37o1dOnBEvyVKMPfyvaovFozrUT"
+  },
+  "variants": [
+    {
+      "_id": "37o1dStxHu4TAtWNzpRH0UpRCSL",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c31xrucbGX2JpwKhE7Yqp7y",
+        "_id": "37o1dQ7VpkwFNwFXZUMv4KLhDNx"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4p2roHOsuQc1K5SSZxg5Lh",
+        "_id": "37o1dRurguQvB0CMsUEl0FHTVaC"
+      }
+    }
+  ]
+}

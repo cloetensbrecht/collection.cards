@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dODySeoEA3iP9JfGUSLIua7",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Signal",
+  "number": "171",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiUMN8Mw9rI8i6LeAPVQe4tqn",
+    "_id": "37o1dSgJMMRpeOokpiG4pGY4iFI"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cPyeBKswbg7DHt82h9ppDiv",
+    "_id": "37o1dTyWTEf4DOSinmjQlmcLAK1"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSW2MD10qQ8nSjkYY1U6gYj",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cN6SRz5EIcqJTfwiWFiUTIM",
+        "_id": "37o1dNyYXqHhyCbA6VgZ3kNolSR"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cOJwBYm2oCScs0AZPUrt316",
+        "_id": "37o1dTJaBmE04Vw6mwYj6lSjR4z"
+      }
+    }
+  ]
+}

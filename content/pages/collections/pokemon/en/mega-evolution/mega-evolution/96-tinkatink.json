@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUkWGXhSvv4t2g4Y3BqLpv8",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tinkatink",
+  "number": "96",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "metal",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRZztJPO4muaVzdytTQGxlr",
+    "_id": "37o1dSignx6hOCZ5NTB6tNqyrFa"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiNnpyAp6fBgue8ZmUOAF9eIR",
+    "_id": "37o1dOVy9ifhJUcKMgPt15MWwir"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c9Kzf1eXgEU9Ls0fzpF5nfc",
+    "_id": "37o1dQZuBXQBHaYOj1qHICmxLs9"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUp1XUt57YqY6EIOf6lfyO8",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRRGfNwCMSNyzhtEJ0MjicR",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cAY9MhC3MUBUD8TwKpY8LsI",
+        "_id": "37o1dSHlRILHo0DOkqMQDxQYp8J"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c7emKO8mv8drNyxF6iKIGeT",
+        "_id": "37o1dNcEAapBImCRw6Vc7gJ3EVY"
+      }
+    }
+  ]
+}

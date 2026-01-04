@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dTkXsEDb10T5H1mkOJ1HdCq",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Premium Power Pro",
+  "number": "124",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZGqAhMVeaMz9R4gLoz8dBmSI",
+    "_id": "37o1dRwZXSvRDjDjZGAmVj6vnFH"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cDzi9Zqz3fcJVMtDUinm9K4",
+    "_id": "37o1dRCSmRwx2v8oSFrg7qs3Dkb"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOhVhtl7kzRcqpff4hXLdUV",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOqXQzEkxuhWsvhdzksXuAR",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cAtpMrP0BuwpUfKz7QvKIlY",
+        "_id": "37o1dRczADUM34zq0K5Lc9Lefy7"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cCMQ6TW6cxlvuov5rtQ7VUf",
+        "_id": "37o1dR3KbqwnulyzidClaXpGm6C"
+      }
+    }
+  ]
+}

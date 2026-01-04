@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUPS0zhYXiU7Y7JUZb2DyZw",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Latios",
+  "number": "101",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 130,
+  "energy": "dragon",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVGDOFmdooS0PL63k3Dzu6i",
+    "_id": "37o1dNX6ODgnFmVy5G47Mx1hCdC"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbs4hrhVWRVWppzfM3LlXgFNI",
+    "_id": "37o1dOtyHr4x9cQJzx7ZESwPoBL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c3aOxYDxqM0E9M3XzH3ezNH",
+    "_id": "37o1dNwo9X0YzVcuhhQAiAvyyrK"
+  },
+  "variants": [
+    {
+      "_id": "37o1dV1YgHxR5fW1Kpjs8oRY1Ko",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOOFOGPvOwHKmQZZAsaY6EC",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4k5RF0er34ecOgzW2hZX4H",
+        "_id": "37o1dRp56Ds8yYmWrnDGmVvgLgw"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bzf1QMRAbJl3safAEnIpMCK",
+        "_id": "37o1dUkMMeh9ttZq8niXnrYxO9h"
+      }
+    }
+  ]
+}

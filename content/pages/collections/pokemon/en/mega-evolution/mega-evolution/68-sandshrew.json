@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNcXeaGLmBLFIooFIQ0egQQ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Sandshrew",
+  "number": "68",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGQ72oklJMikuDRHk15khwOY",
+    "_id": "37o1dV1EEhuyJxBSnA0YtkTuBY4"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaOzQ9KIBF4vjVbhIc4zsKVCl",
+    "_id": "37o1dQmTofTQjlQry8A2IRvYs4P"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bs68Ny3eMaenAev3tkR6EFe",
+    "_id": "37o1dPeHZpsrPyHZYhq6b1zcVhY"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNzKqzIspxEIfUtnssh0vKK",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTS56G0oRj7JLCrLm3MDZKB",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c2jDxIhzIolXKh2K0OGGHCm",
+        "_id": "37o1dRF2v5AQtPh6EjpJ1nhPibu"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1ivjORQVfUUENyEIs6zJbh",
+        "_id": "37o1dOSg3p4zjp2y2p4uQ8Ofu8A"
+      }
+    }
+  ]
+}

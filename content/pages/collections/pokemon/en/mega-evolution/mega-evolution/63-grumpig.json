@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPrqZAGccT7YZIVA8dySb7t",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Grumpig",
+  "number": "63",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "psychic",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRkJ9ggx5EeVlL4EQM8g0jP",
+    "_id": "37o1dSjtudvLStZi5ZOGJrXlprj"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vcMhz8OfYUUDaKc2nthOI5148",
+    "_id": "37o1dOY8U82JXssTUStVCk8Nhxn"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bse0UaJvDqnBg1TV9empDeL",
+    "_id": "37o1dSMPcXlbaD6Wj5GwUryM7y0"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTeiwUpDkmQmS3dOp0iAwH8",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTkr7diNXObcW5OdvMN9iLA",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c55IQxEhC8G6wMiUNIPqXUx",
+        "_id": "37o1dPCUVq3wBX9Ir2NmWbrNwky"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bzfucmAgQ8vVL120qm8nHIZ",
+        "_id": "37o1dTPNRq4WY4kwVNSUY2Ds4BH"
+      }
+    }
+  ]
+}

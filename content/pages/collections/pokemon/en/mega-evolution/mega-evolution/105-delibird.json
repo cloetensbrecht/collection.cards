@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOMZS4lMZUQyi5C2qbvUoDl",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Delibird",
+  "number": "105",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV4PuOR7XaiDSoWeAKpSvA5",
+    "_id": "37o1dOII6Teudog7a5EXEw6qoP0"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BWeUH6PYdBa9vtvFGiuAwlozR",
+    "_id": "37o1dSiChCZ7nlOx03XFFSWjEgL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bzz2h6gQkPvhc6uS21qoUhy",
+    "_id": "37o1dPZfXSYIQsiI9WmGHc5FSCQ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dUFppPgFguE4jZ4n3mqBh08",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dTwp5GCgUSBhMHhUqwFFet4",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cBYtIq3wxtlFtMwOCA5gl3c",
+        "_id": "37o1dNxKILvHxdUea8r2HRNf1W3"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cEOiUSmP9umPk3Zt4pSoUFT",
+        "_id": "37o1dTx7knda68SRtClaos77oK0"
+      }
+    }
+  ]
+}

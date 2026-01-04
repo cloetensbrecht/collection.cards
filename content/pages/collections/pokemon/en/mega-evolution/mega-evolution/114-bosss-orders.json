@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dUXrbD3EY9Fy46tn0soShyJ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Boss's Orders",
+  "number": "114",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "supporter",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34BWJakp0lJ5SlKP0q7En4NFXK4",
+    "_id": "37o1dUwUjNBqSmJatO57Y6FbMpg"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c8xSp0pyaPBCDo9CLkUCxzs",
+    "_id": "37o1dTIjqKy3uG9hTs5G3kGxjlg"
+  },
+  "variants": [
+    {
+      "_id": "37o1dV5JMeru1w1XVXj4zNj3Ely",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRUDoRApLuLQSvUmcH41PJV",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cBTDsFEnJgn8YPB6VF05q58",
+        "_id": "37o1dNMFfs3cQtYlBoUqp0SHELg"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cBjae2KhsFS18XhtaxLgcCM",
+        "_id": "37o1dOAdNRpAlf0GHknWGar2eMu"
+      }
+    }
+  ]
+}

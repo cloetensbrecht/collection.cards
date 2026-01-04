@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dNZDEwSH0tiJSNywRmAy9Jq",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tyrogue",
+  "number": "71",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 30,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGWLMn9dOQDq1QyMs9LMUqWH",
+    "_id": "37o1dQGHi0flaBg8RdDRiUZXx9k"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZxSeSWkaSCUcDxgpVHj78xA8",
+    "_id": "37o1dSue08LjiXXZMTAlX8ch8bm"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bvldFL65i94ibXPlxz6JYaX",
+    "_id": "37o1dRRwaoqGA6byWpeI3W2f0PH"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOM2bYCAhOm8J9Ie9NvilaW",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPYE34URnGPoy9b4Tp3yeER",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1FNlhDJwOtCXNywpQ4xYkO",
+        "_id": "37o1dOERGUmGMy2CXsk1HCO7XJB"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c6Oi08fUWhtJl0YCioC0qM5",
+        "_id": "37o1dOzTZwLF78sv4cjZuvCDIJm"
+      }
+    }
+  ]
+}

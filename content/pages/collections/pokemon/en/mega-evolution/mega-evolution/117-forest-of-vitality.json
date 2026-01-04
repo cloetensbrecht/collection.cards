@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dRquNmw1iYcuqzvnT9aTVOk",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Forest of Vitality",
+  "number": "117",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "stadium",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZDiCauBlUuRJ1IRKwZaoYqp8",
+    "_id": "37o1dNLCJ9AdDuVwC9NyYCWckjk"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cCgpPVa9cpHdAzWN2hgmEzw",
+    "_id": "37o1dQao2nqpiG5iA0teet2ZMLp"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSj9GluQg8UFeV0CdqEM7vq",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNxS8cXqSm7b0DTIOycLyk5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cEYSbI9yXgktRRRZxkjB6uC",
+        "_id": "37o1dPUJBJhrbxeP23zEdSom7Ra"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cCbCBH5Mw1EOjXYQwVK8EAw",
+        "_id": "37o1dShcdH7dsc2TdMluyB9SXFD"
+      }
+    }
+  ]
+}

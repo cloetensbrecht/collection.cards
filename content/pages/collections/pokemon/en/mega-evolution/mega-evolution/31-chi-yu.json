@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dSJjAVGEKJPWHVgEoqBbezq",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Chi-Yu",
+  "number": "31",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUcTR5pZTYVeGvULFU3ywTJ",
+    "_id": "37o1dSoZmIivZMU7NiMao6yjFvV"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vXZdai5YlKTpVz9murSbKzPZg",
+    "_id": "37o1dRKk9ukgpq2o0YY7CPxecbY"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bvs3lUe3Jhd8S6H2PMGkYZp",
+    "_id": "37o1dOe75znR4DFjDr7IvhdxF0y"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTgwIymADvUlo3178aB3lrt",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dOCgoaE0UYYcYotgVoum1RN",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1buFciialH0fo0wi2GmoTFED",
+        "_id": "37o1dPr4fha1fyRwT7yhRLY017U"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bxb4lVidMpfOvp2nj6ivHP2",
+        "_id": "37o1dSUzxs5oCDa7jwD6XSThB0o"
+      }
+    }
+  ]
+}

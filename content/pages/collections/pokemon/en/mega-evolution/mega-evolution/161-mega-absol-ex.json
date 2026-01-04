@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dOAfmzTVVlDR3dF0dEAUFca",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Absol ex",
+  "number": "161",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "pokemon",
+  "hp": 280,
+  "energy": "darkness",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiM3uXbhT8aPAWXVCsILHsX1R",
+    "_id": "37o1dNML9Dy81jPbBMEOR9f1hll"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cM3uBwHAgVjVPijpsigrleT",
+    "_id": "37o1dUy08Z04otbeTQNDiSOkD96"
+  },
+  "variants": [
+    {
+      "_id": "37o1dV2mqojm5UpUbNzVIucum0e",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cNJCrr6PlwIlHpgJCUYuQyG",
+        "_id": "37o1dU1MPnwFFeRCVKNCFFIl90q"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cQVxnn1IBRviGWaQ87MikPw",
+        "_id": "37o1dU4KAMslsedzaFMeUfsLXFp"
+      }
+    }
+  ]
+}

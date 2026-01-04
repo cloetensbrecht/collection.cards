@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dT3ZLYuf61DKHVdagYToRQ0",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Shuckle",
+  "number": "11",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVDpQ5Ts4SPBp1P7k33vC5r",
+    "_id": "37o1dOBZizZZgFrH0uvQHaJG4d2"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EC8XgH9Zxp1twqreTlLl2say3",
+    "_id": "37o1dUNJ9HWCKCkbz3Wizt7ZIN3"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bzNnBx2pCqKKO4Dw33yjOKX",
+    "_id": "37o1dOzmGMSdFcjbof1xKhnjbJ4"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNXyTq4gJr1fZACRwZUibDK",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSiFZNbKdMajEo0GtbjIx14",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c13dY9v62napBFyzcVLweDC",
+        "_id": "37o1dRQJYt4KbxRYFTrH8i696rh"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2xoWbT9FQIbmmRopXE26Ao",
+        "_id": "37o1dQJAVr2Mc0SJ1sZb9KZk2ry"
+      }
+    }
+  ]
+}

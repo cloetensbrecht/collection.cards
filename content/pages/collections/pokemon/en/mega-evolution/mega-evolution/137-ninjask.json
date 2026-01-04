@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dP3vQjKmtmePJiLbF1hgZS0",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Ninjask",
+  "number": "137",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTGkRxIrBWjy5EV88YeYV22",
+    "_id": "37o1dTgkhBtGPF32FwzTzAzIGXQ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vYHybqzDsdjmH5AwoSinkDL2L",
+    "_id": "37o1dRJH8D4QZaCRevAfvLdWAF5"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cJ4lVCmsUd8RDNB0ar2YSVg",
+    "_id": "37o1dPCaLqcyVkKnpG3YrG0Osr9"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPlu3BYKTcKpEXDskHEt2dO",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cN3QR8CB8g7jtMKS39vBrrC",
+        "_id": "37o1dPhGps3BK501y01aAZ8375N"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cGRLw7s9dZlQ5J08LPRMWch",
+        "_id": "37o1dUVxj06FxoiTRSsvQrqL0WW"
+      }
+    }
+  ]
+}

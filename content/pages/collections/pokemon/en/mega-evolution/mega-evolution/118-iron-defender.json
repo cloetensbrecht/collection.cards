@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dUUnjwU7Bqr8GWGg35ySBET",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Iron Defender",
+  "number": "118",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dNKUJVG9LfMEleM3oCMx8b3"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5WjKQVXgrtRpUA3ENtBBjg",
+    "_id": "37o1dSE5PE9UvU7nDz5a3qQHHEd"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOORrl25MgjL0E9zzMW791R",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPOHkTf7LbmR81iSL4D3Mms",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c6NURrffy0tWM95fmOHw4GQ",
+        "_id": "37o1dSWWLJSr8XM9qCJYHNYd3Cz"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2BaQ17lyUbTV4IeX1Fgq8p",
+        "_id": "37o1dROwA3medsgBZQTF6vA3AGE"
+      }
+    }
+  ]
+}

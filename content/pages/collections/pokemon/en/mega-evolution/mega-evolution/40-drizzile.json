@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dUd4x3R9f5AW0m6XXDFkk7X",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Drizzile",
+  "number": "40",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "water",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUMMw0oXrnoqTEKO1daiyNa",
+    "_id": "37o1dUIDIvnv3fkASnNlb6nCXT5"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vbMkl0gD4fnXIBc3I0FMkA7rX",
+    "_id": "37o1dOPNtInmHgJhLEfDX40otRa"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1byQJIP90xb438tK9vvaviYZ",
+    "_id": "37o1dRRaBudgHtp7pbUjPf2TaHB"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQl0A2ew344Qw6RuQH9hauu",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRyoORJ5daWrNF76yZMXVo5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1btIXZnYehADuJxa8rwFHfus",
+        "_id": "37o1dQnvZFLSnEN433PemcYXhth"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bweXoGJHFfzwOqVsJnefs5a",
+        "_id": "37o1dUx1qZ37FzlcUmTwEvwIV4q"
+      }
+    }
+  ]
+}

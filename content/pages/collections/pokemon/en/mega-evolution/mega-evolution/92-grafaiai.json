@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dOqXGN3hnKAYq9BISHsfT3A",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Grafaiai",
+  "number": "92",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 100,
+  "energy": "darkness",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRJzdppJH1I218ZQ4qUFJX5",
+    "_id": "37o1dQsCZWbRf4TvP57xX4gv3B7"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vc4oQZtqyXs1uqpPWafLku8bk",
+    "_id": "37o1dOyTuQedfitXGXOYxlCx8t0"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c2v12HUPRDsfzDRe2hQv81e",
+    "_id": "37o1dOOpilwQBzCPXitoLcYnwAn"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNO2FjjdYz9mtwjyLkxbxV3",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dT9aKX5eWOlGeEX86SMELGQ",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cC8TWk0o3kxNSWXsuglfrNj",
+        "_id": "37o1dO4yYTLWCYAdCKPORzYosW3"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cF0ZhkYYt9sdg3wF3hAoac4",
+        "_id": "37o1dQ84jX53TDaXOcQ0hm4XcHG"
+      }
+    }
+  ]
+}

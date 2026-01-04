@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRAitf2dovvrBPCXAHQCZ2o",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Frosmoth",
+  "number": "43",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "water",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVW99ofoZasSsFEcFz57d8s",
+    "_id": "37o1dSnW2JhgqbZxlaOrJUGyNwQ"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33varjEHrxhPqKsUIKCQt1vtBBD",
+    "_id": "37o1dNXqNvRQUT500N9npIcXxmL"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1buKdb0cFJ1oop5x7nICFQPD",
+    "_id": "37o1dT0oYxXKUd92x0nvhUvBkKi"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQ8jEQ12IhsyHrF8Pr67Dl0",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dUCuxL0lzi4XjnecpodOw2y",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c1HWUz8pH9eNiUQVMDzkTQA",
+        "_id": "37o1dRsEilVfGX7tKpR4P8KgPDz"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0YqzkWVgNo31kvtjj7x6XN",
+        "_id": "37o1dQnkJHZMOwGkxX89kzzd8VX"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dNLzezj7W6EumwSN9CV0fdQ",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Fighting Gong",
+  "number": "168",
+  "edgeColor": "#97999b",
+  "rarity": "ultra-rare",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZGqAhMVeaMz9R4gLoz8dBmSI",
+    "_id": "37o1dRJxmHbDiQ74in7Q1vl6jCB"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cLJfqeNcbI2XHMnuFRU5HkF",
+    "_id": "37o1dNhOyuEGLYPOLpAr0opoIdX"
+  },
+  "variants": [
+    {
+      "_id": "37o1dSBPNsM6xZ7OUEWFI4rFwpx",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cLCAYXur3884Ja5zfBwITJF",
+        "_id": "37o1dU2DaC81I5uwKmSiW0LAtRm"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cFoIJRRwvtJBSNEhnNWVLAQ",
+        "_id": "37o1dSYroRzyMz5Xz3wycIkfIhr"
+      }
+    }
+  ]
+}

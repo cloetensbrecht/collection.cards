@@ -1,0 +1,51 @@
+{
+  "_id": "37o1dOSxfEtBACBB3n03nmD9M47",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Delibird",
+  "number": "152",
+  "edgeColor": "#97999b",
+  "rarity": "illustration-rare",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": true,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV4PuOR7XaiDSoWeAKpSvA5",
+    "_id": "37o1dOC452DXqCMfdeKEvW99q3N"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaWnMgheZxFmcwQVMnWgjG5Rh",
+    "_id": "37o1dPcRzkshx7zQP5ycznkzLAU"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cJ7ZztNoehXhGd5P7GxbvJ6",
+    "_id": "37o1dTBPaIiw3kzija1Djs9aXTK"
+  },
+  "variants": [
+    {
+      "_id": "37o1dTFsALkiTpSH2JEVHDXQNzo",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cITLQsRb4cNTW5BiHjK7HRU",
+        "_id": "37o1dS4zHz4an4Q9ZbIK0u6hZ55"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cFb2t9IfoEgJ2NcwvWmtXZN",
+        "_id": "37o1dQq4ON7wgM52WCmib4BANXv"
+      }
+    }
+  ]
+}

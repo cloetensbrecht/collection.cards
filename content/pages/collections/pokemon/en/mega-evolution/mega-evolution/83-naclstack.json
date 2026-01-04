@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dP5z5Hnj3Z5cZF1vJ36pAcI",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Naclstack",
+  "number": "83",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 110,
+  "energy": "fighting",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTavZQhsX8Aq1Uhege8n7eN",
+    "_id": "37o1dU1GVwkDPDUzifLFYqGLlwi"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34A8yhIIpiCaHD8vB0u1Wz9JMJB",
+    "_id": "37o1dRGDo8MARDDmtUe3dKBOTUU"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c4jIiOvnwb8yeLGqO5nwciF",
+    "_id": "37o1dS9BuN6gzVsglJXiUVHpa8G"
+  },
+  "variants": [
+    {
+      "_id": "37o1dRJKVJ1uHlRtiuV1K8TEIsL",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRG9EHEKUUQECLJb2e04KXY",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c09YBFaS4hcks5GUEK8C6dp",
+        "_id": "37o1dP6wicXuIEyd309MjQ34h2P"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c0uuCUUjpDw0CRVZdQOVfy0",
+        "_id": "37o1dTufIcYE8dShRuzDxWCkIBj"
+      }
+    }
+  ]
+}

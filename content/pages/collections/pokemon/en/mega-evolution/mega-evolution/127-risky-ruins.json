@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dPf9oJG8WFPGyG1Leq6XhFA",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Risky Ruins",
+  "number": "127",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "stadium",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiIVuruS2edLxvn0YBvDtp3Qw",
+    "_id": "37o1dSR2QrYuCEXHgIBma3WlTWn"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c8Dn6e9Q39ND82eQICTIUCR",
+    "_id": "37o1dNrrHRAW98ITq2VgC8jq7BQ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dU47x7dPeGEcGb724QA5xim",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dSco0LllEcBfHJcx8Dx6UdX",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cLH3C5ZigxD4ZAjDQ5SjY9H",
+        "_id": "37o1dQUxzXHcjsJ2y9fTIGmPpEm"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cGNp2B6XmF0GUz0gOfRnrzS",
+        "_id": "37o1dOHdH87zxTHhYcyYwjZ8e4u"
+      }
+    }
+  ]
+}

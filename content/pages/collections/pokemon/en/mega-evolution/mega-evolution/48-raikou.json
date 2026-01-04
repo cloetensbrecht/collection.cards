@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dU5lSDajdhVPrnofjPAkBMg",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Raikou",
+  "number": "48",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "lightning",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGUpj8s3gtVmkISACq8BaICy",
+    "_id": "37o1dUDYbo5Xumauzhsp8OYOIHt"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EFiAZdMm4XDsd246uuoiOs4GQ",
+    "_id": "37o1dUTdEG3gl6cRyJdDtHPZtIG"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btsyCLuL0sBm5SHSKRVUkBS",
+    "_id": "37o1dOlks4wsUK3A5shvLaH9lRp"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNnmY0Za5am7oYkT2hhsUig",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3ArHkPPjsw8fcLSp7135Sp",
+        "_id": "37o1dUy9AfmeWMyugjUOw344o1F"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c2aWn8eqNlYkNavpvresFrm",
+        "_id": "37o1dRP8mKM8eF3KW7c2QJZ5tOY"
+      }
+    },
+    {
+      "_id": "37o1dUaSHSGmgXBUNUXq0FVkr3b",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cCWlDGU7yhPplZYjrGGQq9l",
+        "_id": "37o1dO3gF5OeAracC8jCm809gRj"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cDh5LA90xGEJVnihs4s6qhv",
+        "_id": "37o1dT2tdCyhWz1RF039AnrjxEA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQmWN72lKP3SCJiSgSFUeGy",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Magneton",
+  "number": "46",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 90,
+  "energy": "lightning",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGV2D7X6TjspVOoGKpwDwIpH",
+    "_id": "37o1dNcUskXl2o6K28ORwHZl7hk"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vtSoFZ0bvONM8edNtxXPsYYMG",
+    "_id": "37o1dP4TTrvhhDDekovdavV7HTx"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1by7uOeHIV60lY8EVDnuS5Lk",
+    "_id": "37o1dSyqZnh7rCiLQ9qR6PQcVkN"
+  },
+  "variants": [
+    {
+      "_id": "37o1dT2iHmXO9jCnUNCVbZHVWjT",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNJu5j0LjzpgkSrvqRDijHi",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bv4o66XX9t3bIwOvJUp3EdD",
+        "_id": "37o1dRKyrvZ5LAU00LFVXR0q3nR"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bybezyYgFhgeoWm1IOk6Pi0",
+        "_id": "37o1dSUlOO8YIAan92bEDy3uIwg"
+      }
+    }
+  ]
+}

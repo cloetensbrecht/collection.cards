@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQV4HdAwMohNV3hDI7lWfTw",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Stufful",
+  "number": "111",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGT8nA7spET7T0inLKe8lilK",
+    "_id": "37o1dSs0iUEgbGozK6mL0EdvTIB"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34EBYgA9iyJ2RwC6yAfWZRZHL3C",
+    "_id": "37o1dPhkXUlKlke1xLrSWivxlWU"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c5EY0UqZW2czjvNnxwPaIWl",
+    "_id": "37o1dPrxXY4ESAaFWJQiT8fbF18"
+  },
+  "variants": [
+    {
+      "_id": "37o1dO1IduQxF83aWLZRIIwoLL4",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dRJZbYCdoCeAf6g43Ctryg5",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c4SIcRNQBBVeNBPLfuOwjob",
+        "_id": "37o1dRF8HAhjfkaFElLGYVSu6AP"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bzmnwj4u4CFSPLklQ5WWVVG",
+        "_id": "37o1dPwk4TzNd6eGaes4RtoIXyX"
+      }
+    }
+  ]
+}

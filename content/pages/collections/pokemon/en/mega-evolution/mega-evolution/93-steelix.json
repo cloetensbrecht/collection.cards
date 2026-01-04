@@ -1,0 +1,68 @@
+{
+  "_id": "37o1dUxrsWweCYeDbWp5x5koslv",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Steelix",
+  "number": "93",
+  "edgeColor": "#97999b",
+  "rarity": "rare",
+  "cardtype": "pokemon",
+  "hp": 200,
+  "energy": "metal",
+  "stage": "stage1",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSnOmCArbDqk0get0BpkYBd",
+    "_id": "37o1dNSjnIYX2PuSLJx6UjK9RVk"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdnbkPf4vXYkE8OI8gnjIlV7Z",
+    "_id": "37o1dRqItPOJ3ENC3h5llqpGp3C"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c7KAYWvqYy6qRlaYcZ12QTs",
+    "_id": "37o1dTwlIKdojCqNlKEyGZs9YoB"
+  },
+  "variants": [
+    {
+      "_id": "37o1dOrocF4PNzHM2fnT8ZepSrp",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0QocglSPVJn3Kez1GExxNH",
+        "_id": "37o1dQmYtZKQcoxCTNVHKhjH8hR"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c6GLGn9p1HgeVeAADDnZs4z",
+        "_id": "37o1dR37rdbNOe0ipKS9PLW5cUk"
+      }
+    },
+    {
+      "_id": "37o1dUbQFPEO4p8rolWotrfdnzk",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cFA54qP54JyVN78MTEa2V7u",
+        "_id": "37o1dRVmvpoIcQ5xY4HPgP0IHhk"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c7TELxE11TiQbGALFr6rE1x",
+        "_id": "37o1dTox7HEMndfi1CTwjrFDopr"
+      }
+    }
+  ]
+}

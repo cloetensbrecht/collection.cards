@@ -1,0 +1,46 @@
+{
+  "_id": "37o1dTV1sEqkquR4Gxdv6f1qzvX",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Mega Kangaskhan ex",
+  "number": "104",
+  "edgeColor": "#97999b",
+  "rarity": "double-rare",
+  "cardtype": "pokemon",
+  "hp": 300,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": true,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vWmw98oNnKQtVa4Sd9tUkwdMW",
+    "_id": "37o1dS9akMYam2nzQNftpNPpC33"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c0mNVAcEGRXVeG1HyhVpzIx",
+    "_id": "37o1dUzFkB6iy1lorULEIysHLjn"
+  },
+  "variants": [
+    {
+      "_id": "37o1dU67VMktSyuZgUAlDBnFVPG",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c73itOgXSNqeusNKuxoZbQd",
+        "_id": "37o1dPscApmevYUQevbza0sTdhl"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c1aQuzjC6SC3mDWjv809dxd",
+        "_id": "37o1dNLyN6nN1IdAQEOAyyGT52G"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dUqzg4DdxBNGqwcxcu6I8qK",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Surfing Beach",
+  "number": "129",
+  "edgeColor": "#97999b",
+  "rarity": "uncommon",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "stadium",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZDiCauBlUuRJ1IRKwZaoYqp8",
+    "_id": "37o1dUOfCoiGAQfKqhRv7qNS4Md"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1cHY9L8A0u3ualkbCzelujnW",
+    "_id": "37o1dOh76THdJ4POMeTB8VNsHLm"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPu3RQDxUcQG4aDTzubAdsi",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dR9R0dfAtRkKt5dGXDWP9Gu",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cON7KikvOiYknFABPUBiOdD",
+        "_id": "37o1dTPHQ7p7LclQVWDQ13kh3Gh"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cSGhoevXxNC3gd4L9UH9p8j",
+        "_id": "37o1dU9iNN3BMCW2edrR6zQOgXn"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dR6v4owr9zVdCzTmuv2seAU",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Sizzlipede",
+  "number": "29",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "fire",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRWGkBwPn2UuaHI2LpBjHxM",
+    "_id": "37o1dO1xsSexEukPLVrM60J6jZ8"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vdB15Dd9uB2wt8to7YduIXBVi",
+    "_id": "37o1dNgbcvFmYRvTIR4KVa50uMf"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bw1V5KIszPfDbTCqmR4dVKI",
+    "_id": "37o1dSAeQqq5DjA8bjuLsydkEX4"
+  },
+  "variants": [
+    {
+      "_id": "37o1dObg19TJaRqV07vxH3p8d7Y",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dT6ycIB162NaMwcO6KEKlHU",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c0oevTzftjTpqNiSSmozjfH",
+        "_id": "37o1dRNPpjGzDJVQYTpCgNVz3sO"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c3RdvgEvp0jRj95klnreMIc",
+        "_id": "37o1dTyVdltsujVXdbl9VAxiiAp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRZYzeyI6K9JkCe9aI97CVK",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Gimmighoul",
+  "number": "67",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 70,
+  "energy": "psychic",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRC1LZpPDe1IjJzGbs84UNZ",
+    "_id": "37o1dTkQ7i5uQHdbtco29zjqOAI"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vaWnMgheZxFmcwQVMnWgjG5Rh",
+    "_id": "37o1dQE3Ui9JezKz7dX2mMXNwgp"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c16LDdYdV2bHnZhMpQfTy3e",
+    "_id": "37o1dSA8z5wKeVdRMaLoyiVYDXP"
+  },
+  "variants": [
+    {
+      "_id": "37o1dU1lOuQYRBVwNvQgknENVzx",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQH6Q8jclFlrYZEYoRdbLSY",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c5yP3fGwUhqoPhEA0KJEzNq",
+        "_id": "37o1dRZDZzvu2IO1gBf8u8tDTZb"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4qvYFw6COvJZqkzxNRpLZN",
+        "_id": "37o1dRKByoHaZ8Qsiw7M1XEGkvo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dPEtLPp6IqxwgjhMHX5mDxA",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Onix",
+  "number": "70",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "fighting",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGTFK2w5MMiIUxEPvEWusYSo",
+    "_id": "37o1dUxm6AUxVoHwLjZEfbfXad3"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vY4lW5LvgZz8iymCRDST4DvHG",
+    "_id": "37o1dNXdFP5ACHR2KU8vPPYUher"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1btgt39kZTUMfaht9lQQPg2H",
+    "_id": "37o1dQIBS1lbRwVN2hhU6xO3CjQ"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNzwVpU7Od17fMtt6QHd79r",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dNjBmly6Pu0Pkzge3P0IVYJ",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c3dgP5cFaQavsOnoSfa15vZ",
+        "_id": "37o1dTqtBm5QqaDKUVpQIUejcU5"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c4hC3OYjctHhqa20yL5qIzb",
+        "_id": "37o1dNUhPWsbMWhZPcbBq4zy6QL"
+      }
+    }
+  ]
+}

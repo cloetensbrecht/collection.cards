@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dRU8RV6ByrqnLW8c4rIQ1dk",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Clauncher",
+  "number": "37",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "water",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGRSiZo4s521EJIStpej4OE9",
+    "_id": "37o1dPhvsegkXLRA0vd1KcFc7v8"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZu8JRiESEdhPrb9W3jIB05Cv",
+    "_id": "37o1dQqS5QKk45MOkIaNW5A98vw"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1bswnv44eP7PHgTaOGR8pSpQ",
+    "_id": "37o1dRfCZTDEghDz6jEI4ArbcOW"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPjKzwumOFjhHyYgXzoacei",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQBYY8h24jBtAlHRdmNmFQm",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1c7JOythlztlbhA2TCPXhQxv",
+        "_id": "37o1dRSLUrVpPAlvKPY7ft5Of6V"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1c7ALTIqfngQqkM6TV4GlJst",
+        "_id": "37o1dSNTauTgyKZfR9BPwcpddm4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dTidSWPaRMmf2QbAwTPJ07V",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Tangela",
+  "number": "6",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 80,
+  "energy": "grass",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGVTbxbaEbanjOBz3nymMUXC",
+    "_id": "37o1dTjn9XkMeYQYLFy6lopczgF"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "34ECEdt3270NnDZOB8QfU5xWsTT",
+    "_id": "37o1dTU23N7m6g0jMkciTnjKKCg"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1boAp65Pu4xtz6U1qWoxXDma",
+    "_id": "37o1dTBrERU4UlJymfj6KrxapvP"
+  },
+  "variants": [
+    {
+      "_id": "37o1dPTglODsqG0lx1bKJOGx27K",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dQ2slGI8oXubpj9wQEcx9Vn",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1bwfmGkYRLkrBzvFgFScixKw",
+        "_id": "37o1dQ6T863HeuE0rjLOWFGObCy"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1bwCCwfWy7UOnVXrhoIcC9Lr",
+        "_id": "37o1dROKwisE0Bs14j440vBaYkc"
+      }
+    }
+  ]
+}

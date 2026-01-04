@@ -1,0 +1,58 @@
+{
+  "_id": "37o1dQWnZS3tz6CefP5nI73Jct8",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Miltank",
+  "number": "106",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "pokemon",
+  "hp": 120,
+  "energy": "colorless",
+  "stage": "basic",
+  "subtype": null,
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "pokemon": {
+    "_type": "entry",
+    "_entry": "36dmGSX4N3X4PvdwmkzrjXDWcrt",
+    "_id": "37o1dRCy7Kr7F1jBkxbD6MCKjzu"
+  },
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "37iiPMjPa61avA2oQYIHxpHHgY5",
+    "_id": "37o1dRl2X7ZxgI8YpHt25kDZ8ku"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c9Xz3f8eOYnWL5XDWXCds7s",
+    "_id": "37o1dNzngaB0OV4YHXGyVJEdBYl"
+  },
+  "variants": [
+    {
+      "_id": "37o1dQPoqSOByRAgAx8TeQvHO7p",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dStoL9VeoqlLlXMAXMUaQY6",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cB6042BPFnrmSKUNXuPEtIg",
+        "_id": "37o1dU2Zf9Fy9Q2TPGlD0eJ6Uqr"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cCMlcGxlTBNtzQBI8gP5mv0",
+        "_id": "37o1dUNGDDQwOdSZzfZVp9sYokw"
+      }
+    }
+  ]
+}

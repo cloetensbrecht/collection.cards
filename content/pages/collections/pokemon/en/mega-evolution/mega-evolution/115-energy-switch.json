@@ -1,0 +1,53 @@
+{
+  "_id": "37o1dOCDSVDlNpDO4TtK8304i5c",
+  "_type": "PokemonCard",
+  "_index": "a0",
+  "title": "Energy Switch",
+  "number": "115",
+  "edgeColor": "#97999b",
+  "rarity": "common",
+  "cardtype": "trainer",
+  "hp": null,
+  "energy": null,
+  "stage": null,
+  "subtype": "item",
+  "isEx": false,
+  "isTrainerGallery": false,
+  "isFullArt": false,
+  "illustrator": {
+    "_type": "entry",
+    "_entry": "33vZAqyuU8Gja4OXFzcQJArULvr",
+    "_id": "37o1dOoY0TZjJuWJ2LStBHOOIqf"
+  },
+  "card": {
+    "_type": "image",
+    "_entry": "37o1c7zS0Z0ThoPjCI2pvpf911A",
+    "_id": "37o1dT6Zw3tcGznEbraS4gMNjAd"
+  },
+  "variants": [
+    {
+      "_id": "37o1dNOWr2Gr8uMLgBnRvTiEqfc",
+      "_index": "a0",
+      "_type": "Variant",
+      "variant": "normal",
+      "pattern": null
+    },
+    {
+      "_id": "37o1dPsbKO2WaX7qbIQdLPZelCh",
+      "_index": "a1",
+      "_type": "Variant",
+      "variant": "reverse_holofoil",
+      "pattern": null,
+      "foil": {
+        "_type": "image",
+        "_entry": "37o1cDmjjRhezKboa5yzL1LaO0G",
+        "_id": "37o1dRWNyluwGlDeYyBQeDdKD24"
+      },
+      "mask": {
+        "_type": "image",
+        "_entry": "37o1cC1QkbfbKbQkQuKaoxIbhZk",
+        "_id": "37o1dQhBtMCrsCDg3PeDctzbBCT"
+      }
+    }
+  ]
+}

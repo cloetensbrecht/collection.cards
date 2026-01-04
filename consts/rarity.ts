@@ -21,6 +21,7 @@ export const rarity = {
   'illustration-rare': 'Illustration Rare',
   'special-illustration-rare': 'Special Illustration Rare',
   'hyper-rare': 'Hyper Rare',
+  'mega-hyper-rare': 'Mega Hyper Rare',
   'black-white-rare': 'Black White Rare'
 }
 
