@@ -1,3 +1,4 @@
+import MegaHyperRare from '@/assets/icons/pokemon/rarities/MegaHyperRare'
 import AceSpecRare from '@/icons/pokemon/rarities/AceSpecRare'
 import BlackWhiteRare from '@/icons/pokemon/rarities/BlackWhiteRare'
 import Common from '@/icons/pokemon/rarities/Common'
@@ -49,5 +50,7 @@ export const getRarityIcon = (rarity: Rarity) => {
       return AceSpecRare
     case 'hyper-rare':
       return HyperRare
+    case 'mega-hyper-rare':
+      return MegaHyperRare
   }
 }
