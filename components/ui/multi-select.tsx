@@ -160,14 +160,14 @@ const MultipleSelector = ({
 
   const options = transToGroupOption(arrayDefaultOptions, groupBy)
 
-  const handleClickOutside = (event: MouseEvent | TouchEvent) => {
-    if (
-      dropdownRef.current &&
-      !dropdownRef.current.contains(event.target as Node)
-    ) {
-      setOpen(false)
-    }
-  }
+  // const handleClickOutside = (event: MouseEvent | TouchEvent) => {
+  //   if (
+  //     dropdownRef.current &&
+  //     !dropdownRef.current.contains(event.target as Node)
+  //   ) {
+  //     setOpen(false)
+  //   }
+  // }
 
   const handleUnselect = React.useCallback(
     (option: Option) => {
@@ -178,20 +178,20 @@ const MultipleSelector = ({
     [onChange, selected]
   )
 
-  useEffect(() => {
-    if (open) {
-      document.addEventListener('mousedown', handleClickOutside)
-      document.addEventListener('touchend', handleClickOutside)
-    } else {
-      document.removeEventListener('mousedown', handleClickOutside)
-      document.removeEventListener('touchend', handleClickOutside)
-    }
+  // useEffect(() => {
+  //   if (open) {
+  //     document.addEventListener('mousedown', handleClickOutside)
+  //     document.addEventListener('touchend', handleClickOutside)
+  //   } else {
+  //     document.removeEventListener('mousedown', handleClickOutside)
+  //     document.removeEventListener('touchend', handleClickOutside)
+  //   }
 
-    return () => {
-      document.removeEventListener('mousedown', handleClickOutside)
-      document.removeEventListener('touchend', handleClickOutside)
-    }
-  }, [open])
+  //   return () => {
+  //     document.removeEventListener('mousedown', handleClickOutside)
+  //     document.removeEventListener('touchend', handleClickOutside)
+  //   }
+  // }, [open])
 
   const selectables = React.useMemo<GroupOption>(
     () => removePickedOption(options, selected),
@@ -328,10 +328,7 @@ const MultipleSelector = ({
         </div>
         <Dialog.Portal>
           <Dialog.Overlay
-            className={cn(
-              'fixed inset-0 pointer-events-none bg-transparent',
-              open && 'z-10'
-            )}
+            className={cn('fixed inset-0 bg-transparent', open && 'z-10')}
           />
           <Dialog.Content
             className={cn(
@@ -367,7 +364,7 @@ const MultipleSelector = ({
                         key={option.value}
                         value={option.value}
                         disabled={option.disable}
-                        onMouseDown={e => {
+                        onPointerDown={e => {
                           e.preventDefault()
                           e.stopPropagation()
                         }}
