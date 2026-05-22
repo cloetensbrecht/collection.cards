@@ -18,12 +18,10 @@ const PAPER_SIZES: Record<
 
 export const contentType = 'image/png'
 
-// Prerender at build time and cache forever (content-addressed by params).
-// New sets added after build are generated on-demand and then cached via ISR.
-export const dynamic = 'force-static'
+// Generate on request; cache is controlled via response headers.
+export const dynamic = 'force-dynamic'
 export const revalidate = false
-export const dynamicParams = false
-export const fetchCache = 'force-cache'
+export const dynamicParams = true
 
 type SetFile = {
   _id?: string
@@ -89,9 +87,6 @@ const CACHE_HEADERS = {
   'Cache-Control':
     'public, max-age=31536000, s-maxage=31536000, stale-while-revalidate=86400, immutable'
 }
-
-const TRANSPARENT_PIXEL =
-  'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMB/at2Qm0AAAAASUVORK5CYII='
 
 let setIndexPromise: Promise<SetIndex> | null = null
 
@@ -176,21 +171,14 @@ async function loadSetIndex(): Promise<SetIndex> {
   return setIndexPromise
 }
 
-export async function generateStaticParams() {
-  const {sets} = await loadSetIndex()
-  return Array.from(sets.values()).flatMap(({id}) =>
-    SIZES.map(size => ({set: id, size}))
-  )
-}
-
 export async function GET(
-  _request: Request,
+  request: Request,
   {params}: {params: Promise<{set: string; size: string}>}
 ) {
   const {set, size} = await params
 
   const normalized = size.toLowerCase() as (typeof SIZES)[number]
-  if (normalized !== 'a4' && normalized !== 'letter') {
+  if (!SIZES.includes(normalized)) {
     return NextResponse.json(
       {error: "Invalid size. Must be 'a4' or 'letter'"},
       {status: 400}
@@ -210,28 +198,11 @@ export async function GET(
 
   const {width, height} = PAPER_SIZES[normalized]
 
-  const logoUrl = process.env.PUBLIC_SITE_URL
-    ? `${process.env.PUBLIC_SITE_URL}/media${logo.src}`
-    : null
-  let logoSrc: string = TRANSPARENT_PIXEL
-
-  if (logoUrl) {
-    try {
-      const res = await fetch(logoUrl, {cache: 'force-cache'})
-      const mime = res.headers.get('content-type')
-      if (res.ok && mime?.startsWith('image/')) {
-        const buf = Buffer.from(await res.arrayBuffer())
-        logoSrc = `data:${mime};base64,${buf.toString('base64')}`
-      }
-    } catch {
-      // Keep transparent fallback image to avoid breaking prerender.
-    }
-  }
-
   const sourceWidth = logo.width ?? 1
   const sourceHeight = logo.height ?? 1
   const targetLogoWidth = (width / 100) * logoWidthPercentage
   const targetLogoHeight = (sourceHeight * targetLogoWidth) / sourceWidth
+  const logoUrl = new URL(`/media${logo.src}`, request.url).toString()
 
   return new ImageResponse(
     <div
@@ -275,8 +246,10 @@ export async function GET(
         />
       </svg>
       <img
-        src={logoSrc}
+        src={logoUrl}
         alt={logo.title || setData.title}
+        width={targetLogoWidth}
+        height={targetLogoHeight}
         style={{
           width: `${targetLogoWidth}px`,
           height: `${targetLogoHeight}px`,
@@ -287,12 +260,7 @@ export async function GET(
     {
       width,
       height,
-      headers: {
-        ...CACHE_HEADERS,
-        'Content-Disposition': `attachment; filename="collection-cards-binder-front-${size.toLowerCase()}-${
-          setData.slug
-        }.png"`
-      }
+      headers: CACHE_HEADERS
     }
   )
 }
